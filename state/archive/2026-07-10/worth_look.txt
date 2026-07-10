@@ -1,0 +1,152 @@
+=== WORTH A LOOK ===
+
+--- Run at 19:26:57 (21 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  70/100
+  Pflichtpraktikum Digitalisierung im Automotive-Einkauf
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering and experience in machine learning, artificial intelligence, and data analysis align with the job requirements, but the role's emphasis on fluent German and specific tools like dbt, SQL, and MS Power BI are not strongly evident in the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136237800
+────────────────────────────────────────────────
+  Score:  70/100
+  Robot Perception/ML Engineer (f/m/d) Autonomous Mobile Robots
+  @ Magazino – a Jungheinrich company  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with machine learning, deep learning, and Python are relevant to the role, but the candidate's experience is not directly in robotics perception and the role requires 2-5 years of professional experience, which the candidate partially meets.
+  URL:    https://www.linkedin.com/jobs/view/4436601187
+────────────────────────────────────────────────
+  Score:  70/100
+  Werkstudent Bremsenentwicklung
+  @ Tenneco  ·  Bad Camberg, Hesse, Germany
+  Source: LinkedIn
+  Reason: The candidate's master's studies in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems align with the job requirements, but the role's location in Bad Camberg, Hesse, Germany, does not match the candidate's preferred locations, and the candidate's German language skills are not explicitly stated as C1 or higher.
+  URL:    https://www.linkedin.com/jobs/view/4427186515
+────────────────────────────────────────────────
+  Score:  70/100
+  DATA SCIENTIST (M/F/D)
+  @ AI.Associates  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in Python, PyTorch, and TensorFlow match the job requirements, and their experience in machine learning and data analysis is relevant, but the role's preference for a B.S. degree and more extensive professional experience are gaps.
+  URL:    https://www.linkedin.com/jobs/view/4437992733
+────────────────────────────────────────────────
+  Score:  70/100
+  Praktikum in technischem Vertrieb Automatisierungstechnik und Robotik
+  @ bosch  ·  Mörfelden-Walldorf, HE, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with Machine Learning, Artificial Intelligence, and Automotive Systems aligns with the job posting's focus on Automatisierungstechnik and Robotik, but the role's emphasis on German language proficiency and specific experience with ctrlX AUTOMATION Plattform are not fully met.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137096942
+────────────────────────────────────────────────
+  Score:  70/100
+  Master Thesis Enhanced MIMO Waveguide Antenna Arrays for Automotive Radar
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems align with the job posting, but the location and company do not perfectly match the candidate's preferences.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000120676837
+────────────────────────────────────────────────
+  Score:  70/100
+  Praktikum in der Entwicklung von Sensoren für Automotive Anwendungen auf Geräteebene
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems align with the job posting, but the location and language preference are not perfectly matched.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135953049
+────────────────────────────────────────────────
+  Score:  70/100
+  Research Engineer - Large Language Models for Multi-agent Systems (f/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with Machine Learning, Artificial Intelligence, and Data Analysis align with the job requirements, but the role's emphasis on Large Language Models and multi-agent systems is not directly reflected in the candidate's profile, and the candidate is a student with less than 3 years of professional experience.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133404989
+────────────────────────────────────────────────
+  Score:  70/100
+  Bachelorarbeit LLM-gestützte Automatisierung der Daten-aufbereitung - Machine Learning Pipelines
+  @ bosch  ·  Ulm, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering and experience with Machine Learning, Artificial Intelligence, and Automotive Systems align well with the job posting, but the location and language requirements are not perfectly matched.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137121039
+────────────────────────────────────────────────
+  Score:  70/100
+  Praktikum Machine Learning, Graph-Datenbanken und UX-Prototyping bei Bosch eBike Systems
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and experience with TensorFlow and PyTorch align with the job requirements, but the location is not a preferred match and the role's specific requirements for Graph-Datenbanken and UX-Prototyping are not directly mentioned in the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137098489
+────────────────────────────────────────────────
+  Score:  70/100
+  Werkstudent Autonomous Systems Test Driver (all genders)
+  @ Accenture DACH  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's master's degree in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems align with the job requirements, but the role's emphasis on fluent German and extensive driving experience are not fully met.
+  URL:    https://www.linkedin.com/jobs/view/4424219897
+────────────────────────────────────────────────
+  Score:  60/100
+  Applied Scientist / Machine Learning Engineer
+  @ Wolt - English  ·  Berlin,  Berlin,  Germany
+  Source: Arbeitnow
+  Reason: The candidate's skills in machine learning and artificial intelligence are relevant, but the job is not directly in the automotive engineering field.
+  URL:    https://www.arbeitnow.com/jobs/companies/wolt-english/applied-scientist-machine-learning-engineer-berlin-389240
+────────────────────────────────────────────────
+  Score:  60/100
+  Junior Flight Dynamics Modelling Engineer
+  @ TXT GROUP  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in automotive engineering and skills in machine learning and artificial intelligence are relevant, but the job is in a different industry.
+  URL:    https://www.linkedin.com/jobs/view/4438339173
+────────────────────────────────────────────────
+  Score:  60/100
+  Robot Perception/ML Engineer (w/f/d) Autonomous Mobile Robots
+  @ Magazino – a Jungheinrich company  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with Machine Learning, Artificial Intelligence, and Python are relevant, but the role requires more professional experience and the candidate is currently a student.
+  URL:    https://www.linkedin.com/jobs/view/4436607135
+────────────────────────────────────────────────
+  Score:  60/100
+  PhD – Agentic AI and Multi-Agent Systems
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence aligns with the PhD role's requirements, but lacks direct experience in agentic AI, multi-agent systems, and large language models.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135185169
+────────────────────────────────────────────────
+  Score:  60/100
+  Praktikum Automotive Quality (Qualität im Einkauf)
+  @ bosch  ·  Ansbach, BAYERN, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in quality control and production engineering align with the job posting, but the location and language requirements are not perfectly matched.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131652434
+────────────────────────────────────────────────
+  Score:  60/100
+  Systems Engineer, Infrastructure (m/f/d)
+  @ AutoScout24  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in Machine Learning and Artificial Intelligence are relevant, but the role's focus on infrastructure may not be a direct match for their automotive engineering background.
+  URL:    https://www.linkedin.com/jobs/view/4429644787
+────────────────────────────────────────────────
+  Score:  60/100
+  Werkstudent Kundenservice und Business Development BMW Motorrad (w/m/x)
+  @ BMW Group  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence are relevant, but the role's focus on business development and customer service is not directly aligned with the candidate's skills and experience.
+  URL:    https://www.linkedin.com/jobs/view/4427860076
+────────────────────────────────────────────────
+  Score:  60/100
+  Werkstudent Einkauf Ausstattung Unterboden (w/m/x)
+  @ BMW Group  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance to the role, but the job posting's emphasis on Einkauf and Sourcing-Strategien, which are not directly mentioned in the candidate's CV, creates a gap.
+  URL:    https://www.linkedin.com/jobs/view/4417619667
+────────────────────────────────────────────────
+  Score:  60/100
+  Development Engineer Power Semiconductors Automotive (f/m/div.)
+  @ bosch  ·  Dresden, SN, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with Machine Learning, Artificial Intelligence, and Automotive Systems align with the job posting, but the role's location in Dresden and potential German language requirements may not match the candidate's preferences.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000120421887
+────────────────────────────────────────────────
+  Score:  60/100
+  Application Engineer Fahrzeugtechnik & Homologation (all gender)
+  @ ALTEN Germany  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's master's degree in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems are relevant to the job posting, but the role requires more professional experience and the candidate's language preference does not guarantee fluent German.
+  URL:    https://www.linkedin.com/jobs/view/4420726475
+

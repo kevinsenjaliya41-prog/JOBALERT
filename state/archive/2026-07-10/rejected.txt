@@ -1,0 +1,1615 @@
+=== AUTO-REJECTED ===
+
+--- Run at 19:26:57 (230 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  10/100
+  Haustechniker Gebäudetechnik (m/w/d)
+  @ MY Humancapital GmbH  ·  Munich
+  Source: Arbeitnow
+  Reason: preferred location
+  URL:    https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/haustechniker-gebaudetechnik-munich-119389
+────────────────────────────────────────────────
+  Score:   0/100
+  (Senior) AI Engineer / MLOps Engineer (w/m/d)
+  @ Right Search  ·  Munich
+  Source: Arbeitnow
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.arbeitnow.com/jobs/companies/right-search/senior-ai-engineer-mlops-engineer-munich-86006
+────────────────────────────────────────────────
+  Score:   0/100
+  Techniker Systemintegration / Mechatronik (m/w/d)
+  @ MY Humancapital GmbH  ·  Munich
+  Source: Arbeitnow
+  Reason: Skipped — fluent German required
+  URL:    https://www.arbeitnow.com/jobs/companies/my-humancapital-gmbh/techniker-systemintegration-mechatronik-munich-424558
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Software Engineer (m/f/d) Perception & Autonomous Systems
+  @ MOTOR Ai  ·  Berlin
+  Source: Arbeitnow
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.arbeitnow.com/jobs/companies/motor-ai/senior-software-engineer-perception-autonomous-systems-berlin-426413
+────────────────────────────────────────────────
+  Score:  10/100
+  Teiledienstmitarbeiter (m/w/d)
+  @ Volkswagen Automobile Hamburg  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4417226434
+────────────────────────────────────────────────
+  Score:   0/100
+  Vehicle Test Engineer - ADAS (m/f/d)
+  @ SEGULA Technologies  ·  Raunheim, Hesse, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4430920639
+────────────────────────────────────────────────
+  Score:  14/100
+  Konstruktionsingenieur Fahrzeugtechnik (m/w/d)
+  @ Oehmichen & Bürgers Industrieplanung GmbH  ·  Düsseldorf, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: keyword bonus: 2; preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439097331
+────────────────────────────────────────────────
+  Score:  10/100
+  Systemingenieur Fahrzeug- und Technologiestudien (w/m/d)
+  @ Brunel  ·  Frankfurt am Main, Hesse, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439071142
+────────────────────────────────────────────────
+  Score:  10/100
+  Erprobungsingenieur Gesamtfahrzeug - Inbetriebnahme Sonderfahrzeuge (w/m/d)
+  @ MAN Truck & Bus SE  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438344535
+────────────────────────────────────────────────
+  Score:  12/100
+  Ingenieur/ Techniker für Fahrerassistenzsysteme/ Autonomes Fahren (m/w/d)
+  @ Bertrandt Group  ·  Immendingen, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: keyword bonus: 1; preferred location
+  URL:    https://www.linkedin.com/jobs/view/4398247416
+────────────────────────────────────────────────
+  Score:   0/100
+  AI & ML Engineer (f/m/d)
+  @ B. Braun Group  ·  Melsungen, Hesse, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4428060497
+────────────────────────────────────────────────
+  Score:   0/100
+  Machine Learning Engineer*
+  @ TOMRA  ·  Mülheim, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4430921646
+────────────────────────────────────────────────
+  Score:  10/100
+  Data Scientist
+  @ Oliver Bernard  ·  Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4435984069
+────────────────────────────────────────────────
+  Score:  10/100
+  Founding Data Scientist
+  @ Cubiq Recruitment  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4411580729
+────────────────────────────────────────────────
+  Score:  10/100
+  Data Scientist
+  @ Almedia  ·  Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4343355220
+────────────────────────────────────────────────
+  Score:  10/100
+  AI Developer
+  @ Cubiq Recruitment  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4435964680
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior ML Engineer (JetBrains Research)
+  @ JetBrains  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4348853050
+────────────────────────────────────────────────
+  Score:   0/100
+  (Senior) AI & Generative AI Engineer (all genders)
+  @ MHP – A Porsche Company  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4389252736
+────────────────────────────────────────────────
+  Score:  10/100
+  CNC-Zerspanungsmechaniker (m/w/d) – 5-Achs-Bearbeitung / Siemens / SolidCAM
+  @ Brecht Feinmechanik GmbH  ·  Wannweil, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439067938
+────────────────────────────────────────────────
+  Score:  10/100
+  Zerspanungsmechaniker/CNC-Fachkraft (m/w/d)
+  @ GERB HQ Germany  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439060219
+────────────────────────────────────────────────
+  Score:  10/100
+  Montagemeister (m/w/d) für Werkzeugmaschinen
+  @ GSN Maschinen-Anlagen-Service GmbH  ·  Rottenburg, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439052047
+────────────────────────────────────────────────
+  Score:  10/100
+  CNC-Einrichter Fräsen (m/w/d)
+  @ Bricon Technology GmbH  ·  Wurmlingen, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4435986174
+────────────────────────────────────────────────
+  Score:  10/100
+  Konventioneller Dreher / Zerspanungsmechaniker (m/w/d)
+  @ Norton Abrasives D-A-CH  ·  Gerolzhofen, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439016947
+────────────────────────────────────────────────
+  Score:  10/100
+  Einrichter Kunststoffteilefertigung (m/w/d)
+  @ WAGO  ·  Sondershausen, Thuringia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4435997523
+────────────────────────────────────────────────
+  Score:  10/100
+  Zerspanungsmechaniker (m/w/d) für den Standort Gründau
+  @ VOSS Fluid  ·  Gründau, Hesse, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4437997366
+────────────────────────────────────────────────
+  Score:  10/100
+  Verfahrensmechaniker für Kunststoff- und Kautschuktechnik (m/w/d)
+  @ Nowack GmbH  ·  Lohne, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439049253
+────────────────────────────────────────────────
+  Score:  10/100
+  CNC-Fräser / Zerspanungsmechaniker (m/w/d)
+  @ IREMA-Filter GmbH  ·  Postbauer-Heng, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439043991
+────────────────────────────────────────────────
+  Score:  10/100
+  Zerspanungsmechaniker (m/w/d) CNC-Fräsen
+  @ Blum-Novotest India  ·  Grünkraut, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4435989406
+────────────────────────────────────────────────
+  Score:  10/100
+  Volkswagen Kfz-Mechatroniker (w/m/d)
+  @ Volkswagen Automobile Berlin GmbH  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4417210738
+────────────────────────────────────────────────
+  Score:  10/100
+  Volkswagen Servicetechniker (m/w/d)
+  @ Volkswagen Automobile Berlin GmbH  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4417207793
+────────────────────────────────────────────────
+  Score:  10/100
+  Servicetechniker Anlagentechnik (m/w/d)
+  @ Leipzig/Halle Airport  ·  Dresden, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438317667
+────────────────────────────────────────────────
+  Score:  10/100
+  Servicetechniker im Außendienst (m|w|d) mit Sitz im Raum München
+  @ Miltenyi Biotec  ·  Bergisch Gladbach, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4403938480
+────────────────────────────────────────────────
+  Score:  10/100
+  Audi Servicetechniker (m/w/d)
+  @ Audi Berlin GmbH  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4417208791
+────────────────────────────────────────────────
+  Score:  10/100
+  Servicetechniker im Außendienst (m|w|d) mit Sitz Süddeutschland
+  @ Miltenyi Biotec  ·  Bergisch Gladbach, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4437076049
+────────────────────────────────────────────────
+  Score:  10/100
+  Servicetechniker (m/w/d) in Vollzeit
+  @ Karl Heesemann Maschinenfabrik GmbH & Co. KG  ·  Bad Oeynhausen, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439069868
+────────────────────────────────────────────────
+  Score:  10/100
+  Servicetechniker (m/w/d) für Werkzeugmaschinen
+  @ GSN Maschinen-Anlagen-Service GmbH  ·  Mosbach, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439034912
+────────────────────────────────────────────────
+  Score:  10/100
+  Servicetechniker
+  @ Viceroy Engineering  ·  Dortmund, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439089126
+────────────────────────────────────────────────
+  Score:  10/100
+  Betriebselektriker (m/w/d)
+  @ Sika  ·  Frankfurt, Hesse, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4435983488
+────────────────────────────────────────────────
+  Score:  10/100
+  Systemingenieur:in
+  @ STAR Specialists  ·  Upper Bavaria, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4435970480
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Systems engineer - Optical Metrology - Up to €90k
+  @ Optimus Search  ·  Dresden, Saxony, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4435982276
+────────────────────────────────────────────────
+  Score:   0/100
+  (Senior) Systemingenieur Avionik (m/w/d)
+  @ IABG  ·  Ottobrunn, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4419164010
+────────────────────────────────────────────────
+  Score:  10/100
+  Service- und Supportingenieur für Photovoltaik (m/w/d)
+  @ ErEne Green Technologies GmbH  ·  Mettmann, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4435981366
+────────────────────────────────────────────────
+  Score:   0/100
+  Account Executive Manufacturing Co-Intelligence (f/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000122618998
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Account Executive Manufacturing Co-Intelligence (f/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Senior'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000122618668
+────────────────────────────────────────────────
+  Score:   0/100
+  Werkstudent im Bereich Vertrieb Automatisierungstechnik (w/m/div.)
+  @ bosch  ·  Garching bei München, BY, de
+  Source: bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136772849
+────────────────────────────────────────────────
+  Score:   2/100
+  Entwicklungsingenieur Automatisierungstechnik (m/w/div.) 
+  @ bosch  ·  Homburg, SL, de
+  Source: bosch (Direct)
+  Reason: keyword bonus: 1
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136266211
+────────────────────────────────────────────────
+  Score:  13/100
+  Dualer Master (M.Eng.) - Systems Engineering - Fachrichtung Elektrotechnik im Technischen Backoffice
+  @ bosch  ·  Mainz, RP, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135679939
+────────────────────────────────────────────────
+  Score:  13/100
+  Dualer Master (M.Eng.) Systems Engineering - Elektrotechnik im Bereich Produktmanagement
+  @ bosch  ·  Wetzlar, HE, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135676550
+────────────────────────────────────────────────
+  Score:   0/100
+  Advanced Expert Reliability Engineering (w/m/div) 
+  @ bosch  ·  Dresden, SN, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135652639
+────────────────────────────────────────────────
+  Score:  10/100
+  Forschungsingenieur:in – Große Sprachmodelle für Multi-Agenten-Systeme (f/m/div.) (w/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: skills: Machine Learning; keyword bonus: 1; +1 core-strength terms
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133405119
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum im Bereich der Kunststoffverfahrenstechnik
+  @ bosch  ·  Eisenach, TH, de
+  Source: bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133014649
+────────────────────────────────────────────────
+  Score:   0/100
+  Research Engineer Foundation Model ML Ops (f/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132818289
+────────────────────────────────────────────────
+  Score:   0/100
+  Tech Lead for AI Feature Development in Cloud‑Based Industrial AI and Software Applications (f/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131891950
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Application Manager, Site Reliability Engineer (w/m/div.)
+  @ bosch  ·  Dresden, SN, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Senior'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128690084
+────────────────────────────────────────────────
+  Score:  13/100
+  Mandatory Internship UX/UI Design & Prototyping for Connected Products - Bosch eBike Systems
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128690569
+────────────────────────────────────────────────
+  Score:  13/100
+  Internship in Requirements Management - Bosch eBike Systems 
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127841615
+────────────────────────────────────────────────
+  Score:   0/100
+  IT-Experte für Engineering-Anwendungen (w/m/div.)
+  @ bosch  ·  Gunzenhausen, BY, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127411349
+────────────────────────────────────────────────
+  Score:   0/100
+  Master Thesis High-Speed PCB Test Structures for Resin Skew Characterization
+  @ bosch  ·  Schwieberdingen, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000123207737
+────────────────────────────────────────────────
+  Score:   0/100
+  Mandatory Internship AI-Based Arc Detection for Automotive Electrical Systems
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000122248117
+────────────────────────────────────────────────
+  Score:   0/100
+  PreMaster Programm - GapYear Industrial Engineering 
+  @ bosch  ·  Lohr am Main, BY, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121346857
+────────────────────────────────────────────────
+  Score:   0/100
+  Embedded Softwareentwickler für die Automatisierung mobiler Arbeitsmaschinen  (w/m/div.)
+  @ bosch  ·  Elchingen, BY, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134437399
+────────────────────────────────────────────────
+  Score:   0/100
+  Embedded-Softwareentwickler*in für die Automatisierung mobiler Arbeitsmaschinen (m/w/d) (w/m/div.)
+  @ bosch  ·  Elchingen, BY, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134254569
+────────────────────────────────────────────────
+  Score:   0/100
+  Project Leader Innovation and New Technologies at Bosch Management Consulting (f/m/div.)
+  @ bosch  ·  Gerlingen, BW, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134214328
+────────────────────────────────────────────────
+  Score:   0/100
+  Promotion – State of Health (SoH) von Elektronik
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132860189
+────────────────────────────────────────────────
+  Score:  13/100
+  Junior-Manager-Programm – Forschung & Entwicklung Mobile Hydraulik – Traineeprogramm (m/w/d) (w/m/div.)
+  @ bosch  ·  Gerlingen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132842209
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich R&D Mobilhydraulik
+  @ bosch  ·  Gerlingen, BW, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132839731
+────────────────────────────────────────────────
+  Score:   0/100
+  Technologie-Forschungsingenieur für Leistungshalbleiter (w/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136484576
+────────────────────────────────────────────────
+  Score:   0/100
+  PhD – Sicherheitsverträge für Physische KI (w/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137081169
+────────────────────────────────────────────────
+  Score:   0/100
+  PhD - Safety Contracts for Physical AI
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137080495
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Business Intelligence & Data Analytics
+  @ bosch  ·  Gerlingen, BW, de
+  Source: bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131143839
+────────────────────────────────────────────────
+  Score:   0/100
+  PhD - Cross-Domain Hyperspectral Anomaly Detection for Manufacturing (f/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000123382151
+────────────────────────────────────────────────
+  Score:  13/100
+  Junior Managers Program - Research & Development Mobile Hydraulics - Trainee Program (f/m/d)
+  @ bosch  ·  Gerlingen, BW, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000120910450
+────────────────────────────────────────────────
+  Score:   0/100
+  PhD position - Satellite-to-Vehicle Communication in 6G Networks
+  @ bosch  ·  Hildesheim, NDS, de
+  Source: bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134402849
+────────────────────────────────────────────────
+  Score:  10/100
+  PreMaster Programm - Project Purchasing 
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: preferred location
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127618181
+────────────────────────────────────────────────
+  Score:  40/100
+  Pflichtpraktikum im Bereich Automotive Einkauf - Supply Chain Risk Management
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and data analysis are relevant, but the role's focus on supply chain risk management and requirement for fluent German are not well-matched with the candidate's profile and skills.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131144039
+────────────────────────────────────────────────
+  Score:   0/100
+  Systems Engineer (m/w/d) in der Medizintechnik
+  @ MELAG Medizintechnik  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: The role requires experience in Medizintechnik, which is unrelated to the candidate's field of automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4435978672
+────────────────────────────────────────────────
+  Score:  40/100
+  Elektroniker:in / Mechatroniker:in / Elektriker:in als Servicetechniker:in
+  @ Deutsche Bahn  ·  Weil am Rhein, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and education are not directly applicable to the role, and the location is not preferred.
+  URL:    https://www.linkedin.com/jobs/view/4149093076
+────────────────────────────────────────────────
+  Score:  20/100
+  Elektroniker (w/m/d) für Betriebstechnik
+  @ Siemens  ·  Gotha, Thuringia, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems are relevant, but the job posting requires experience as an Elektroniker, which is not a direct match, and the location is not preferred by the candidate.
+  URL:    https://www.linkedin.com/jobs/view/4419082596
+────────────────────────────────────────────────
+  Score:   0/100
+  Elektriker / Elektroniker (m/w/d)
+  @ ENERCON  ·  Aachen, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: The role requires specific experience as an electrician or electronics engineer and the candidate's skills are more focused on automotive engineering and machine learning.
+  URL:    https://www.linkedin.com/jobs/view/4439025426
+────────────────────────────────────────────────
+  Score:  35/100
+  Elektroniker (m/w/d)
+  @ Johnson & Johnson MedTech  ·  Norderstedt, Schleswig-Holstein, Germany
+  Source: LinkedIn
+  Reason: title fits 'Elektroniker'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4411631897
+────────────────────────────────────────────────
+  Score:  40/100
+  Elektroniker / Mechatroniker (m/w/d)
+  @ Givaudan  ·  Dortmund, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and education are not directly applicable to the role, and the location is not preferred.
+  URL:    https://www.linkedin.com/jobs/view/4390306770
+────────────────────────────────────────────────
+  Score:  35/100
+  Elektriker/Elektroniker (m/w/d) Instandhaltung
+  @ Norsk Hydro  ·  Rackwitz, Saxony, Germany
+  Source: LinkedIn
+  Reason: title fits 'Elektroniker'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4419895986
+────────────────────────────────────────────────
+  Score:  40/100
+  Mandatory Internship in Purchasing Automotive Chips
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems are relevant, but the internship in Purchasing Automotive Chips at Bosch seems to require more specific experience in purchasing or supply chain management, which is not evident in the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121762367
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent (m/w/d) Explainerguide Museum
+  @ Porsche AG  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the role of a museum explainer guide, and the job requires fluent German which is not confirmed in the candidate's profile.
+  URL:    https://www.linkedin.com/jobs/view/4428215958
+────────────────────────────────────────────────
+  Score:  30/100
+  Werkstudent Marketing VW (m/w/d)
+  @ Volkswagen Automobile Berlin GmbH  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: title fits 'Werkstudent Automotive'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4417224548
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent (m/w/d) Purchasing
+  @ Valeo  ·  Bietigheim-Bissingen, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and experience are not directly applicable to the purchasing role.
+  URL:    https://www.linkedin.com/jobs/view/4419902206
+────────────────────────────────────────────────
+  Score:  30/100
+  Praktikum als Kfz-Mechatroniker (m/w/d)
+  @ Audi Hamburg  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: title fits 'Praktikum Automotive'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4417218596
+────────────────────────────────────────────────
+  Score:  40/100
+  Pflichtpraktikum im technischen Einkauf im Bereich des Innovationsmanagements
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence are relevant, but the job posting for Pflichtpraktikum im technischen Einkauf im Bereich des Innovationsmanagements at Bosch does not directly align with their skills and target titles, indicating a gap in role matching.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000122221232
+────────────────────────────────────────────────
+  Score:  40/100
+  Werkstudent in der technischen Kommunikation (w/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems align with the company's domain, but the job posting requires technical communication skills which are not explicitly mentioned in the candidate's profile, and the candidate's experience is more focused on engineering and production rather than technical communication.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136194219
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Marketing – Content & Corporate Communication (w/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not align with the marketing-focused role, and the role's location and company match the candidate's preferences but the job title and description do not match their target titles.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134233395
+────────────────────────────────────────────────
+  Score:  40/100
+  Werkstudent im Sales Planning & Reporting (w/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning and Artificial Intelligence are relevant, but the role in Sales Planning & Reporting at Bosch does not directly align with their technical background and experience in automotive engineering.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133189499
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in der Videoproduktion (w/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems do not align with the job posting for a Werkstudent in der Videoproduktion, and the role does not match their target titles or utilize their technical expertise.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133055539
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Community Management (w/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning and Artificial Intelligence do not align with the Community Management role, and there is no experience overlap in the CV.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132403410
+────────────────────────────────────────────────
+  Score:  40/100
+  Werkstudent im Bereich Audiovisuelle Medien (w/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems are relevant, but the job posting is for Audiovisuelle Medien, which doesn't directly match the candidate's profile, and the candidate's experience is more focused on production engineering and automotive systems rather than audiovisual media.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127367694
+────────────────────────────────────────────────
+  Score:  20/100
+  Elektroniker (m/w/d) Gebäudeautomation
+  @ bosch  ·  Erfurt, TH, de
+  Source: bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the job requirements for an Elektroniker in Gebäudeautomation, which focuses on electrical engineering and building automation.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134812319
+────────────────────────────────────────────────
+  Score:  27/100
+  Elektroniker / MSR-Techniker (m/w/d)
+  @ bosch  ·  Erfurt, TH, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker'; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127831869
+────────────────────────────────────────────────
+  Score:  20/100
+  Elektroniker:in für Betriebstechnik (m/w/d)
+  @ Stadtwerke Bielefeld GmbH  ·  Greater Bielefeld Area
+  Source: LinkedIn
+  Reason: The role requires professional experience and German language skills, which are not fully met by the candidate's profile.
+  URL:    https://www.linkedin.com/jobs/view/4421926782
+────────────────────────────────────────────────
+  Score:  20/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen für Zutrittskontrollsysteme - Gebiet Bremen/Bremerhaven (w/m/div.)
+  @ bosch  ·  Stuhr, NI, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems are relevant, but the role requires professional experience as an Elektroniker/Elektriker and fluent German, which the candidate lacks.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135234249
+────────────────────────────────────────────────
+  Score:  40/100
+  Elektroniker / Sicherheitstechniker - Gebiet Landshut / Vilsbiburg / Altötting (w/m/div.)
+  @ bosch  ·  84030, BAYERN, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems align with the job posting, but the role's location and company requirements do not match the candidate's preferred locations, and the job title 'Elektroniker / Sicherheitstechniker' does not directly match the candidate's target titles.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134960384
+────────────────────────────────────────────────
+  Score:  20/100
+  Elektroniker / MSR-Techniker (m/w/d) Gebäudeautomation
+  @ bosch  ·  Waltenhofen, BY, de
+  Source: bosch (Direct)
+  Reason: The job posting requires experience in Gebäudeautomation, which does not overlap with the candidate's experience in automotive engineering, and the candidate's preferred locations do not match the job location.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134805519
+────────────────────────────────────────────────
+  Score:  40/100
+  Elektroniker / Sicherheitstechniker im Filialkundengeschäft für den überregionalen Einsatz (w/m/div.)
+  @ bosch  ·  Düsseldorf, NW, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems are relevant, but the role requires professional experience and fluent German, which the candidate lacks, and the location is not preferred.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134432440
+────────────────────────────────────────────────
+  Score:  40/100
+  Elektroniker / Sicherheitstechniker – Gebiet Berlin / Brandenburg (w/m/div.) 
+  @ bosch  ·  Bochum, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and Automotive Systems match some aspects of the job, but the role's location and company do not align with the candidate's preferences, and the job title 'Elektroniker / Sicherheitstechniker' does not directly match the candidate's target titles.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132131435
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Berlin / Brandenburg (w/m/div.)
+  @ bosch  ·  Berlin, Berlin, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132129586
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Landsberg a. Lech / Kaufbeuren (w/m/div.)
+  @ bosch  ·  Kempten, BAYERN, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132131659
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Siegen(w/m/div.)
+  @ bosch  ·  Siegen, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132131409
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Lünen / Kamen / Hamm (w/m/div.)
+  @ bosch  ·  Bochum, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132128984
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Bochum (w/m/div.)
+  @ bosch  ·  Bochum, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132130169
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Berlin (w/m/div.)
+  @ bosch  ·  Berlin, Berlin, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132129759
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Landshut/Freising (m/w/div.)
+  @ bosch  ·  Landshut, BAYERN, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132129719
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Düsseldorf (m/w/div.)
+  @ bosch  ·  Düsseldorf, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132129552
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Bochum (w/m/div.)
+  @ bosch  ·  Bochum, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132129469
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Menden / Arnsberg (w/m/div.)
+  @ bosch  ·  Meschede, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132129389
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker – Großraum Aachen (w/m/div.)
+  @ bosch  ·  Köln, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132128790
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Großraum Dortmund (w/m/div.)
+  @ bosch  ·  Bochum, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132128822
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Siegen (w/m/div.)
+  @ bosch  ·  Meschede, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132128479
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet München / Dachau (w/m/div.)
+  @ bosch  ·  München, BAYERN, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132127841
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Augsburg (w/m/div.)
+  @ bosch  ·  Augsburg, BAYERN, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132126684
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Manching / Pfaffenhofen (w/m/div.)
+  @ bosch  ·  Regensburg, BAYERN, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132125631
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Großraum Dortmund (w/m/div.)
+  @ bosch  ·  Bochum, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132127929
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Großraum Köln
+  @ bosch  ·  Köln, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132125524
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker für SAA/ELA - Gebiet Frankfurt (w/m/div.)
+  @ bosch  ·  Eschborn, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132110009
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Griesheim/Darmstadt/Pfungstadt
+  @ bosch  ·  Eschborn, HESSEN, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131623609
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Aschaffenburg/Hanau (w/m/div.)
+  @ bosch  ·  Rodgau, HESSEN, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131620909
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Hamburg (w/m/div.)
+  @ bosch  ·  Sachsenkamp 1-3, HH, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128884779
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Berlin / Brandenburg (w/m/div.)
+  @ bosch  ·  Berlin, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128679509
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Darmstadt/Odenwald (w/m/div.)
+  @ bosch  ·  Rodgau, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128474215
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Biblis
+  @ bosch  ·  Eschborn, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128474349
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Worms/Bensheim/Riedstadt
+  @ bosch  ·  Eschborn, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128473329
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Buchholz in der Nordheide (w/m/div.)
+  @ bosch  ·  Hamburg, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128469150
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Gifhorn/Wolfsburg/Braunschweig (w/m/div.)
+  @ bosch  ·  Isernhagen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128469529
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Sicherheitstechniker - Gebiet Lübeck (w/m/div.)
+  @ bosch  ·  Kiel, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128468412
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Winsen (Luhe) (w/m/div.)
+  @ bosch  ·  Hamburg, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128468988
+────────────────────────────────────────────────
+  Score:  25/100
+  Elektroniker / Elektriker mit Schwachstromkenntnissen - Gebiet Koblenz/Westerwald (w/m/div.)
+  @ bosch  ·  Bassenheim, de
+  Source: bosch (Direct)
+  Reason: title fits 'Elektroniker' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121201267
+────────────────────────────────────────────────
+  Score:  23/100
+  AMG Steinbeis Studenten Junior R&D-Controller im Kompetenzteam ab August 2026 (m/w/d)
+  @ Mercedes-AMG GmbH  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439023718
+────────────────────────────────────────────────
+  Score:  23/100
+  AMG Steinbeis Studenten Junior Projektleitung Retail Excellence ab August 2026 (m/w/d)
+  @ Mercedes-AMG GmbH  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4430923546
+────────────────────────────────────────────────
+  Score:  23/100
+  Data Scientist (Process Intelligence / Celonis)
+  @ Processand  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4435966568
+────────────────────────────────────────────────
+  Score:  23/100
+  AI Research Engineer - ML Engineering
+  @ Helsing  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4362267345
+────────────────────────────────────────────────
+  Score:  23/100
+  Full-time R&D Engineer (f/m/d)
+  @ VAARHAFT  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4436620128
+────────────────────────────────────────────────
+  Score:  23/100
+  AI Engineer bei SCOUTASTIC (all genders)
+  @ SCOUTASTIC  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439325004
+────────────────────────────────────────────────
+  Score:  23/100
+  Generative AI Engineer (all Genders) for Berlin
+  @ Digitl  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439030760
+────────────────────────────────────────────────
+  Score:  23/100
+  Generative AI Engineer (all Genders) for Hamburg
+  @ Digitl  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439026875
+────────────────────────────────────────────────
+  Score:  23/100
+  AI Engineer – Agentic Experience (all genders)
+  @ Holidu  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4419979266
+────────────────────────────────────────────────
+  Score:  23/100
+  System Engineer (m/w/d)
+  @ mamgo | Talente 🔗 Jobs  ·  Altenstadt, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439054127
+────────────────────────────────────────────────
+  Score:  23/100
+  M365 System Engineer (m/w/d)
+  @ Ratiodata  ·  Karlsruhe, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4389563110
+────────────────────────────────────────────────
+  Score:  23/100
+   Internship Modeling the Physical Dynamics of Micro-Electro-Mechanical Systems
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: skills: Machine Learning; keyword bonus: 1; +1 core-strength terms (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133024882
+────────────────────────────────────────────────
+  Score:  22/100
+  Pflichtpraktikum im Qualitätsmanagement
+  @ bosch  ·  Hainburg, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive'; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136451554
+────────────────────────────────────────────────
+  Score:  22/100
+  PhD - Neural 3D Scene Representations for the Automotive Cabin
+  @ bosch  ·  Hildesheim, NDS, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive'; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136166034
+────────────────────────────────────────────────
+  Score:  22/100
+  Praktikum im Bereich Electronic Services
+  @ bosch  ·  Karlsruhe, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Praktikum Automotive'; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134229319
+────────────────────────────────────────────────
+  Score:  22/100
+  Internship in Sales Automotive Industry
+  @ bosch  ·  Karlsruhe, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive'; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136858434
+────────────────────────────────────────────────
+  Score:  20/100
+  Testingenieur ePropulsion (all gender)
+  @ ALTEN Germany  ·  Nuremberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: skills: Python; keyword bonus: 1; preferred location; +1 core-strength terms (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4430611029
+────────────────────────────────────────────────
+  Score:  20/100
+  Testingenieur (m/w/d) - Charging
+  @ Applus+ IDIADA  ·  Ingolstadt, Bavaria, Germany
+  Source: LinkedIn
+  Reason: skills: Python; keyword bonus: 1; preferred location; +1 core-strength terms (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4435991172
+────────────────────────────────────────────────
+  Score:  20/100
+  Master Thesis Decision-Support-System for IC Product Strategy
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Thesis Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135060309
+────────────────────────────────────────────────
+  Score:  20/100
+  Embedded Software Developer for the Automation of Mobile Work Machines  (f/m/div.)
+  @ bosch  ·  Elchingen, BY, de
+  Source: bosch (Direct)
+  Reason: skills: Python, Machine Learning; keyword bonus: 2; +2 core-strength terms (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134438119
+────────────────────────────────────────────────
+  Score:  20/100
+  PhD – Agentische KI und Multi-Agenten-Systeme (w/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: skills: Python, Deep Learning; keyword bonus: 2; +2 core-strength terms (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135185229
+────────────────────────────────────────────────
+  Score:  20/100
+  Masterarbeit: Entscheidungsunterstützungssystem für die IC-Produktstrategie (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Masterarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135060419
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Projektmanagement im Technischen Einkauf
+  @ bosch  ·  Schwieberdingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128959239
+────────────────────────────────────────────────
+  Score:  20/100
+  Master Thesis in Sensor Fusion for End-to-End Autonomous Driving Systems
+  @ bosch  ·  Hildesheim, NDS, de
+  Source: bosch (Direct)
+  Reason: title fits 'Thesis Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131071038
+────────────────────────────────────────────────
+  Score:  20/100
+  Masterarbeit KI-basierte Anomalieerkennung in der robotergestützen Fertigung
+  @ bosch  ·  Salzgitter, NDS, de
+  Source: bosch (Direct)
+  Reason: title fits 'Masterarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129127689
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum: Modellierung der physikalischen Dynamik mikroelektromechanischer Systeme (MEMS) (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133018339
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum in der Batterie-Hardware- und Software-Entwicklung – Bosch eBike Systems
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128706839
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Entwicklung & Aufbau von Forschungsdemonstratoren
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121991998
+────────────────────────────────────────────────
+  Score:  20/100
+  Masterarbeit: KI-basierte sensorlose Regelung von E-Antrieben (w/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Masterarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136461464
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Qualitätsmanagement (w/m/div.)
+  @ bosch  ·  Kusterdingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137122199
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Gebäudesicherheit (w/m/div.) 
+  @ bosch  ·  Rostock, MV, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137116037
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Personal / HR (w/m/div.)
+  @ bosch  ·  Verl, NRW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137090494
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent für Teamleitung - Vertrieb & Standort (w/m/div.)
+  @ bosch  ·  Nürnberg, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137067145
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in der Geschäftsentwicklung - Business Development (w/m/div.)
+  @ bosch  ·  Bietigheim-Bissingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136779596
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent People Management und Agile Coaching (w/m/div.)
+  @ bosch  ·  Lollar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136718939
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in Sales Support – NEXOSPACE Energy Manager (w/m/div.)
+  @ bosch  ·  München, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136459199
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Software Quality Engineering / Software Testing (w/m/div.)
+  @ bosch  ·  Gießen, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136441454
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Business Process Management (w/m/div.)
+  @ bosch  ·  Gunzenhausen, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136207390
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent IoT Cloud Software Development (w/m/div.) 
+  @ bosch  ·  Lollar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135996740
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Weiterbildung und digitales Lernen (w/m/div.) 
+  @ bosch  ·  Würzburg, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135972749
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich technisches Zeichnen (w/m/div.)
+  @ bosch  ·  Köln, NW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135754989
+────────────────────────────────────────────────
+  Score:  20/100
+   Werkstudent Unterstützung Product Management und Projektleitung (w/m/div.) 
+  @ bosch  ·  Lollar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135728539
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Marketing Brand- und Projektmanagement (w/m/div.)
+  @ bosch  ·  Wernau (Neckar), BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135478899
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent After Sales Service Deutschland (w/m/div.) 
+  @ bosch  ·  Wernau (Neckar), BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135445449
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent für die Prozessdokumentation im Sales & Market Intelligence (w/m/div.)
+  @ bosch  ·  Ulm, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135418851
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Arbeits-, Brand- und Umweltschutz (w/m/div.)
+  @ bosch  ·  Ravensburg, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135419679
+────────────────────────────────────────────────
+  Score:  20/100
+   Werkstudent im Bereichscontrolling (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135408339
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Agile Software Engineering und Management
+  @ bosch  ·  Abstatt, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135239929
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Integrationstests (w/m/div.)
+  @ bosch  ·  Erbach, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135223499
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Instandhaltungs- und Ersatzteillogistik (w/m/div.) 
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135216919
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent S/4HANA Project Management Office (w/m/div.) 
+  @ bosch  ·  Immenstadt im Allgäu, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135208079
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in der Projekt- und Prozessunterstützung (w/m/div.) 
+  @ bosch  ·  Abstatt, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134987666
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Projektleitung für IC Entwicklung (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134983169
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Prüfmittelmanagement (w/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134699070
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent (w/m/div.) Datenqualität Wartungsverträge/ProCos
+  @ bosch  ·  Verl, NRW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134408438
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in der Halbleiterfertigung - Metrology (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134398259
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in Marketing und Business Excellence (w/m/div.) 
+  @ bosch  ·  Karlsruhe, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134396819
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Batteriesystementwicklung und -validierung (w/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134209912
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Digitale Bildung (w/m/div.)
+  @ bosch  ·  Plochingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134205644
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Customer Interaction Management im Bereich After Sales Service (w/m/div.) 
+  @ bosch  ·  Wetzlar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133914723
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent*in im Bereich Material-Compliance & KI-gestützte Datenverarbeitung (m/w/d) (w/m/div.)
+  @ bosch  ·  Kusterdingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133586660
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent*in im Bereich Marketingkommunikation (m/w/d) (w/m/div.)
+  @ bosch  ·  Kusterdingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133551070
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent (w/m/div.) im Bereich Gebäudeautomation – Standort München
+  @ bosch  ·  München, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133364825
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Vertrieb und Projektmanagement (w/m/div.)
+  @ bosch  ·  Berlin, BE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133338186
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Produktmanagement (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133306229
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in der Energieoptimierung & Automatisierung (w/m/div.)
+  @ bosch  ·  Abstatt, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133029639
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Beschaffung, IT, Supply Chain Management (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132797917
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Assistenz der techn. Leitung (w/m/div.)
+  @ bosch  ·  Düsseldorf, Nordrhein-Westfalen, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132659309
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Business Intelligence & Data Analytics (w/m/div.)
+  @ bosch  ·  Hildesheim, NDS, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132564529
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent*in 3D-Animation von Sensoren – Technische Inhalte (f/m/div.) (w/m/div.)
+  @ bosch  ·  Kusterdingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132389359
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Digital Training - eLearning (w/m/div.)
+  @ bosch  ·  Ulm, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132202314
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent*in in der Hardware-Prototypenentwicklung und -entwicklung (w/m/div.)
+  @ bosch  ·  Kusterdingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132194761
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Controlling (w/m/div.)
+  @ bosch  ·  Wetzlar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132188259
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in der Bearbeitung von R&I-Fließschemata (w/m/div.)
+  @ bosch  ·  Gunzenhausen, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132158888
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum in der Produktplanung
+  @ bosch  ·  Kusterdingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132110189
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum im Bereich Marketing und Social Media
+  @ bosch  ·  Leonberg, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131875120
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent*in im Systemteam für Dev-/Data-Ops-Tools und Infrastruktur (m/w/d) (w/m/div.)
+  @ bosch  ·  Hildesheim, NDS, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131869389
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Kundendienst (w/m/div.)
+  @ bosch  ·  Gunzenhausen, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131647909
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Marketing (w/m/div.)
+  @ bosch  ·  Wetzlar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131398996
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im operativen Beschaffungsmanagement (w/m/div.)
+  @ bosch  ·  Eschenburg, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131101939
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Vermessung von Leiterplatten (w/m/div.)
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000130203141
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Werkscontrolling (w/m/div.)
+  @ bosch  ·  Lohr am Main, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129740267
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Service Training (w/m/div.)
+  @ bosch  ·  Plochingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127870479
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Personalmanagement und HR Business Partnering (w/m/div.)
+  @ bosch  ·  Ulm, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127685179
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Product Compliance und Sustainability - Digitalisierung in der Business Unit Mobile Solutions (w/m/div.)
+  @ bosch  ·  Elchingen, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127411769
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Automatisierung der Kapazitätsplanung im Fertigungsbereich (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127173920
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Customer Supply Chain Management 
+  @ bosch  ·  Karlsruhe, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000126511849
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Standardisierung Produktionsabläufe (w/m/div.) 
+  @ bosch  ·  Lohr am Main, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000126325714
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Messtechnik für Sensoren (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000126326520
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Sales Pricing - Stammdatenmanagement (w/m/div.)
+  @ bosch  ·  Lohr am Main, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000126063019
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Health Service Center - Betriebliches Gesundheitsmanagement (w/m/div.)
+  @ bosch  ·  Wetzlar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000125992499
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Building Technologies (w/m/div.) 
+  @ bosch  ·  Bayreuth, BY, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000123159830
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent - Produktpflege, Tooling, Marktanalyse und Dokumentation (w/m/div.)
+  @ bosch  ·  Lollar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000122429909
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Bereich Manufacturing IT (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121941647
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent im Fertigungsbereich Backend im Halbleiterwerk für Q‑Koordination (w/m/div.)
+  @ bosch  ·  Reutlingen, BW, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121431360
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent in der Entwicklung mit Fokus Normung (w/m/div.)
+  @ bosch  ·  Wetzlar, HE, de
+  Source: bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000120861498
+────────────────────────────────────────────────
+  Score:  15/100
+  Cyber-Security Software Engineer for Automated Mobile Machinery (f/m/div.)
+  @ bosch  ·  Schwieberdingen, BW, de
+  Source: bosch (Direct)
+  Reason: keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136217708
+

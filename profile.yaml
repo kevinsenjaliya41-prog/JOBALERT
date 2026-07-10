@@ -1,127 +1,176 @@
 # ============================================================
-#  YOUR PROFILE — edit before first run
-#  The defaults below fit an automotive engineering masters
-#  student in Germany. Adjust every list to match YOU.
+#  YOUR PROFILE — auto-generated from cv.md
+#  Edit freely: this file is only regenerated if placeholders
+#  reappear or you run `python main.py --personalize`.
 # ============================================================
 
 personal:
-  name: "[Your Name]"
-  email: "[you@example.com]"        # informational only — alerts go to Telegram
-
-# One-line description of you, used in the AI grading prompt.
-# Examples:
-#   "a master's student in International Automotive Engineering (sensor data specialty)"
-#   "a mechatronics masters student focused on embedded systems and robotics"
-persona: "a master's student in [your programme] ([your specialty / strongest tools])"
-
-# ── Your skills (bilingual – English & German keywords) ───────
-skills:
-  - Python
-  - MATLAB
-  - Data Analysis
-  - Datenanalyse
+  name: ''
+  email: ''
+persona: a master's student in International Automotive Engineering (Machine Learning, Artificial Intelligence,
+  Automotive Systems)
+domain:
+  name: automotive engineering
+  core_terms:
   - Automotive
   - Fahrzeugtechnik
-  - Sensors
-  - Sensorik
-  - Linux
-  - Git
-  # ← add your own: tools, frameworks, methods from your CV
-
-# ── Job titles you should target ──────────────────────────────
+  - Automatisierungstechnik
+  - Machine Learning
+  - Artificial Intelligence
+  - Deep Learning
+  - Python
+  - PyTorch
+  - TensorFlow
+  - Künstliche Intelligenz
+  - Maschinelles Lernen
+  - Tiefes Lernen
+  supporting_terms:
+  - Electronics
+  - Mechatronics
+  - Robotics
+  - Sensor Systems
+  - Elektronik
+  - Mechatronik
+  - Robotik
+  - Sensoren
+  adjacent_terms:
+  - Aerospace Engineering
+  - Mechanical Engineering
+  - Electrical Engineering
+  - Computer Science
+  - Luft- und Raumfahrttechnik
+  - Maschinenbau
+  - Elektrotechnik
+  - Informatik
+  core_companies:
+  - bmw
+  - mercedes-benz
+  - audi
+  - volkswagen
+  - porsche
+  - continental
+  - bosch
+  - siemens
+  adjacent_companies:
+  - airbus
+  - boeing
+  - thyssenkrupp
+  - siemens
+  - philips
+  reject_title_terms:
+  - Marketing Manager
+  - Nurse
+  - Recruiter
+  - Sales Manager
+  - Vertriebsleiter
+  - Krankenpfleger
+  - Personalberater
+  bonus_terms:
+  - Machine Learning
+  - Artificial Intelligence
+  - Deep Learning
+  - Python
+  - PyTorch
+  - TensorFlow
+  - Künstliche Intelligenz
+  - Maschinelles Lernen
+  - Tiefes Lernen
+skills:
+- Python
+- PyTorch
+- TensorFlow
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
+- MATLAB
+- SIMULINK
+- Data Analysis
+- Digital Signal Processing
+- Künstliche Intelligenz
+- Maschinelles Lernen
+- Tiefes Lernen
 target_titles:
-  # English
-  - Working Student
-  - Intern
-  - Internship
-  - Junior Engineer
-  - Thesis
-  # German
-  - Werkstudent
-  - Werkstudentin
-  - Praktikant
-  - Praktikantin
-  - Praktikum
-  - Pflichtpraktikum
-  - Masterarbeit
-  - Bachelorarbeit
-  - Abschlussarbeit
-  - Junior Ingenieur
-  # ← add domain-specific combos, e.g. "Werkstudent ADAS", "Internship Robotics"
-
-# ── At least ONE of these should appear in a good job ─────────
+- Working Student Automotive
+- Werkstudent Automotive
+- Intern Automotive
+- Praktikum Automotive
+- Pflichtpraktikum Automotive
+- Masterarbeit Automotive
+- Thesis Automotive
+- Abschlussarbeit Automotive
+- Junior Automotive Engineer
+- Automotive Systems Engineer
+- Machine Learning Engineer
+- Deep Learning Engineer
+- Artificial Intelligence Engineer
+- Automatisierungstechniker
+- Fahrzeugtechniker
+- Elektroniker
 must_have_keywords:
-  - automotive
-  - vehicle
-  - fahrzeug
-  - engineering
-  # ← replace with your domain's keywords
-
-# ── Skip jobs containing these (too senior / wrong domain) ────
+- Automotive
+- Machine Learning
+- Artificial Intelligence
+- Deep Learning
+- Python
+- PyTorch
+- TensorFlow
+- Künstliche Intelligenz
+- Maschinelles Lernen
+- Tiefes Lernen
+- Fahrzeugtechnik
+- Automatisierungstechnik
 exclude_keywords:
-  - Senior
-  - Lead
-  - Principal
-  - Staff Engineer
-  - Director
-  - Head of
-  - VP
-  - "5+ years"
-  - "7+ years"
-  - "10+ years"
-  - mehrjährige Berufserfahrung
-  - mehrjährige Erfahrung
-  - Führungserfahrung
-
-# ── Where you'd like to work ──────────────────────────────────
+- Senior
+- Lead
+- Principal
+- 10+ years
+- mehrjährige Berufserfahrung
+- Leitender Ingenieur
+- Gruppenleiter
 preferred_locations:
-  - Germany
-  - Deutschland
-  - Remote
-  - Hybrid
-  # ← add your cities: Munich, Stuttgart, Berlin, ...
-
-# ── Language preference ───────────────────────────────────────
-#   "english_only"       → reject ALL German postings
-#   "no_german_required" → accept German posts unless German fluency required
-#   "any"                → accept everything
+- Ingolstadt
+- Munich
+- Stuttgart
+- Germany
 language_preference: no_german_required
-
-# ── Experience level ──────────────────────────────────────────
-years_of_experience: 0
-career_level: student            # applies seniority penalties in scoring
-
-# ── YOUR FIELD (the "domain") ─────────────────────────────────
-# This block teaches the filters what YOUR field looks like. Without it,
-# automotive-engineering defaults apply (see matchers/domain_classifier.py).
-# Works for ANY field — medicine, law, CS, finance, math... Fill every list
-# with terms from YOUR world (English + German). Tip: paste this block and
-# your CV into any AI chat and ask it to fill the lists for your field.
-#
-# domain:
-#   name: "corporate law"                    # your field, used in AI prompts
-#   core_terms:                              # strong signals a job is in-field
-#     [legal, recht, kanzlei, vertragsrecht, datenschutz, dsgvo, compliance]
-#   supporting_terms:                        # relevant but ambiguous alone
-#     [contract, vertrag, regulatory]
-#   adjacent_terms:                          # neighboring industries
-#     [tax advisory, steuerberatung, notariat]
-#   core_companies:                          # employers central to your field
-#     [freshfields, noerr, hengeler mueller]
-#   adjacent_companies:
-#     [pwc legal, kpmg law]
-#   reject_title_terms:                      # instantly reject these titles
-#     [software developer, mechanical engineer, nurse, sales manager]
-#   bonus_terms:                             # your personal strengths
-#     [dsgvo, gdpr, compliance, it-recht]
-
-# ── Two-stage scoring thresholds ──────────────────────────────
-# Stage 1: cheap rule-based pre-filter — jobs below this are dropped before AI
+years_of_experience: 4
+career_level: student
+search_queries:
+- Werkstudent Automotive
+- Junior Automotive Engineer
+- Machine Learning Engineer
+- Deep Learning Engineer
+- Artificial Intelligence Engineer
+- Automatisierungstechniker
+- Fahrzeugtechniker
+- Elektroniker
+- Automotive Systems Engineer
 prefilter_min_score: 15
-# Stage 2: tier boundaries on the 0-100 suitability score.
-#   score >= strong      → 🟢 strong match (Telegram alert)
-#   score >= worth_look  → 🟡 worth a look (Telegram alert)
-#   below worth_look     → 🔴 rejected (archived, daily summary)
 tier_thresholds:
   strong: 75
   worth_look: 50
+company_targets:
+- name: bmw
+  ats: smartrecruiters
+  id: BMWGroup
+- name: mercedes-benz
+  ats: smartrecruiters
+  id: DaimlerAG
+- name: audi
+  ats: smartrecruiters
+  id: AudiAG
+- name: volkswagen
+  ats: smartrecruiters
+  id: VolkswagenAG
+- name: porsche
+  ats: smartrecruiters
+  id: PorscheAG
+- name: continental
+  ats: smartrecruiters
+  id: ContinentalAG
+- name: bosch
+  ats: smartrecruiters
+  id: BoschGroup
+- name: siemens
+  ats: smartrecruiters
+  id: SiemensAG

@@ -1,0 +1,82 @@
+=== STRONG MATCHES ===
+
+--- Run at 19:26:57 (11 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  90/100
+  Master Thesis AI-based Sensorless Edrive Control
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning, Artificial Intelligence, and Automotive Systems closely align with the job requirements, and their experience with Python, PyTorch, and TensorFlow matches the role's technical needs.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136457424
+────────────────────────────────────────────────
+  Score:  90/100
+  Pflichtpraktikum: Entwicklung und Validierung von Softwarelösungen für Automotive SDV (w/m/div.)
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems align well with the job posting, and their preferred location matches the job's location in Stuttgart.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137099420
+────────────────────────────────────────────────
+  Score:  90/100
+  Master Thesis AI-Driven Tolerance Sensitivity Analysis of Worm Gears
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence align well with the job requirements, and their experience with Python, MATLAB, and SIMULINK is a strong match for the role.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000125786394
+────────────────────────────────────────────────
+  Score:  90/100
+  Master Thesis Autonomous Agentic Control Design - Translating System-Theoretic Properties into Self-Improving Synthesis Loops
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning, Artificial Intelligence, and Automotive Systems closely align with the job requirements, and their experience with Python, PyTorch, and TensorFlow is highly relevant to the project.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128962005
+────────────────────────────────────────────────
+  Score:  90/100
+  Mandatory Internship Development and Validation of Software Solutions for Automotive SDV
+  @ bosch  ·  Stuttgart, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning, Artificial Intelligence, and Automotive Systems align well with the job posting's requirements for software solutions development and validation for Automotive SDV, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137099840
+────────────────────────────────────────────────
+  Score:  90/100
+  Mandatory Internship in Automation of Process Development with Agentic AI in Manufacturing
+  @ bosch  ·  Renningen, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence align well with the internship's requirements, and their experience in projects such as the Handwritten Character Recognition System demonstrates relevant skills.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132590903
+────────────────────────────────────────────────
+  Score:  90/100
+  Werkstudent – Python-Softwareentwicklung für Simulationswerkzeuge (w/m/div.)
+  @ bosch  ·  Abstatt, BW, de
+  Source: bosch (Direct)
+  Reason: The candidate's master's degree in International Automotive Engineering and experience with Python, Machine Learning, and Artificial Intelligence align well with the job posting for Python-Softwareentwicklung für Simulationswerkzeuge at Bosch, but the location is not a perfect match.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137112569
+────────────────────────────────────────────────
+  Score:  85/100
+  Artificial Intelligence Engineer
+  @ Coltech  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in machine learning, deep learning, and artificial intelligence are highly relevant to the job, despite the company not being directly in the automotive field.
+  URL:    https://www.linkedin.com/jobs/view/4435990932
+────────────────────────────────────────────────
+  Score:  85/100
+  Resident Engineer (m/w/d) Automotive
+  @ Sino HR Conference  ·  Ingolstadt, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and education are highly relevant to the job, but the role may require more professional experience.
+  URL:    https://www.linkedin.com/jobs/view/4438340688
+────────────────────────────────────────────────
+  Score:  80/100
+  Machine Learning Engineer (m/f/d)
+  @ Spleenlab  ·  Jena, Thuringia, Germany
+  Source: LinkedIn
+  Reason: The candidate has relevant skills in machine learning and AI, but the job is not directly in automotive engineering
+  URL:    https://www.linkedin.com/jobs/view/4437987420
+────────────────────────────────────────────────
+  Score:  80/100
+  Systems Engineer (m/w/d) Hybrid Engineering
+  @ Moog Inc.  ·  Böblingen, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and education are well-matched to the job requirements.
+  URL:    https://www.linkedin.com/jobs/view/4420423779
+

@@ -1,0 +1,127 @@
+# ============================================================
+#  YOUR PROFILE — edit before first run
+#  The defaults below fit an automotive engineering masters
+#  student in Germany. Adjust every list to match YOU.
+# ============================================================
+
+personal:
+  name: "[Your Name]"
+  email: "[you@example.com]"        # informational only — alerts go to Telegram
+
+# One-line description of you, used in the AI grading prompt.
+# Examples:
+#   "a master's student in International Automotive Engineering (sensor data specialty)"
+#   "a mechatronics masters student focused on embedded systems and robotics"
+persona: "a master's student in [your programme] ([your specialty / strongest tools])"
+
+# ── Your skills (bilingual – English & German keywords) ───────
+skills:
+  - Python
+  - MATLAB
+  - Data Analysis
+  - Datenanalyse
+  - Automotive
+  - Fahrzeugtechnik
+  - Sensors
+  - Sensorik
+  - Linux
+  - Git
+  # ← add your own: tools, frameworks, methods from your CV
+
+# ── Job titles you should target ──────────────────────────────
+target_titles:
+  # English
+  - Working Student
+  - Intern
+  - Internship
+  - Junior Engineer
+  - Thesis
+  # German
+  - Werkstudent
+  - Werkstudentin
+  - Praktikant
+  - Praktikantin
+  - Praktikum
+  - Pflichtpraktikum
+  - Masterarbeit
+  - Bachelorarbeit
+  - Abschlussarbeit
+  - Junior Ingenieur
+  # ← add domain-specific combos, e.g. "Werkstudent ADAS", "Internship Robotics"
+
+# ── At least ONE of these should appear in a good job ─────────
+must_have_keywords:
+  - automotive
+  - vehicle
+  - fahrzeug
+  - engineering
+  # ← replace with your domain's keywords
+
+# ── Skip jobs containing these (too senior / wrong domain) ────
+exclude_keywords:
+  - Senior
+  - Lead
+  - Principal
+  - Staff Engineer
+  - Director
+  - Head of
+  - VP
+  - "5+ years"
+  - "7+ years"
+  - "10+ years"
+  - mehrjährige Berufserfahrung
+  - mehrjährige Erfahrung
+  - Führungserfahrung
+
+# ── Where you'd like to work ──────────────────────────────────
+preferred_locations:
+  - Germany
+  - Deutschland
+  - Remote
+  - Hybrid
+  # ← add your cities: Munich, Stuttgart, Berlin, ...
+
+# ── Language preference ───────────────────────────────────────
+#   "english_only"       → reject ALL German postings
+#   "no_german_required" → accept German posts unless German fluency required
+#   "any"                → accept everything
+language_preference: no_german_required
+
+# ── Experience level ──────────────────────────────────────────
+years_of_experience: 0
+career_level: student            # applies seniority penalties in scoring
+
+# ── YOUR FIELD (the "domain") ─────────────────────────────────
+# This block teaches the filters what YOUR field looks like. Without it,
+# automotive-engineering defaults apply (see matchers/domain_classifier.py).
+# Works for ANY field — medicine, law, CS, finance, math... Fill every list
+# with terms from YOUR world (English + German). Tip: paste this block and
+# your CV into any AI chat and ask it to fill the lists for your field.
+#
+# domain:
+#   name: "corporate law"                    # your field, used in AI prompts
+#   core_terms:                              # strong signals a job is in-field
+#     [legal, recht, kanzlei, vertragsrecht, datenschutz, dsgvo, compliance]
+#   supporting_terms:                        # relevant but ambiguous alone
+#     [contract, vertrag, regulatory]
+#   adjacent_terms:                          # neighboring industries
+#     [tax advisory, steuerberatung, notariat]
+#   core_companies:                          # employers central to your field
+#     [freshfields, noerr, hengeler mueller]
+#   adjacent_companies:
+#     [pwc legal, kpmg law]
+#   reject_title_terms:                      # instantly reject these titles
+#     [software developer, mechanical engineer, nurse, sales manager]
+#   bonus_terms:                             # your personal strengths
+#     [dsgvo, gdpr, compliance, it-recht]
+
+# ── Two-stage scoring thresholds ──────────────────────────────
+# Stage 1: cheap rule-based pre-filter — jobs below this are dropped before AI
+prefilter_min_score: 15
+# Stage 2: tier boundaries on the 0-100 suitability score.
+#   score >= strong      → 🟢 strong match (Telegram alert)
+#   score >= worth_look  → 🟡 worth a look (Telegram alert)
+#   below worth_look     → 🔴 rejected (archived, daily summary)
+tier_thresholds:
+  strong: 75
+  worth_look: 50

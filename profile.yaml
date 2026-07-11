@@ -7,32 +7,32 @@
 personal:
   name: ''
   email: ''
-persona: a master's student in International Automotive Engineering (Machine Learning, Artificial Intelligence,
-  Automotive Systems)
+persona: a master's student in International Automotive Engineering (Artificial Intelligence, Machine
+  Learning, Deep Learning)
 domain:
   name: automotive engineering
   core_terms:
   - Automotive
   - Fahrzeugtechnik
-  - Machine Learning
+  - Kraftfahrzeug
+  - Motor
+  - Antrieb
+  - Getriebe
+  - Elektronik
+  - Sicherheit
+  - Automatisierung
   - Künstliche Intelligenz
   - Maschinelles Lernen
-  - Deep Learning
-  - Tiefes Lernen
-  - Artificial Intelligence
-  - Fahrzeugentwicklung
-  - Automatisierungstechnik
   supporting_terms:
-  - Engineering
-  - Technik
-  - Ingenieurwesen
-  - Forschung
-  - Entwicklung
-  adjacent_terms:
-  - Mechatronik
+  - Mechanik
   - Elektrotechnik
+  - Informatik
+  - Mathematik
+  adjacent_terms:
+  - Luftfahrt
+  - Schifffahrt
   - Maschinenbau
-  - Aerodynamik
+  - Mechatronik
   core_companies:
   - bmw
   - mercedes
@@ -43,10 +43,9 @@ domain:
   - bosch
   - siemens
   adjacent_companies:
+  - airbus
   - thyssenkrupp
-  - siemens
-  - basf
-  - bayer
+  - siemens healthineers
   reject_title_terms:
   - Marketing Manager
   - Nurse
@@ -54,22 +53,23 @@ domain:
   - Sales Manager
   - Kundenberater
   bonus_terms:
-  - Autonomous Driving
-  - Fahrerassistenzsysteme
+  - Artificial Intelligence
   - Machine Learning
-  - Künstliche Intelligenz
   - Deep Learning
+  - Computer Vision
+  - Robotik
 skills:
 - Python
 - PyTorch
 - TensorFlow
+- Data Collection
+- Data Processing
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
 - MATLAB
 - SIMULINK
-- Data Analysis
-- Digital Signal Processing
+- Analytical Thinking
 - Künstliche Intelligenz
 - Maschinelles Lernen
 - Tiefes Lernen
@@ -85,18 +85,18 @@ target_titles:
 - Automotive Engineer
 - Fahrzeugentwickler
 - Automatisierungstechniker
-- Junior Perception Engineer
-- Automotive Software Engineer
-- Fahrerassistenzsysteme Entwickler
+- Robotik-Ingenieur
+- Künstliche Intelligenz Ingenieur
 must_have_keywords:
 - Automotive
-- Machine Learning
 - Artificial Intelligence
-- Fahrzeugtechnik
+- Machine Learning
+- Deep Learning
 - Künstliche Intelligenz
 - Maschinelles Lernen
-- Deep Learning
 - Tiefes Lernen
+- Fahrzeugtechnik
+- Automatisierung
 exclude_keywords:
 - Senior
 - Lead
@@ -114,11 +114,11 @@ years_of_experience: 4
 career_level: student
 search_queries:
 - Werkstudent Automotive
-- Junior Automotive Engineer
-- Machine Learning Automotive
-- Künstliche Intelligenz Fahrzeugtechnik
-- Automotive Software Engineer
-- Fahrerassistenzsysteme Entwickler
+- Junior Perception Engineer
+- Automotive Engineer
+- Künstliche Intelligenz Ingenieur
+- Fahrzeugentwickler
+- Automatisierungstechniker
 prefilter_min_score: 15
 tier_thresholds:
   strong: 75
@@ -126,13 +126,10 @@ tier_thresholds:
 company_targets:
 - name: BMW
   ats: smartrecruiters
-  id: BMWGroupp
+  id: BMGroup
 - name: Mercedes
   ats: smartrecruiters
   id: DaimlerAG
-- name: Continental
+- name: Audi
   ats: smartrecruiters
-  id: ContinentalAG
-- name: Bosch
-  ats: smartrecruiters
-  id: BoschGroup
+  id: AudiAG

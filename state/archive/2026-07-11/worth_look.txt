@@ -45,3 +45,41 @@
   Reason: The candidate's skills in machine learning and AI are relevant, but the job is not directly in automotive engineering.
   URL:    https://www.linkedin.com/jobs/view/4436638167
 
+--- Run at 11:36:44 (5 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  70/100
+  Physical AI Customer Engineer (m/w/d)
+  @ ONE WARE  ·  Osnabrück, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, machine learning, and deep learning are relevant to the job, but the job is not directly in the automotive engineering field.
+  URL:    https://www.linkedin.com/jobs/view/4436660469
+────────────────────────────────────────────────
+  Score:  60/100
+  (Junior) Data Engineer (m/w/d)
+  @ syte  ·  Münster, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, ML, and data processing are relevant, but the job is not directly in the automotive field and requires specific data engineering experience.
+  URL:    https://www.linkedin.com/jobs/view/4436662541
+────────────────────────────────────────────────
+  Score:  60/100
+  Werkstudent (m/w/d) im Bereich Order Management and Supply Chain
+  @ Cummins Europe  ·  Nuremberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, ML, and DL are not directly applicable to the role, but their automotive background is relevant.
+  URL:    https://www.linkedin.com/jobs/view/4419353172
+────────────────────────────────────────────────
+  Score:  60/100
+  Werkstudent (w/m/d) für strategisches Produktfoliomanagement
+  @ Siemens  ·  Erlangen, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with machine learning and data analysis are relevant to the role, but the job posting requires strategic product portfolio management skills and experience, which are not strongly evident in the candidate's profile.
+  URL:    https://www.linkedin.com/jobs/view/4429346013
+────────────────────────────────────────────────
+  Score:  60/100
+  Hardwarenaher Softwareentwickler (m/w/d)
+  @ AXON Innovations  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in automotive engineering and experience with machine learning and programming languages are relevant, but the job requires specific experience with microcontrollers and embedded systems.
+  URL:    https://www.linkedin.com/jobs/view/4439517955
+

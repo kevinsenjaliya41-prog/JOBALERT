@@ -318,3 +318,195 @@
   Reason: The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the role's focus on Sales & Market Intelligence and requirement for business German proficiency are significant gaps.
   URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135406889
 
+--- Run at 11:36:44 (27 jobs) ---
+
+────────────────────────────────────────────────
+  Score:   0/100
+  Stud./ Wiss. Hilfskraft (m/w/d) Tutor/in für Mechatronik-Praktika
+  @ Institute of Automotive Engineering  ·  Stuttgart Region
+  Source: LinkedIn
+  Reason: Skipped — fluent German required
+  URL:    https://www.linkedin.com/jobs/view/4438922041
+────────────────────────────────────────────────
+  Score:  10/100
+  Trainee Product & Operations Management - Car Subscription (m/w/d)
+  @ SIXT  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4430932630
+────────────────────────────────────────────────
+  Score:  10/100
+  Mitarbeiter Teiledienst (m/w/d)
+  @ DAF Berlin GmbH  ·  Grossbeeren, Brandenburg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438916460
+────────────────────────────────────────────────
+  Score:  10/100
+  Embedded Software Developer (m/w/d)
+  @ NDT Global  ·  Stutensee, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4355243040
+────────────────────────────────────────────────
+  Score:   0/100
+  Embedded Software Graphic Expert (f/m/x)
+  @ BMW Group  ·  Ulm, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4390034731
+────────────────────────────────────────────────
+  Score:   0/100
+  Parallel and Portable CMS Reconstruction Algorithms with Alpaka
+  @ Patatrack - CERN  ·  Görlitz, Saxony, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439558013
+────────────────────────────────────────────────
+  Score:   0/100
+  Mechanical Design Engineer (Data Centres) - Germany (Dusseldorf or Berlin)
+  @ TRACTEBEL  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4389759434
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Engineer - Mechanical Design & Dimensioning (m/w/d)
+  @ Trench Group  ·  Bamberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4430952229
+────────────────────────────────────────────────
+  Score:   0/100
+  EMC Engineer (f/m/d)
+  @ NXP Semiconductors  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4402531935
+────────────────────────────────────────────────
+  Score:   0/100
+  IT Engineer
+  @ AgileGrid Solutions  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439529952
+────────────────────────────────────────────────
+  Score:  10/100
+  Entwicklungsingenieur*in - Konstruktion von technischen Komponenten (w/m/d)
+  @ Siemens Healthineers  ·  Forchheim, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436653095
+────────────────────────────────────────────────
+  Score:  10/100
+  Entwicklungsingenieur - Munition (m/w/d)
+  @ Rheinmetall  ·  Unterlüß, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436660285
+────────────────────────────────────────────────
+  Score:  10/100
+  Gruppenleitung mechanische Konstruktion (m/w/d)
+  @ Tesla Automation GmbH  ·  Roth, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436645916
+────────────────────────────────────────────────
+  Score:  10/100
+  Maschinenbauingenieur - Projektmanager (m/w/d)
+  @ Oehler Maschinen Fahrzeugbau GmbH  ·  Offenburg, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439531979
+────────────────────────────────────────────────
+  Score:  12/100
+  Fachreferent:in Regelwerk und Bauartbetreung
+  @ Deutsche Bahn  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: keyword bonus: 1; preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439515270
+────────────────────────────────────────────────
+  Score:  10/100
+  Formenbauschlosser (all genders)
+  @ RAILONE  ·  Coswig, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438918237
+────────────────────────────────────────────────
+  Score:  10/100
+  Werkzeugmechaniker/in, Industriemechaniker/in, Tischler/in
+  @ EMS FVK-Profile | Emsoplast GFK-Profile  ·  Lathen, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436659374
+────────────────────────────────────────────────
+  Score:  10/100
+  Betriebselektroniker (all genders)
+  @ RAILONE  ·  Coswig, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438901858
+────────────────────────────────────────────────
+  Score:  10/100
+  Ausbildung Zerspanungsmechaniker (m/w/d)
+  @ LEUCO GROUP  ·  Horb am Neckar, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438910369
+────────────────────────────────────────────────
+  Score:  10/100
+  CNC-Fräser
+  @ HOMBURGER GmbH & Co. KG  ·  Markdorf, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436662480
+────────────────────────────────────────────────
+  Score:  10/100
+  Elektromeister oder Elektrotechniker - VEFK (all genders)
+  @ RAILONE  ·  Coswig, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438915308
+────────────────────────────────────────────────
+  Score:  10/100
+  Zerspanungsmechaniker (m/w/d) CNC-Drehen
+  @ Röchling Industrial Xanten  ·  Xanten, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438903832
+────────────────────────────────────────────────
+  Score:  10/100
+  Schweißer im Bereich WIG, MAG oder E-Hand (m/w/d)
+  @ VB-Industries GmbH  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436672364
+────────────────────────────────────────────────
+  Score:  10/100
+  Zerspanungsmechaniker (m/w/d)
+  @ PFISTERER  ·  Gerstetten, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4351713488
+────────────────────────────────────────────────
+  Score:  10/100
+  Werkzeugmechaniker für Stanz- und Umformtechnik (m/w/d)
+  @ PolyTALENT JOBS  ·  Pforzheim, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436680137
+────────────────────────────────────────────────
+  Score:  12/100
+  PhD Developing customer experience through innovative seating concepts for future interiors (f/m/x)
+  @ BMW Group  ·  Germany
+  Source: BMW Group (Direct)
+  Reason: keyword bonus: 1; preferred location
+  URL:    https://career5.successfactors.eu/career?company=bmwag&career_job_req_id=184120&career_ns=job_listing
+────────────────────────────────────────────────
+  Score:   0/100
+  Werkstudent/in (all gender) CRM
+  @ TUI Cruises  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: Out of domain: The job is in CRM at a cruise company, unrelated to automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4420295206
+

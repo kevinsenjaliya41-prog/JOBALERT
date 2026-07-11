@@ -920,6 +920,586 @@
           }
         }
       ]
+    },
+    {
+      "timestamp": "2026-07-11T11:36:44.101123",
+      "strong": [
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence, Machine Learning, and Deep Learning closely align with the PhD position's requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "domain_class": "core_field",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence, Machine Learning, and Deep Learning closely align with the PhD position's requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "unscored": false,
+          "job": {
+            "id": "sf_bmwag_170553",
+            "title": "PhD Computational Design for Automotive Engineering and Design Processes (f/m/x)",
+            "company": "BMW Group",
+            "location": "Germany",
+            "description": "THE FUTURE IS WHAT WE CREATE WHEN WE TAKE OUR VISIONS TO THE LIMITS. PHD AT THE BMW GROUP. Bridging the gap between your doctoral studies and the kind of career challenge you’re looking for isn’t always easy. That’s why our ProMotion PhD programme gives you the opportunity to apply your passion and ",
+            "url": "https://career5.successfactors.eu/career?company=bmwag&career_job_req_id=170553&career_ns=job_listing",
+            "published": "",
+            "source": "BMW Group (Direct)"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence, Machine Learning, and Deep Learning align well with the job requirements, and their experience in projects such as the Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "domain_class": "core_field",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence, Machine Learning, and Deep Learning align well with the job requirements, and their experience in projects such as the Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4438919123",
+            "title": "Wissenschaftliche/n Mitarbeiter/in (m/w/d) „AI-supported Validation and Verification of Drive Functions through Real-Time Model Validity and Trust Monitoring“ mit der Möglichkeit zur Promotion",
+            "company": "Institute of Automotive Engineering",
+            "location": "Stuttgart Region",
+            "description": "Der Lehrstuhl Fahrzeugantriebssysteme des Instituts für Fahrzeugtechnik Stuttgart (IFS) der Universität Stuttgart arbeitet an der Zukunft in Forschung und Lehre. Hierbei werden nahezu alle Themen rund um neue Antriebskonzepte auf Basis regenerativer Energien behandelt. Im Bereich „Artificial Intelli",
+            "url": "https://www.linkedin.com/jobs/view/4438919123",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 80,
+          "reason": "The candidate's skills in AI, ML, and DL are relevant to the job, but the job requires specific experience in HMI technologies and embedded software development.",
+          "domain_class": "core_field",
+          "ai_score": 80,
+          "ai_reason": "The candidate's skills in AI, ML, and DL are relevant to the job, but the job requires specific experience in HMI technologies and embedded software development.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4416662470",
+            "title": "Software Engineer (m/w/d) HMI Technologies",
+            "company": "AUO Mobility Solutions Germany",
+            "location": "Lippstadt, North Rhine-Westphalia, Germany",
+            "description": "Engineering - Software / Lippstadt / Alle Stellenangebote in Deutschland Als Spezialist für Klimatisierung sowie Anzeige und Bedienung im Automobil leisten unsere Produkte einen wesentlichen Beitrag zum entspannten und sicheren Fahren. Sie interessieren sich für Technologien und können gut mit Mensc",
+            "url": "https://www.linkedin.com/jobs/view/4416662470",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 80,
+          "reason": "The candidate's skills in AI, machine learning, and deep learning are highly relevant to the job, despite the industry difference.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 80,
+          "ai_reason": "The candidate's skills in AI, machine learning, and deep learning are highly relevant to the job, despite the industry difference.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4439396776",
+            "title": "Applied Scientist / Research Engineer, AI4Engineering",
+            "company": "Mistral",
+            "location": "Munich, Bavaria, Germany",
+            "description": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector—co-creating cust",
+            "url": "https://www.linkedin.com/jobs/view/4439396776",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "worth_look": [
+        {
+          "score": 70,
+          "reason": "The candidate's skills in AI, machine learning, and deep learning are relevant to the job, but the job is not directly in the automotive engineering field.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 70,
+          "ai_reason": "The candidate's skills in AI, machine learning, and deep learning are relevant to the job, but the job is not directly in the automotive engineering field.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436660469",
+            "title": "Physical AI Customer Engineer (m/w/d)",
+            "company": "ONE WARE",
+            "location": "Osnabrück, Lower Saxony, Germany",
+            "description": "Physical AI Customer Engineer (m/w/d) Standort: Osnabrück / Hybrid / Remote Start: Ab Sofort Wir glauben, dass die Zukunft von Physical AI nicht auf wenigen generischen Foundation Models basiert, sondern auf Millionen hochspezialisierter KI -Systeme. Heute brauchen Unternehmen oft Monate, um bestehe",
+            "url": "https://www.linkedin.com/jobs/view/4436660469",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in AI, ML, and data processing are relevant, but the job is not directly in the automotive field and requires specific data engineering experience.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in AI, ML, and data processing are relevant, but the job is not directly in the automotive field and requires specific data engineering experience.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436662541",
+            "title": "(Junior) Data Engineer (m/w/d)",
+            "company": "syte",
+            "location": "Münster, North Rhine-Westphalia, Germany",
+            "description": "Deine Mission Baue die Daten-Pipelines, auf denen die Immobilienentscheidungen von morgen beruhen. Wir sind syte – ein PropTech-Unternehmen aus Münster, das eine KI-gestützte Software für die Entscheidungsgrundlage der Immobilienentwicklung entwickelt. Unsere Plattform ersetzt wochenlange Expertenko",
+            "url": "https://www.linkedin.com/jobs/view/4436662541",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in AI, ML, and DL are not directly applicable to the role, but their automotive background is relevant.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in AI, ML, and DL are not directly applicable to the role, but their automotive background is relevant.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4419353172",
+            "title": "Werkstudent (m/w/d) im Bereich Order Management and Supply Chain",
+            "company": "Cummins Europe",
+            "location": "Nuremberg, Bavaria, Germany",
+            "description": "Meritor Electric Vehicles Germany ist ein führender Anbieter von elektrischen Antriebssystemen für mittlere und schwere Nutzfahrzeuge. Mit über 25 Jahren Erfahrung treiben wir die Elektromobilität voran. Unser Ziel: Netto-Null-Emissionen bis 2050! Seit dem 1. Dezember 2022 sind wir Teil des Cummins-",
+            "url": "https://www.linkedin.com/jobs/view/4419353172",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's background in International Automotive Engineering and experience with machine learning and data analysis are relevant to the role, but the job posting requires strategic product portfolio management skills and experience, which are not strongly evident in the candidate's profile.",
+          "domain_class": "core_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with machine learning and data analysis are relevant to the role, but the job posting requires strategic product portfolio management skills and experience, which are not strongly evident in the candidate's profile.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4429346013",
+            "title": "Werkstudent (w/m/d) für strategisches Produktfoliomanagement",
+            "company": "Siemens",
+            "location": "Erlangen, Bavaria, Germany",
+            "description": "Art der Anstellung: Befristet / 8–20 Stunden/Woche Gestalte als Werkstudent Portfolio & System Management (w/m/d) in Erlangen oder Nürnberg die Zukunft aktiv mit! Du wirst uns unterstützen, deine Ideen einzubringen, komplexe Daten zu analysieren und entwickle mit uns innovative Lösungen für unsere P",
+            "url": "https://www.linkedin.com/jobs/view/4429346013",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's background in automotive engineering and experience with machine learning and programming languages are relevant, but the job requires specific experience with microcontrollers and embedded systems.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's background in automotive engineering and experience with machine learning and programming languages are relevant, but the job requires specific experience with microcontrollers and embedded systems.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4439517955",
+            "title": "Hardwarenaher Softwareentwickler (m/w/d)",
+            "company": "AXON Innovations",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "Jobspezifikationen Stellenbezeichnung: Hardwarenaher Softwareentwickler (m/w/d) Standort: Leipzig, Deutschland Wochenarbeitszeit: 40 Std./ Woche Befristung: unbefristet Home-Office / Remote: nein Jetzt online bewerben Ihre Aufgaben Wir entwickeln im Kundenauftrag eingebettete Systeme. Das beginnt be",
+            "url": "https://www.linkedin.com/jobs/view/4439517955",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "rejected": [
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438922041",
+            "title": "Stud./ Wiss. Hilfskraft (m/w/d) Tutor/in für Mechatronik-Praktika",
+            "company": "Institute of Automotive Engineering",
+            "location": "Stuttgart Region",
+            "description": "Beginn: nach Absprache Dauer: mind. 1 Jahr Umfang: bis zu 42h/Monat (flexibel) Vergütung: bis 520 €/Monat Inhalt: Durchführen der Praktika sowie Überarbeitung und Weiterentwicklung der Versuchsunterlagen. Voraussetzungen Student/-in (vorzugsweise im Bachelor-Studium-) der Fachrichtung Maschinenbau, ",
+            "url": "https://www.linkedin.com/jobs/view/4438922041",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4430932630",
+            "title": "Trainee Product & Operations Management - Car Subscription (m/w/d)",
+            "company": "SIXT",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Du hast ein abgeschlossenes Studium sowie erste Erfahrungen in einem Praktikum oder einer Werkstudententätigkeit im Unternehmensumfeld, bist auf der Suche nach Einstiegsmöglichkeiten und glaubst wie wir daran, dass die Zeiten des klassischen Autokaufs vorbei sind? Dann bewirb Dich für unser Auto Abo",
+            "url": "https://www.linkedin.com/jobs/view/4430932630",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438916460",
+            "title": "Mitarbeiter Teiledienst (m/w/d)",
+            "company": "DAF Berlin GmbH",
+            "location": "Grossbeeren, Brandenburg, Germany",
+            "description": "DAF Berlin GmbH DAF zählt zu den erfolgreichsten Marken im europäischen Nutzfahrzeugmarkt und ist mit einer dynamisch wachsenden Vertriebs- und Serviceorganisation weiter auf Expansionskurs. Es gehört von jeher zur Unternehmensphilosophie von DAF, die Anforderungen und Wünsche der Transportbranche g",
+            "url": "https://www.linkedin.com/jobs/view/4438916460",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4355243040",
+            "title": "Embedded Software Developer (m/w/d)",
+            "company": "NDT Global",
+            "location": "Stutensee, Baden-Württemberg, Germany",
+            "description": "Über NDT Global NDT Global ist der führende Anbieter von Öl & Gas Pipeline Inspektionssystemen, fortschrittlichen Datenanalysen und Integritätsmanagement-Dienstleistungen zum Schutz der kritischen Infrastruktur und Umwelt. Das Unternehmen ist bekannt für seine Expertise sowohl im Bereich der Ultrasc",
+            "url": "https://www.linkedin.com/jobs/view/4355243040",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4390034731",
+            "title": "Embedded Software Graphic Expert (f/m/x)",
+            "company": "BMW Group",
+            "location": "Ulm, Baden-Württemberg, Germany",
+            "description": "At BMW Car IT, a wholly owned subsidiary of BMW AG, we live and breathe software. We design and implement embedded software for electronic control units of the BMW cars as well as related tools and frameworks. By delivering software all the way from the idea to the final product we lead BMW into the",
+            "url": "https://www.linkedin.com/jobs/view/4390034731",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439558013",
+            "title": "Parallel and Portable CMS Reconstruction Algorithms with Alpaka",
+            "company": "Patatrack - CERN",
+            "location": "Görlitz, Saxony, Germany",
+            "description": "The Center for Advanced Systems Understanding unites the partners Helmholtz-Zentrum Dresden – Rossendorf (HZDR), Helmholtz Center for Environmental Research (UFZ), Technische Universität Dresden (Technical University of Dresden – TUD) and Max Planck Institute of Molecular Cell Biology and Genetics (",
+            "url": "https://www.linkedin.com/jobs/view/4439558013",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4389759434",
+            "title": "Mechanical Design Engineer (Data Centres) - Germany (Dusseldorf or Berlin)",
+            "company": "TRACTEBEL",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Mechanical Design Engineer - Germany (Dusseldorf or Berlin) RED are an expanding international M&E consultancy, with a proven track record in low energy design, focused on providing excellent design solutions to clients. Through our market leading technical expertise, we enable the world’s digital i",
+            "url": "https://www.linkedin.com/jobs/view/4389759434",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4430952229",
+            "title": "Senior Engineer - Mechanical Design & Dimensioning (m/w/d)",
+            "company": "Trench Group",
+            "location": "Bamberg, Bavaria, Germany",
+            "description": "Hybrid | Full time | Permanent Mit einem jährlichen Umsatz > 100 Millionen Euro ist Trench Germany GmbH ein führender internationaler Hersteller von Geräten für elektrische Energie- und Prüftechnik. Unsere Hauptkundengruppen umfassen Prüflabore und Institute, internationale Energieversorgungsunterne",
+            "url": "https://www.linkedin.com/jobs/view/4430952229",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4402531935",
+            "title": "EMC Engineer (f/m/d)",
+            "company": "NXP Semiconductors",
+            "location": "Munich, Bavaria, Germany",
+            "description": "NXP Semiconductors enables secure connections and infrastructure for a smarter world, advancing solutions that make lives easier, better and safer. As the world leader in secure connectivity solutions for embedded applications, we are driving innovation in the secure connected vehicle, end-to-end se",
+            "url": "https://www.linkedin.com/jobs/view/4402531935",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439529952",
+            "title": "IT Engineer",
+            "company": "AgileGrid Solutions",
+            "location": "Germany",
+            "description": "About The Company MIND Business and Technology GmbH, founded in 1998, is a global leader in the automotive industry, focusing on innovative and high-quality solutions for vehicle lighting, thermal management systems, electrical systems, and smart travel. The company's strategic approach aligns with ",
+            "url": "https://www.linkedin.com/jobs/view/4439529952",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436653095",
+            "title": "Entwicklungsingenieur*in - Konstruktion von technischen Komponenten (w/m/d)",
+            "company": "Siemens Healthineers",
+            "location": "Forchheim, Bavaria, Germany",
+            "description": "Wollen Sie die Zukunft des Gesundheitswesens mitgestalten? Wir bei Siemens Healthineers setzen auf Menschen, die ihre Energie und Leidenschaft diesem Ziel widmen – das sagt schon unser Unternehmensname. Siemens Healthineers steht für Pioniergeist unserer Mitarbeitenden, gepaart mit unserer langen Tr",
+            "url": "https://www.linkedin.com/jobs/view/4436653095",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436660285",
+            "title": "Entwicklungsingenieur - Munition (m/w/d)",
+            "company": "Rheinmetall",
+            "location": "Unterlüß, Lower Saxony, Germany",
+            "description": "WOFÜR WIR SIE SUCHEN Entwicklung und Konstruktion von Munition und derer Komponenten Erstellung von 3D-CAD-Modellen und Konstruktionszeichnungen Unterstützung bei der Serienreifmachung von Munition, inkl. Erarbeitung und Optimierung von Produktionsprozessen Serienbetreuung, z.B. technische Bewertung",
+            "url": "https://www.linkedin.com/jobs/view/4436660285",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436645916",
+            "title": "Gruppenleitung mechanische Konstruktion (m/w/d)",
+            "company": "Tesla Automation GmbH",
+            "location": "Roth, Rhineland-Palatinate, Germany",
+            "description": "Tesla steht für die Beschleunigung des Übergangs zu nachhaltiger Energie. Innerhalb weniger Jahre wurden revolutionäre Strategien und Produkte entwickelt und erfolgreich auf den Markt gebracht. Dies ist nur möglich durch außerordentliche Begeisterung und Identifikation der Mitarbeiter, Geschwindigke",
+            "url": "https://www.linkedin.com/jobs/view/4436645916",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439531979",
+            "title": "Maschinenbauingenieur - Projektmanager (m/w/d)",
+            "company": "Oehler Maschinen Fahrzeugbau GmbH",
+            "location": "Offenburg, Baden-Württemberg, Germany",
+            "description": "Bei einem der Branchenführer arbeiten! Die Firma Oehler Maschinen Fahrzeugbau GmbH ist bereits seit über 70 Jahren im Bereich der Landtechnik tätig und bietet ein umfangreiches Produktprogramm Kippfahrzeuge, Gülletechnik, Hofschlepper sowie Forst- und Gartengeräte umfassen die Hauptprodukte. Unsere ",
+            "url": "https://www.linkedin.com/jobs/view/4439531979",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 12,
+          "reason": "keyword bonus: 1; preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439515270",
+            "title": "Fachreferent:in Regelwerk und Bauartbetreung",
+            "company": "Deutsche Bahn",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "Die Deutsche Bahn ist nicht nur einer der wichtigsten Mobilitätsdienstleister, sondern auch eines der größten Ingenieurbüros Deutschlands. Um neue Brücken, Tunnel, Bahnhöfe, Gleise und Signalanlagen zu realisieren und nachhaltig instand zu halten, arbeiten aktuell mehr als 10.000 Ingenieure bei uns ",
+            "url": "https://www.linkedin.com/jobs/view/4439515270",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438918237",
+            "title": "Formenbauschlosser (all genders)",
+            "company": "RAILONE",
+            "location": "Coswig, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438918237",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436659374",
+            "title": "Werkzeugmechaniker/in, Industriemechaniker/in, Tischler/in",
+            "company": "EMS FVK-Profile | Emsoplast GFK-Profile",
+            "location": "Lathen, Lower Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436659374",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438901858",
+            "title": "Betriebselektroniker (all genders)",
+            "company": "RAILONE",
+            "location": "Coswig, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438901858",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438910369",
+            "title": "Ausbildung Zerspanungsmechaniker (m/w/d)",
+            "company": "LEUCO GROUP",
+            "location": "Horb am Neckar, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438910369",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436662480",
+            "title": "CNC-Fräser",
+            "company": "HOMBURGER GmbH & Co. KG",
+            "location": "Markdorf, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436662480",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438915308",
+            "title": "Elektromeister oder Elektrotechniker - VEFK (all genders)",
+            "company": "RAILONE",
+            "location": "Coswig, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438915308",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438903832",
+            "title": "Zerspanungsmechaniker (m/w/d) CNC-Drehen",
+            "company": "Röchling Industrial Xanten",
+            "location": "Xanten, North Rhine-Westphalia, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438903832",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436672364",
+            "title": "Schweißer im Bereich WIG, MAG oder E-Hand (m/w/d)",
+            "company": "VB-Industries GmbH",
+            "location": "Hamburg, Hamburg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436672364",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4351713488",
+            "title": "Zerspanungsmechaniker (m/w/d)",
+            "company": "PFISTERER",
+            "location": "Gerstetten, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4351713488",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436680137",
+            "title": "Werkzeugmechaniker für Stanz- und Umformtechnik (m/w/d)",
+            "company": "PolyTALENT JOBS",
+            "location": "Pforzheim, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436680137",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 12,
+          "reason": "keyword bonus: 1; preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "sf_bmwag_184120",
+            "title": "PhD Developing customer experience through innovative seating concepts for future interiors (f/m/x)",
+            "company": "BMW Group",
+            "location": "Germany",
+            "description": "THE FUTURE IS WHAT WE CREATE WHEN WE TAKE OUR VISIONS TO THE LIMITS. PHD AT THE BMW GROUP. Bridging the gap between your doctoral studies and the kind of career challenge you’re looking for isn’t always easy. That’s why our ProMotion PhD programme gives you the opportunity to apply your passion and ",
+            "url": "https://career5.successfactors.eu/career?company=bmwag&career_job_req_id=184120&career_ns=job_listing",
+            "published": "",
+            "source": "BMW Group (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Out of domain: The job is in CRM at a cruise company, unrelated to automotive engineering.",
+          "domain_class": "out_of_domain",
+          "ai_score": 0,
+          "ai_reason": "The role requires skills and experience unrelated to the candidate's field of automotive engineering.",
+          "unscored": false,
+          "category": "out_of_domain",
+          "job": {
+            "id": "linkedin_4420295206",
+            "title": "Werkstudent/in (all gender) CRM",
+            "company": "TUI Cruises",
+            "location": "Hamburg, Hamburg, Germany",
+            "description": "WAS DICH ERWARTET Unterstützung bei der Planung und Durchführung von CRM-Maßnahmen Inhaltliche sowie organisatorische Unterstützung für aktuelle Projekte inkl. Betreuung eigener Teilprojekte Unterstützung bei der regelmäßigen Kundenkommunikation rund um die Reise (u.a. via Newsletter, Kampagnen) Kon",
+            "url": "https://www.linkedin.com/jobs/view/4420295206",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ]
     }
   ]
 }

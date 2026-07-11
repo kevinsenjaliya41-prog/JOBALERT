@@ -1,0 +1,33 @@
+=== STRONG MATCHES ===
+
+--- Run at 07:28:45 (4 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  90/100
+  Pflichtpraktikum in der Automatisierung der Prozessentwicklung mit agentischer KI in der Fertigung (w/m/div.)
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence align well with the job requirements, and their experience in projects such as Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132591910
+────────────────────────────────────────────────
+  Score:  90/100
+  Wissenschaftliche/n Mitarbeiter/in (m/w/d) „Battery Simulation and Cell Testing @Powertrain Development" mit Promotionsmöglichkeit
+  @ Institute of Automotive Engineering  ·  Stuttgart Region
+  Source: LinkedIn
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning, Artificial Intelligence, and Automotive Systems align well with the job requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.
+  URL:    https://www.linkedin.com/jobs/view/4438920069
+────────────────────────────────────────────────
+  Score:  90/100
+  Wissenschaftliche/n Mitarbeiter/in (m/w/d) „Model-based Toolchain for PEM Fuel Cell Propulsion Systems“ mit der Möglichkeit zur Promotion
+  @ Institute of Automotive Engineering  ·  Stuttgart Region
+  Source: LinkedIn
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence align well with the job's requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills, but the role's potential requirement for fluent German is a slight gap.
+  URL:    https://www.linkedin.com/jobs/view/4438914211
+────────────────────────────────────────────────
+  Score:  80/100
+  Tool & Sensor Engineer (w/m/d)
+  @ NDI Europe GmbH  ·  Radolfzell, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and education are highly relevant to the job, but the location is not preferred.
+  URL:    https://www.linkedin.com/jobs/view/4438916458
+

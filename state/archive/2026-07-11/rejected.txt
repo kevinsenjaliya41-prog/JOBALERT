@@ -1,0 +1,320 @@
+=== AUTO-REJECTED ===
+
+--- Run at 07:28:45 (45 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  10/100
+  Flexible studentische Beschäftigung im Mercedes-Benz Logistik Center Reutlingen/Kusterdingen Herbst 2026
+  @ Mercedes-Benz AG  ·  Reutlingen, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436645912
+────────────────────────────────────────────────
+  Score:  10/100
+  Duales Studium Maschinenbau/Produktionstechnik (B.Eng.), Campusmodell Bremen/Stuttgart 2026 (w/m/d)
+  @ Mercedes-Benz AG  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436656633
+────────────────────────────────────────────────
+  Score:  10/100
+  Disponent (m/w/d)
+  @ BMW und MINI Autohaus Kühnert  ·  Hilmersdorf, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438372693
+────────────────────────────────────────────────
+  Score:  10/100
+  Gastgeber(-in) / Serviceassistent (-in)
+  @ Ernst Jüntgen GmbH  ·  Haan, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439541079
+────────────────────────────────────────────────
+  Score:   0/100
+  Work Student, Quality Assurance
+  @ TeamViewer  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439362764
+────────────────────────────────────────────────
+  Score:  10/100
+  Kaufmännischer Mitarbeiter (m/w/d)
+  @ BMW und MINI Autohaus Kühnert  ·  Hilmersdorf, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438380148
+────────────────────────────────────────────────
+  Score:  10/100
+  Ingenieur Serienbetreuung (m/w/d)
+  @ Woodward L'Orange GmbH  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439389001
+────────────────────────────────────────────────
+  Score:   0/100
+  Self-Driving Systems Specialist (SDS Specialist) - Autonomous Vehicle Diagnostics & Calibration
+  @ TSMG Holding  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4439378705
+────────────────────────────────────────────────
+  Score:  10/100
+  Mitarbeiter Entwicklung (m/w/d)
+  @ REVCON  ·  Bönen, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438922125
+────────────────────────────────────────────────
+  Score:  10/100
+  Duales Studium Maschinenbau/ Produktionstechnik (B.Eng.), Campusmodell Sindelfingen/Stuttgart 2026 (w/m/d)
+  @ Mercedes-Benz AG  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436650794
+────────────────────────────────────────────────
+  Score:   0/100
+  Maschinenbauingenieur (m/w/d)
+  @ WEBER GmbH  ·  Regensburg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4439381525
+────────────────────────────────────────────────
+  Score:   0/100
+  Entwicklungsingenieur Hardware (m/w/d)
+  @ Rheinmetall  ·  Kassel, Hesse, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'mehrjährige Berufserfahrung'
+  URL:    https://www.linkedin.com/jobs/view/4364757761
+────────────────────────────────────────────────
+  Score:   0/100
+  Principal Vehicle AI Architect Research (f/m/x) - Jobbird.com
+  @ Jobster  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Principal'
+  URL:    https://www.linkedin.com/jobs/view/4438906538
+────────────────────────────────────────────────
+  Score:   0/100
+  Principal AI Vehicle Architect (f/m/x) - Jobbird.com
+  @ Jobster  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Principal'
+  URL:    https://www.linkedin.com/jobs/view/4438907574
+────────────────────────────────────────────────
+  Score:  10/100
+  Applied Scientist, Amazon Robotics
+  @ Amazon Science  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436628989
+────────────────────────────────────────────────
+  Score:  10/100
+  TYPO3 Developer (m/f/d)
+  @ DecompileD Conference  ·  Dresden, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439514172
+────────────────────────────────────────────────
+  Score:   0/100
+  Team Lead Development (m/f/d)
+  @ Chrono24  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4429046355
+────────────────────────────────────────────────
+  Score:  10/100
+  Internship IT Development - Digital Services in Mobility After-Sales
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: preferred location
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134463949
+────────────────────────────────────────────────
+  Score:   0/100
+  Tech Lead Software Engineering for Cloud-based Industrial AI and Software Applications (f/m/div.)
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131887373
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Java Entwickler (m/w/d)
+  @ Bosch  ·  Erfurt, TH, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Senior'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135223858
+────────────────────────────────────────────────
+  Score:   0/100
+  Pflichtpraktikum Angular Frontend Entwicklung / Webdesign
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133008664
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum in der Fertigungsplanung Montage Axialkolbeneinheiten
+  @ Bosch  ·  Nürnberg, BY, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132583939
+────────────────────────────────────────────────
+  Score:   0/100
+  Bachelorarbeit zur Zukunft der Softwareentwicklung - Von Code zu intelligenten Agenten
+  @ Bosch  ·  Schwieberdingen, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129730120
+────────────────────────────────────────────────
+  Score:   0/100
+  Pflichtpraktikum im Bereich Fahrzeugtest - Fahrerassistenzsysteme
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127625449
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Software Entwickler (w/m/div.) C++ verteilte Systeme 
+  @ Bosch  ·  Ettlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Senior'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000123390700
+────────────────────────────────────────────────
+  Score:   0/100
+  PreMaster - GapYear - Firmware-Entwicklung ctrlX DRIVE
+  @ Bosch  ·  Lohr am Main, BY, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121346958
+────────────────────────────────────────────────
+  Score:   0/100
+  Pflichtpraktikum Corporate Sustainability Reporting / CSRD im HR Bereich
+  @ Bosch  ·  Gerlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134972709
+────────────────────────────────────────────────
+  Score:  10/100
+  PreMaster Programm – Einstieg ins internationale Projektmanagement (Project Management Flex-Team)
+  @ Bosch  ·  Leonberg, BW, de
+  Source: Bosch (Direct)
+  Reason: skills: Künstliche Intelligenz; keyword bonus: 1; +1 core-strength terms
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132381299
+────────────────────────────────────────────────
+  Score:   0/100
+  Werkstudent in der Geschäftsentwicklung - Business Development (w/m/div.)
+  @ Bosch  ·  Lohr am Main, BY, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136779990
+────────────────────────────────────────────────
+  Score:   0/100
+  Werkstudent im Bereich Vertrieb Automatisierungstechnik (w/m/div.)
+  @ Bosch  ·  Ratingen, NRW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136770026
+────────────────────────────────────────────────
+  Score:   0/100
+  Werkstudent in Sales Support – NEXOSPACE Energy Manager (w/m/div.)
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136459119
+────────────────────────────────────────────────
+  Score:   0/100
+  Software Engineer
+  @ Cartainers  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Out of domain: The job posting is for a marketing specialist, unrelated to automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4436628697
+────────────────────────────────────────────────
+  Score:   0/100
+  Software Engineer - FrontEnd
+  @ DQC | Data Quality Company  ·  Greater Munich Metropolitan Area
+  Source: LinkedIn
+  Reason: The role requires 3+ years of professional experience in frontend development, which the candidate lacks.
+  URL:    https://www.linkedin.com/jobs/view/4439509468
+────────────────────────────────────────────────
+  Score:   0/100
+  FRONTEND SOFTWARE ENGINEER (M/W/D)
+  @ VAPA GmbH  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: The role requires frontend software engineering skills, which are not mentioned in the candidate's profile, and the candidate's skills are more focused on automotive engineering and machine learning.
+  URL:    https://www.linkedin.com/jobs/view/4439525968
+────────────────────────────────────────────────
+  Score:   0/100
+  Software Engineer - E-Commerce (Remote)
+  @ Hired  ·  Germany
+  Source: LinkedIn
+  Reason: Out of domain: The job is in e-commerce, unrelated to automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4439539210
+────────────────────────────────────────────────
+  Score:   0/100
+  Werkstudent:in Personalmanagement
+  @ Deutsche Bahn  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: Out of domain: The job is in human resources management, unrelated to automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4439518179
+────────────────────────────────────────────────
+  Score:  30/100
+  Werkstudent:in Technisches Projektmanagement
+  @ Deutsche Bahn  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: title fits 'Werkstudent Automotive'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439509689
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Kommunikation für Interne Digitalisierung
+  @ Bosch  ·  Bühl, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the job's focus on internal digitalization and communication, and the candidate's location preference does not match the job location.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135752579
+────────────────────────────────────────────────
+  Score:  28/100
+  Cyber-Security Software Engineer für automatisierte mobile Maschinen (m/w/d) (w/m/div.)
+  @ Bosch  ·  Schwieberdingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Automotive Software Engineer'; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136217929
+────────────────────────────────────────────────
+  Score:  26/100
+  PreMaster Programm - GapYear - Software Engineer CI/CD
+  @ Bosch  ·  Lohr am Main, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Automotive Software Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121346927
+────────────────────────────────────────────────
+  Score:  23/100
+  Student (m/w/d) – Mechanische Produktkonfiguration & Änderungsmanagement
+  @ Wirtschaftswissenschaftliche Fakultät – Georg-August-Universität Göttingen  ·  Göttingen, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4436647283
+────────────────────────────────────────────────
+  Score:  40/100
+  Software Developer Typescript
+  @ Cross Solution  ·  Germany
+  Source: LinkedIn
+  Reason: The candidate lacks direct experience in software development with TypeScript, but has relevant skills in machine learning and artificial intelligence.
+  URL:    https://www.linkedin.com/jobs/view/4436660199
+────────────────────────────────────────────────
+  Score:  40/100
+  Applied Scientist / Domain Expert, AI4Engineering - EMEA
+  @ Mistral  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with Machine Learning and Artificial Intelligence are relevant, but the role requires a PhD and 5+ years of industry experience, which the candidate lacks.
+  URL:    https://www.linkedin.com/jobs/view/4439500622
+────────────────────────────────────────────────
+  Score:  40/100
+  Praktikum im Produktmanagement
+  @ Bosch  ·  Frankfurt am Main, HE, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with AI and machine learning tools are relevant, but the role requires more business and management-focused skills, and the candidate's experience is more technical and production-oriented.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131836934
+────────────────────────────────────────────────
+  Score:  40/100
+  Werkstudent für die Prozessdokumentation im Sales & Market Intelligence (w/m/div.)
+  @ Bosch  ·  Lohr am Main, BY, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the role's focus on Sales & Market Intelligence and requirement for business German proficiency are significant gaps.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135406889
+

@@ -14,37 +14,28 @@ domain:
   core_terms:
   - Automotive
   - Fahrzeugtechnik
-  - Automatisierungstechnik
   - Machine Learning
-  - Artificial Intelligence
-  - Deep Learning
-  - Python
-  - PyTorch
-  - TensorFlow
   - Künstliche Intelligenz
   - Maschinelles Lernen
+  - Deep Learning
   - Tiefes Lernen
+  - Artificial Intelligence
+  - Fahrzeugentwicklung
+  - Automatisierungstechnik
   supporting_terms:
-  - Electronics
-  - Mechatronics
-  - Robotics
-  - Sensor Systems
-  - Elektronik
-  - Mechatronik
-  - Robotik
-  - Sensoren
+  - Engineering
+  - Technik
+  - Ingenieurwesen
+  - Forschung
+  - Entwicklung
   adjacent_terms:
-  - Aerospace Engineering
-  - Mechanical Engineering
-  - Electrical Engineering
-  - Computer Science
-  - Luft- und Raumfahrttechnik
-  - Maschinenbau
+  - Mechatronik
   - Elektrotechnik
-  - Informatik
+  - Maschinenbau
+  - Aerodynamik
   core_companies:
   - bmw
-  - mercedes-benz
+  - mercedes
   - audi
   - volkswagen
   - porsche
@@ -52,29 +43,22 @@ domain:
   - bosch
   - siemens
   adjacent_companies:
-  - airbus
-  - boeing
   - thyssenkrupp
   - siemens
-  - philips
+  - basf
+  - bayer
   reject_title_terms:
   - Marketing Manager
   - Nurse
   - Recruiter
   - Sales Manager
-  - Vertriebsleiter
-  - Krankenpfleger
-  - Personalberater
+  - Kundenberater
   bonus_terms:
+  - Autonomous Driving
+  - Fahrerassistenzsysteme
   - Machine Learning
-  - Artificial Intelligence
-  - Deep Learning
-  - Python
-  - PyTorch
-  - TensorFlow
   - Künstliche Intelligenz
-  - Maschinelles Lernen
-  - Tiefes Lernen
+  - Deep Learning
 skills:
 - Python
 - PyTorch
@@ -98,27 +82,21 @@ target_titles:
 - Masterarbeit Automotive
 - Thesis Automotive
 - Abschlussarbeit Automotive
-- Junior Automotive Engineer
-- Automotive Systems Engineer
-- Machine Learning Engineer
-- Deep Learning Engineer
-- Artificial Intelligence Engineer
+- Automotive Engineer
+- Fahrzeugentwickler
 - Automatisierungstechniker
-- Fahrzeugtechniker
-- Elektroniker
+- Junior Perception Engineer
+- Automotive Software Engineer
+- Fahrerassistenzsysteme Entwickler
 must_have_keywords:
 - Automotive
 - Machine Learning
 - Artificial Intelligence
-- Deep Learning
-- Python
-- PyTorch
-- TensorFlow
+- Fahrzeugtechnik
 - Künstliche Intelligenz
 - Maschinelles Lernen
+- Deep Learning
 - Tiefes Lernen
-- Fahrzeugtechnik
-- Automatisierungstechnik
 exclude_keywords:
 - Senior
 - Lead
@@ -126,7 +104,6 @@ exclude_keywords:
 - 10+ years
 - mehrjährige Berufserfahrung
 - Leitender Ingenieur
-- Gruppenleiter
 preferred_locations:
 - Ingolstadt
 - Munich
@@ -138,39 +115,24 @@ career_level: student
 search_queries:
 - Werkstudent Automotive
 - Junior Automotive Engineer
-- Machine Learning Engineer
-- Deep Learning Engineer
-- Artificial Intelligence Engineer
-- Automatisierungstechniker
-- Fahrzeugtechniker
-- Elektroniker
-- Automotive Systems Engineer
+- Machine Learning Automotive
+- Künstliche Intelligenz Fahrzeugtechnik
+- Automotive Software Engineer
+- Fahrerassistenzsysteme Entwickler
 prefilter_min_score: 15
 tier_thresholds:
   strong: 75
   worth_look: 50
 company_targets:
-- name: bmw
+- name: BMW
   ats: smartrecruiters
-  id: BMWGroup
-- name: mercedes-benz
+  id: BMWGroupp
+- name: Mercedes
   ats: smartrecruiters
   id: DaimlerAG
-- name: audi
-  ats: smartrecruiters
-  id: AudiAG
-- name: volkswagen
-  ats: smartrecruiters
-  id: VolkswagenAG
-- name: porsche
-  ats: smartrecruiters
-  id: PorscheAG
-- name: continental
+- name: Continental
   ats: smartrecruiters
   id: ContinentalAG
-- name: bosch
+- name: Bosch
   ats: smartrecruiters
   id: BoschGroup
-- name: siemens
-  ats: smartrecruiters
-  id: SiemensAG

@@ -1,0 +1,47 @@
+=== WORTH A LOOK ===
+
+--- Run at 07:28:45 (6 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  70/100
+  Full-Stack Software Engineer | AI Accelerated | (m/w/d)
+  @ Merlin  ·  Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in machine learning, deep learning, and artificial intelligence are relevant, but the job requires full-stack software engineering experience.
+  URL:    https://www.linkedin.com/jobs/view/4436641425
+────────────────────────────────────────────────
+  Score:  70/100
+  Pflichtpraktikum Entwicklung - Kalibrierequipment für Fahrerassistenzsysteme
+  @ Bosch  ·  Plochingen, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems align with the job requirements, but the role's emphasis on fluent German and the candidate's language preference may pose a gap.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134767889
+────────────────────────────────────────────────
+  Score:  70/100
+  Pflichtpraktikum Software Development für datenbasierte Anwendungen im industriellen Umfeld
+  @ Bosch  ·  Bühl, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with Machine Learning, Artificial Intelligence, and Python align with the job requirements, but the role's preference for German language proficiency and the candidate's language preference not matching are notable gaps.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000120862427
+────────────────────────────────────────────────
+  Score:  60/100
+  Werkstudent Flugsimulation (m/w/d)
+  @ Rheinmetall  ·  Penzberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with machine learning, artificial intelligence, and simulation tools like MATLAB and SIMULINK show some relevance to the role, but the job posting's focus on flight simulation and the candidate's lack of direct experience in this area are notable gaps.
+  URL:    https://www.linkedin.com/jobs/view/4436660286
+────────────────────────────────────────────────
+  Score:  60/100
+  Software Engineer (m/f/d)
+  @ INLEAP Photonics GmbH  ·  Hannover, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in machine learning and AI are transferable, but the job is in a different industry and requires specific knowledge of laser systems and photonics.
+  URL:    https://www.linkedin.com/jobs/view/4439386441
+────────────────────────────────────────────────
+  Score:  60/100
+  AI-First Engineering Intern
+  @ Xsolla  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in machine learning and AI are relevant, but the job is not directly in automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4436638167
+

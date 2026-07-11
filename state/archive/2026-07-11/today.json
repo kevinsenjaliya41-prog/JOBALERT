@@ -1,0 +1,925 @@
+{
+  "date": "2026-07-11",
+  "runs": [
+    {
+      "timestamp": "2026-07-11T07:28:45.923354",
+      "strong": [
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence align well with the job requirements, and their experience in projects such as Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "domain_class": "core_field",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence align well with the job requirements, and their experience in projects such as Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000132591910",
+            "title": "Pflichtpraktikum in der Automatisierung der Prozessentwicklung mit agentischer KI in der Fertigung (w/m/div.)",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "In diesem Praktikum unterstützen Sie dabei, einen Werkzeugkasten für die Prozessentwicklung auf ein breiteres Spektrum von Fügetechniken sowie Montage- und Assemblierungsprozessen auszuweiten. Unser Ziel ist es, Künstliche Intelligenz zu nutzen, um den Werkzeugkasten intelligenter und effizienter zu",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132591910",
+            "published": "2026-06-17T09:09:14.048Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning, Artificial Intelligence, and Automotive Systems align well with the job requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "domain_class": "core_field",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning, Artificial Intelligence, and Automotive Systems align well with the job requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4438920069",
+            "title": "Wissenschaftliche/n Mitarbeiter/in (m/w/d) „Battery Simulation and Cell Testing @Powertrain Development\" mit Promotionsmöglichkeit",
+            "company": "Institute of Automotive Engineering",
+            "location": "Stuttgart Region",
+            "description": "Der Lehrstuhl Fahrzeugantriebssysteme des Instituts für Fahrzeugtechnik Stuttgart (IFS) der Uni Stuttgart arbeitet an der Zukunft in Forschung und Lehre. Hierbei werden nahezu alle Themen rund um neue Antriebskonzepte auf Basis regenerativer Energien behandelt. Im Bereich „Artificial Intelligence an",
+            "url": "https://www.linkedin.com/jobs/view/4438920069",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence align well with the job's requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills, but the role's potential requirement for fluent German is a slight gap.",
+          "domain_class": "core_field",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Machine Learning and Artificial Intelligence align well with the job's requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills, but the role's potential requirement for fluent German is a slight gap.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4438914211",
+            "title": "Wissenschaftliche/n Mitarbeiter/in (m/w/d) „Model-based Toolchain for PEM Fuel Cell Propulsion Systems“ mit der Möglichkeit zur Promotion",
+            "company": "Institute of Automotive Engineering",
+            "location": "Stuttgart Region",
+            "description": "Der Lehrstuhl Fahrzeugantriebssysteme des Instituts für Fahrzeugtechnik Stuttgart (IFS) der Universität Stuttgart arbeitet an der Zukunft in Forschung und Lehre. Hierbei werden nahezu alle Themen rund um neue Antriebskonzepte auf Basis regenerativer Energien behandelt. Im Bereich „Artificial Intelli",
+            "url": "https://www.linkedin.com/jobs/view/4438914211",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 80,
+          "reason": "The candidate's skills and education are highly relevant to the job, but the location is not preferred.",
+          "domain_class": "core_field",
+          "ai_score": 80,
+          "ai_reason": "The candidate's skills and education are highly relevant to the job, but the location is not preferred.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4438916458",
+            "title": "Tool & Sensor Engineer (w/m/d)",
+            "company": "NDI Europe GmbH",
+            "location": "Radolfzell, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438916458",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "worth_look": [
+        {
+          "score": 70,
+          "reason": "The candidate's skills in machine learning, deep learning, and artificial intelligence are relevant, but the job requires full-stack software engineering experience.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 70,
+          "ai_reason": "The candidate's skills in machine learning, deep learning, and artificial intelligence are relevant, but the job requires full-stack software engineering experience.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436641425",
+            "title": "Full-Stack Software Engineer | AI Accelerated | (m/w/d)",
+            "company": "Merlin",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436641425",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 70,
+          "reason": "The candidate's master's studies in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems align with the job requirements, but the role's emphasis on fluent German and the candidate's language preference may pose a gap.",
+          "domain_class": "core_field",
+          "ai_score": 70,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering and experience in machine learning, artificial intelligence, and automotive systems align with the job requirements, but the role's emphasis on fluent German and the candidate's language preference may pose a gap.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000134767889",
+            "title": "Pflichtpraktikum Entwicklung - Kalibrierequipment für Fahrerassistenzsysteme",
+            "company": "Bosch",
+            "location": "Plochingen, BW, de",
+            "description": "Während deines Praktikums unterstützt du uns umfassend bei der Entwicklung unseres Kalibrierequipments für Fahrerassistenzsysteme, von der ersten Konzeption bis zur abschließenden Validierung, und erhältst dabei tiefe Einblicke in die Zusammenarbeit mit Kunden und Lieferanten. Eigenverantwortlich re",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134767889",
+            "published": "2026-06-29T11:37:49.310Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 70,
+          "reason": "The candidate's background in International Automotive Engineering and experience with Machine Learning, Artificial Intelligence, and Python align with the job requirements, but the role's preference for German language proficiency and the candidate's language preference not matching are notable gaps.",
+          "domain_class": "core_field",
+          "ai_score": 70,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with Machine Learning, Artificial Intelligence, and Python align with the job requirements, but the role's preference for German language proficiency and the candidate's language preference not matching are notable gaps.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000120862427",
+            "title": "Pflichtpraktikum Software Development für datenbasierte Anwendungen im industriellen Umfeld",
+            "company": "Bosch",
+            "location": "Bühl, BW, de",
+            "description": "Suchst du eine spannende Herausforderung, bei der du deine Talente voll entfalten kannst, und möchtest in einem innovativen Umfeld mit interdisziplinären Teams arbeiten? Dann bist du bei uns genau richtig! Du hast die Möglichkeit, in der Softwareentwicklung von Anwendungen mitzuwirken, die im produk",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000120862427",
+            "published": "2026-04-15T04:28:36.770Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's background in International Automotive Engineering and experience with machine learning, artificial intelligence, and simulation tools like MATLAB and SIMULINK show some relevance to the role, but the job posting's focus on flight simulation and the candidate's lack of direct experience in this area are notable gaps.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with machine learning, artificial intelligence, and simulation tools like MATLAB and SIMULINK show some relevance to the role, but the job posting's focus on flight simulation and the candidate's lack of direct experience in this area are notable gaps.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436660286",
+            "title": "Werkstudent Flugsimulation (m/w/d)",
+            "company": "Rheinmetall",
+            "location": "Penzberg, Bavaria, Germany",
+            "description": "WOFÜR WIR SIE SUCHEN Entwicklung und Implementierung physikalischer Modelle für Flugmechanik, Sensorik und Umwelteinflüsse Erstellung und Pflege von Modellen für Model-in-the-Loop, Software-in-the-Loop und Hardware-in-the-Loop Simulationen Implementierung und Integration von Simulationskomponenten i",
+            "url": "https://www.linkedin.com/jobs/view/4436660286",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in machine learning and AI are transferable, but the job is in a different industry and requires specific knowledge of laser systems and photonics.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in machine learning and AI are transferable, but the job is in a different industry and requires specific knowledge of laser systems and photonics.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4439386441",
+            "title": "Software Engineer (m/f/d)",
+            "company": "INLEAP Photonics GmbH",
+            "location": "Hannover, Lower Saxony, Germany",
+            "description": "At INLEAP Photonics , we develop innovative and ultra-fast laser system technology for industrial and safety-critical applications. In addition to optimising laser processes in manufacturing, we also work on high-precision systems for drone defence. Our goal is to set new standards in productivity a",
+            "url": "https://www.linkedin.com/jobs/view/4439386441",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in machine learning and AI are relevant, but the job is not directly in automotive engineering.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in machine learning and AI are relevant, but the job is not directly in automotive engineering.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436638167",
+            "title": "AI-First Engineering Intern",
+            "company": "Xsolla",
+            "location": "Berlin, Berlin, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436638167",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "rejected": [
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436645912",
+            "title": "Flexible studentische Beschäftigung im Mercedes-Benz Logistik Center Reutlingen/Kusterdingen Herbst 2026",
+            "company": "Mercedes-Benz AG",
+            "location": "Reutlingen, Baden-Württemberg, Germany",
+            "description": "Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus. Bewerben Sie sich bei Mercedes-Benz und finden S",
+            "url": "https://www.linkedin.com/jobs/view/4436645912",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436656633",
+            "title": "Duales Studium Maschinenbau/Produktionstechnik (B.Eng.), Campusmodell Bremen/Stuttgart 2026 (w/m/d)",
+            "company": "Mercedes-Benz AG",
+            "location": "Stuttgart, Baden-Württemberg, Germany",
+            "description": "Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus. Bewerben Sie sich bei Mercedes-Benz und finden S",
+            "url": "https://www.linkedin.com/jobs/view/4436656633",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438372693",
+            "title": "Disponent (m/w/d)",
+            "company": "BMW und MINI Autohaus Kühnert",
+            "location": "Hilmersdorf, Saxony, Germany",
+            "description": "Stellenbezeichnung Disponent (m/w/d) Beschreibung Wir suchen schnellstmöglich für unseren Standort in Hilmersdorf einen: Disponent (m/w/d) Als verantwortungsbewusster Disponent/in koordinieren Sie die Disposition von Neu- & Gebrauchtwagen, überwachen präzise Termine und optimieren alle damit verbund",
+            "url": "https://www.linkedin.com/jobs/view/4438372693",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439541079",
+            "title": "Gastgeber(-in) / Serviceassistent (-in)",
+            "company": "Ernst Jüntgen GmbH",
+            "location": "Haan, North Rhine-Westphalia, Germany",
+            "description": "Unternehmensbeschreibung Die Ernst Jüntgen GmbH ist Ihr autorisierter Mercedes-Benz und smart Service-Partner in Haan und steht seit über 40 Jahren für den Slogan „Service erleben“. Das familiengeführte Unternehmen mit rund 50 Mitarbeitenden bietet ein umfassendes Serviceportfolio für Pkw, EQ-Modell",
+            "url": "https://www.linkedin.com/jobs/view/4439541079",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439362764",
+            "title": "Work Student, Quality Assurance",
+            "company": "TeamViewer",
+            "location": "Stuttgart, Baden-Württemberg, Germany",
+            "description": "TeamViewer provides a leading Digital Workplace platform that connects people with technology—enabling, improving and automating digital processes to make work work better. Our software solutions harness the power of AI and shape the future of digitalization. We believe that our diverse teams and st",
+            "url": "https://www.linkedin.com/jobs/view/4439362764",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438380148",
+            "title": "Kaufmännischer Mitarbeiter (m/w/d)",
+            "company": "BMW und MINI Autohaus Kühnert",
+            "location": "Hilmersdorf, Saxony, Germany",
+            "description": "Stellenbezeichnung Kaufmännischer Mitarbeiter (m/w/d) Beschreibung Für unseren Standort in Hilmersdorf suchen wir schnellstmöglich einen: Kaufmännischen Mitarbeiter (m/w/d). Sie arbeiten gern in einem familiären Arbeitsumfeld mit flexiblen Arbeitszeiten, kurzen Entscheidungswegen und interessanten A",
+            "url": "https://www.linkedin.com/jobs/view/4438380148",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439389001",
+            "title": "Ingenieur Serienbetreuung (m/w/d)",
+            "company": "Woodward L'Orange GmbH",
+            "location": "Stuttgart, Baden-Württemberg, Germany",
+            "description": "Woodward L'Orange GmbH Ingenieur Serienbetreuung (m/w/d) Stuttgart Kennziffer: JR111478 Aufgabe Mitarbeit an Entwicklungsprojekten von Großmotoren am Übergang zur Serienproduktion Unterstützung der für Produktgruppen verantwortlichen Ingenieure durch Überwachung und Optimierung von Produktions- und ",
+            "url": "https://www.linkedin.com/jobs/view/4439389001",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439378705",
+            "title": "Self-Driving Systems Specialist (SDS Specialist) - Autonomous Vehicle Diagnostics & Calibration",
+            "company": "TSMG Holding",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Über die Rolle Wir suchen einen Self-Driving Systems Specialist (SDS Specialist), der Diagnostik, Kalibrierung, Konfiguration und technische Bereitschaft von self-driving systems in autonomen Fahrzeugen und Robotaxi-Flotten in Europa unterstützt. Der SDS Specialist fokussiert sich auf die Technologi",
+            "url": "https://www.linkedin.com/jobs/view/4439378705",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438922125",
+            "title": "Mitarbeiter Entwicklung (m/w/d)",
+            "company": "REVCON",
+            "location": "Bönen, North Rhine-Westphalia, Germany",
+            "description": "Sie denken innovativ und möchten Technologien von morgen mitgestalten?    Wir suchen aktuell: Mitarbeiter Entwicklung (m/w/d) in Bönen Unser Ziel ist es, unseren Kunden die qualitativ besten Produkte anzubieten und dafür benötigen wir Menschen wie Sie! Als innovatives und weltweit exportierendes Unt",
+            "url": "https://www.linkedin.com/jobs/view/4438922125",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436650794",
+            "title": "Duales Studium Maschinenbau/ Produktionstechnik (B.Eng.), Campusmodell Sindelfingen/Stuttgart 2026 (w/m/d)",
+            "company": "Mercedes-Benz AG",
+            "location": "Stuttgart, Baden-Württemberg, Germany",
+            "description": "Life is always about becoming… Im Leben geht es darum, sich auf eine Reise zu begeben, um die beste Version unseres zukünftigen Selbst zu werden. Während wir Neues entdecken, stellen wir uns Herausforderungen, meistern sie und wachsen über uns hinaus. Bewerben Sie sich bei Mercedes-Benz und finden S",
+            "url": "https://www.linkedin.com/jobs/view/4436650794",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439381525",
+            "title": "Maschinenbauingenieur (m/w/d)",
+            "company": "WEBER GmbH",
+            "location": "Regensburg, Bavaria, Germany",
+            "description": "html Senior Mechanical Design Engineer (all genders) Automotive Key Fobs / CATIA V5/6 25170 Werden Sie Teil der WEBER GmbH und unterstützen Sie uns bei der Realisierung unserer Kundenprojekte im Großrausm Regensburg als Senior Mechanical Design Engineer (all genders) Automotive Key Fobs / CATIA V5/6",
+            "url": "https://www.linkedin.com/jobs/view/4439381525",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'mehrjährige Berufserfahrung'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4364757761",
+            "title": "Entwicklungsingenieur Hardware (m/w/d)",
+            "company": "Rheinmetall",
+            "location": "Kassel, Hesse, Germany",
+            "description": "WOFÜR WIR SIE SUCHEN Entwicklung von Leiterkarten im Automotive-Bereich Erstellung von Spezifikationsdokumenten mit Anforderungsmanagement-Tools (z. B. DOORS) Erstellung der Entwicklungsdokumentation für sicherheitsbezogene E/E/PE Systeme (IEC 61508) Erstellung der Entwicklungsdokumentation nach fun",
+            "url": "https://www.linkedin.com/jobs/view/4364757761",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Principal'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438906538",
+            "title": "Principal Vehicle AI Architect Research (f/m/x) - Jobbird.com",
+            "company": "Jobster",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Innovation Is Imagining What No One Else Can. At the BMW Group, everything starts with passion. It turns a profession into a vocation. It drives us to keep reinventing mobility and bring innovative ideas onto the roads. Enthusiasm for joint projects turns a team into a strong unit where every opinio",
+            "url": "https://www.linkedin.com/jobs/view/4438906538",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Principal'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438907574",
+            "title": "Principal AI Vehicle Architect (f/m/x) - Jobbird.com",
+            "company": "Jobster",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Innovation Is Imagining What No One Else Can. At the BMW Group, everything starts with passion. It turns a profession into a vocation. It drives us to keep reinventing mobility and bring innovative ideas onto the roads. Enthusiasm for joint projects turns a team into a strong unit where every opinio",
+            "url": "https://www.linkedin.com/jobs/view/4438907574",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436628989",
+            "title": "Applied Scientist, Amazon Robotics",
+            "company": "Amazon Science",
+            "location": "Berlin, Berlin, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436628989",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439514172",
+            "title": "TYPO3 Developer (m/f/d)",
+            "company": "DecompileD Conference",
+            "location": "Dresden, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439514172",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4429046355",
+            "title": "Team Lead Development (m/f/d)",
+            "company": "Chrono24",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4429046355",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000134463949",
+            "title": "Internship IT Development - Digital Services in Mobility After-Sales",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "As our intern, you will be an integral member of our international product team from day one, contributing to the development of the innovative digital service Bosch Vehicle Care Assistant within the Mobility After-Sales business unit. In this role, you will work closely with experienced software en",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134463949",
+            "published": "2026-06-26T12:41:09.935Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000131887373",
+            "title": "Tech Lead Software Engineering for Cloud-based Industrial AI and Software Applications (f/m/div.)",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "You will develop, analyze, prioritize, specify, validate, and manage requirements for cloud-based industrial AI and software applications. As a part of your team, you will design end-to-end architectures for cloud-based industrial AI and software applications, considering performance, scalability, r",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131887373",
+            "published": "2026-06-12T12:27:08.164Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000135223858",
+            "title": "Senior Java Entwickler (m/w/d)",
+            "company": "Bosch",
+            "location": "Erfurt, TH, de",
+            "description": "Fundierte Kenntnisse in der Entwicklung von APIs, insbesondere&#xa0;REST&#xa0;und/oder&#xa0;GraphQL. Nachweisliche Erfahrung in der&#xa0;Entwicklung von Applikationen in Cloud-Umgebungen&#xa0;wie&#xa0;Kubernetes, Microsoft Azure, GCP und/oder AWS. Sicherer Umgang mit&#xa0;SOLID-Prinzipien&#xa0;und&#",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135223858",
+            "published": "2026-07-01T10:05:50.908Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000133008664",
+            "title": "Pflichtpraktikum Angular Frontend Entwicklung / Webdesign",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "Du suchst ein Pflichtpraktikum, das dir echte Gestaltungsmöglichkeiten bietet? Bei uns tauchst du tief in die Welt der Webentwicklung ein und trägst aktiv zur Konzeption und Realisierung unserer Webanwendungen bei. Hier verbindest du technisches Know-how mit kreativem Webdesign und schaffst digitale",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133008664",
+            "published": "2026-06-19T07:56:11.523Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132583939",
+            "title": "Praktikum in der Fertigungsplanung Montage Axialkolbeneinheiten",
+            "company": "Bosch",
+            "location": "Nürnberg, BY, de",
+            "description": "Du möchtest praktische Einblicke in die Fertigungsplanung gewinnen und dein Wissen in einem industriellen Umfeld vertiefen? Dann bist du bei uns genau richtig – gestalte gemeinsam mit unserem Team spannende Themen rund um die Montage und entwickle dich fachlich weiter. Du übernimmst Aufgaben in der ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132583939",
+            "published": "2026-06-17T08:26:57.907Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000129730120",
+            "title": "Bachelorarbeit zur Zukunft der Softwareentwicklung - Von Code zu intelligenten Agenten",
+            "company": "Bosch",
+            "location": "Schwieberdingen, BW, de",
+            "description": "Bist du bereit, die Zukunft der Softwareentwicklung nicht nur zu erleben, sondern aktiv mitzugestalten? Bei uns bekommst du die Chance, an der nächsten Generation von KI-Agenten zu arbeiten und die Rolle des Entwicklers neu zu definieren. Werde Teil der Veränderung und bewirb dich jetzt! Du analysie",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129730120",
+            "published": "2026-06-02T11:29:29.496Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000127625449",
+            "title": "Pflichtpraktikum im Bereich Fahrzeugtest - Fahrerassistenzsysteme",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "Du bist fasziniert von autonomen Fahrfunktionen und möchtest aktiv an deren Entwicklung mitwirken? Dann werde Teil unseres Teams und gestalte die Zukunft videobasierter Fahrerassistenzsysteme mit – von der Konzeptphase bis zur praktischen Erprobung im Fahrzeug. Du arbeitest aktiv an der Entwicklung ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000127625449",
+            "published": "2026-05-21T09:34:22.757Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000123390700",
+            "title": "Senior Software Entwickler (w/m/div.) C++ verteilte Systeme ",
+            "company": "Bosch",
+            "location": "Ettlingen, BW, de",
+            "description": "Die DMS Digitale Mess- und Steuersysteme GmbH, seit Juli 2024 Teil von Bosch Energy and Building Solutions, entwickelt mit dem OpenLS6000 ein leistungsfähiges Leitsystem für anspruchsvolle Gebäudeautomatisierung – weltweit im Einsatz, in unterschiedlichen Branchen.&#xa0; Zur Verstärkung unseres Team",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000123390700",
+            "published": "2026-04-28T08:26:17.100Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000121346958",
+            "title": "PreMaster - GapYear - Firmware-Entwicklung ctrlX DRIVE",
+            "company": "Bosch",
+            "location": "Lohr am Main, BY, de",
+            "description": "Unser&#xa0; PreMaster Programm &#xa0;ist ein zweistufiges Qualifizierungsprogramm für&#xa0; für engagierte Bachelor-Absolvent:innen , die das Ziel haben, ein Masterstudium zu absolvieren. Nach dem Bachelor bietet die erste Phase bis zu&#xa0; 12 Monate praktische Erfahrung , um die fachlichen und unt",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000121346958",
+            "published": "2026-04-17T06:07:18.448Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000134972709",
+            "title": "Pflichtpraktikum Corporate Sustainability Reporting / CSRD im HR Bereich",
+            "company": "Bosch",
+            "location": "Gerlingen, BW, de",
+            "description": "Du verantwortest die globale Erhebung und Plausibilisierung von HR-Kennzahlen für den Nachhaltigkeitsbericht der Bosch-Gruppe, der die Daten von rund 400.000 Mitarbeitenden in etwa 65 Ländern umfasst. Du konzipierst und erstellst Präsentations- und Schulungsunterlagen, um unsere weltweiten Ansprechp",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134972709",
+            "published": "2026-06-30T09:40:24.077Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "skills: Künstliche Intelligenz; keyword bonus: 1; +1 core-strength terms",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132381299",
+            "title": "PreMaster Programm – Einstieg ins internationale Projektmanagement (Project Management Flex-Team)",
+            "company": "Bosch",
+            "location": "Leonberg, BW, de",
+            "description": "Du unterstützt unser Team im Bereich Kundenprojektmanagement, Governance & Excellence – mit Fokus auf das Vorserien- und Mustergeschäft Du treibst aktiv die Digitalisierung von Prozessen voran und arbeitest an der Steigerung der Profitabilität Du übernimmst eigenständig Reporting von KPIs sowie die ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132381299",
+            "published": "2026-06-16T10:10:18.097Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000136779990",
+            "title": "Werkstudent in der Geschäftsentwicklung - Business Development (w/m/div.)",
+            "company": "Bosch",
+            "location": "Lohr am Main, BY, de",
+            "description": "Mit technischem Geschick begleitest du den Onboarding-Prozess neuer Kunden auf unserer any.site-Plattform – von der Einrichtung bis zur erfolgreichen ersten Nutzung. Du entwickelst und optimierst innovative Prompts sowie KI-Workflows, zum Beispiel auf Basis von LLMs, um unsere Support-Prozesse noch ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136779990",
+            "published": "2026-07-09T10:19:46.127Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000136770026",
+            "title": "Werkstudent im Bereich Vertrieb Automatisierungstechnik (w/m/div.)",
+            "company": "Bosch",
+            "location": "Ratingen, NRW, de",
+            "description": "Du identifizierst datenbasiert Markt- und Kundenpotenziale in der Automatisierungstechnik und unterstützt die systematische Kundensegmentierung für eine gezielte Markterschließung. Des Weiteren&#xa0;analysierst du technologische Trends sowie das Wettbewerbsumfeld in der Automatisierungstechnik und l",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136770026",
+            "published": "2026-07-09T09:49:07.473Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000136459119",
+            "title": "Werkstudent in Sales Support – NEXOSPACE Energy Manager (w/m/div.)",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "Du interessierst dich für die Verbindung von Nachhaltigkeit, Digitalisierung und Business? Bei uns erwartet dich ein abwechslungsreiches Umfeld, in dem du Verantwortung übernehmen, wertvolle Praxiserfahrungen sammeln und gemeinsam mit einem engagierten Team Zukunftsthemen vorantreiben kannst. Bewirb",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136459119",
+            "published": "2026-07-08T12:34:02.385Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Out of domain: The job posting is for a marketing specialist, unrelated to automotive engineering.",
+          "domain_class": "out_of_domain",
+          "ai_score": 0,
+          "ai_reason": "The role requires marketing experience and skills, which are not present in the candidate's profile.",
+          "unscored": false,
+          "category": "out_of_domain",
+          "job": {
+            "id": "linkedin_4436628697",
+            "title": "Software Engineer",
+            "company": "Cartainers",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Details As a Marketing Specialist at Nikka, you will play a pivotal role in shaping our brand presence and driving impactful marketing campaigns. From conceptualization to execution, you will contribute to our dynamic marketing strategy, ensuring a compelling and consistent narrative across various ",
+            "url": "https://www.linkedin.com/jobs/view/4436628697",
+            "published": "2026-07-10T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "The role requires 3+ years of professional experience in frontend development, which the candidate lacks.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 0,
+          "ai_reason": "The role requires 3+ years of professional experience in frontend development, which the candidate lacks.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "linkedin_4439509468",
+            "title": "Software Engineer - FrontEnd",
+            "company": "DQC | Data Quality Company",
+            "location": "Greater Munich Metropolitan Area",
+            "description": "About DQC At DQC, we’re building agentic data quality software that fundamentally improves how organizations build and operate data systems. We are a fast-growing startup founded in 2022, headquartered in Munich, and remote-friendly. Our DQC Platform sits at the intersection of backend systems, mode",
+            "url": "https://www.linkedin.com/jobs/view/4439509468",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "The role requires frontend software engineering skills, which are not mentioned in the candidate's profile, and the candidate's skills are more focused on automotive engineering and machine learning.",
+          "domain_class": "broader_field",
+          "ai_score": 0,
+          "ai_reason": "The role requires frontend software engineering skills, which are not mentioned in the candidate's profile, and the candidate's skills are more focused on automotive engineering and machine learning.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4439525968",
+            "title": "FRONTEND SOFTWARE ENGINEER (M/W/D)",
+            "company": "VAPA GmbH",
+            "location": "Berlin, Berlin, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439525968",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Out of domain: The job is in e-commerce, unrelated to automotive engineering.",
+          "domain_class": "out_of_domain",
+          "ai_score": 0,
+          "ai_reason": "The role is unrelated to the candidate's field and skills.",
+          "unscored": false,
+          "category": "out_of_domain",
+          "job": {
+            "id": "linkedin_4439539210",
+            "title": "Software Engineer - E-Commerce (Remote)",
+            "company": "Hired",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439539210",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Out of domain: The job is in human resources management, unrelated to automotive engineering.",
+          "domain_class": "out_of_domain",
+          "ai_score": 0,
+          "ai_reason": "The role is unrelated to the candidate's field and skills.",
+          "unscored": false,
+          "category": "out_of_domain",
+          "job": {
+            "id": "linkedin_4439518179",
+            "title": "Werkstudent:in Personalmanagement",
+            "company": "Deutsche Bahn",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "Die Deutsche Bahn bietet deutschlandweit über 500 Berufe und vielfältige Einstiegsmöglichkeiten für Studierende und Absolvent:innen. Ca. 2.000 Praktikant:innen, Werkstudent:innen, Direkteinsteiger:innen und Trainees lernen uns jährlich als dynamische und innovative Arbeitgeberin kennen. Sei dabei un",
+            "url": "https://www.linkedin.com/jobs/view/4439518179",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Werkstudent Automotive'; preferred location (rule-based)",
+          "domain_class": "skill_adjacent",
+          "ai_score": null,
+          "ai_reason": "AI scoring unavailable",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4439509689",
+            "title": "Werkstudent:in Technisches Projektmanagement",
+            "company": "Deutsche Bahn",
+            "location": "Stuttgart, Baden-Württemberg, Germany",
+            "description": "Die Deutsche Bahn bietet deutschlandweit über 500 Berufe und vielfältige Einstiegsmöglichkeiten für Student:innen und Absolvent:innen. Mehr als 1.400 Praktikant:innen, Werkstudent:innen, Direkteinsteiger:innen und Trainees lernen uns jährlich als dynamische und innovative Arbeitgeberin kennen. Sei d",
+            "url": "https://www.linkedin.com/jobs/view/4439509689",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the job's focus on internal digitalization and communication, and the candidate's location preference does not match the job location.",
+          "domain_class": "core_field",
+          "ai_score": 20,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the job's focus on internal digitalization and communication, and the candidate's location preference does not match the job location.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000135752579",
+            "title": "Pflichtpraktikum Kommunikation für Interne Digitalisierung",
+            "company": "Bosch",
+            "location": "Bühl, BW, de",
+            "description": "Gestalte aktiv mit, wie digitale Transformation im Unternehmen erlebbar wird von der Kommunikation über Trainings bis hin zur Community. Tauche ein in ein Umfeld, in dem du eigene Ideen einbringen und sichtbar etwas bewegen kannst. Bewirb dich jetzt und werde Teil eines Teams, das Digitalisierung gr",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135752579",
+            "published": "2026-07-03T14:43:17.231Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 28,
+          "reason": "title fits 'Automotive Software Engineer'; keyword bonus: 1 (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "AI scoring unavailable",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136217929",
+            "title": "Cyber-Security Software Engineer für automatisierte mobile Maschinen (m/w/d) (w/m/div.)",
+            "company": "Bosch",
+            "location": "Schwieberdingen, BW, de",
+            "description": "Als Cyber-Security Software Engineer für automatisierte mobile Maschinen (m/w/d) sind Sie maßgeblich an der Konzeption und Umsetzung robuster plattformnaher Sicherheitsmechanismen auf unseren QNX-basierten Embedded-Systemen beteiligt. Ihre Hauptaufgabe besteht darin, Sicherheitsanforderungen in konk",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136217929",
+            "published": "2026-07-07T12:28:25.372Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 26,
+          "reason": "title fits 'Automotive Software Engineer' (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "AI scoring unavailable",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000121346927",
+            "title": "PreMaster Programm - GapYear - Software Engineer CI/CD",
+            "company": "Bosch",
+            "location": "Lohr am Main, BY, de",
+            "description": "Unser PreMaster Programm &#xa0;ist ein zweistufiges Qualifizierungsprogramm für engagierte Bachelor-Absolvent:innen , die das Ziel haben, ein Masterstudium zu absolvieren. Nach dem Bachelor bietet die erste Phase bis zu 12 Monate praktische Erfahrung , um die fachlichen und unternehmerischen Zusamme",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000121346927",
+            "published": "2026-04-17T06:06:47.486Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 23,
+          "reason": "preferred location (rule-based)",
+          "domain_class": "skill_adjacent",
+          "ai_score": null,
+          "ai_reason": "AI scoring unavailable",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4436647283",
+            "title": "Student (m/w/d) – Mechanische Produktkonfiguration & Änderungsmanagement",
+            "company": "Wirtschaftswissenschaftliche Fakultät – Georg-August-Universität Göttingen",
+            "location": "Göttingen, Lower Saxony, Germany",
+            "description": "Student (m/w/d) – Mechanische Produktkonfiguration & Änderungsmanagement - Göttingen Honeywell Raum Göttingen Dein Job Honeywell gehört mit mehr als 36 Milliarden US-Dollar Umsatz und über 130.000 Mitarbeitern zu den weltweit führenden Unternehmen. In über 100 Ländern entwickeln und fertigen wir zuk",
+            "url": "https://www.linkedin.com/jobs/view/4436647283",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate lacks direct experience in software development with TypeScript, but has relevant skills in machine learning and artificial intelligence.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 40,
+          "ai_reason": "The candidate lacks direct experience in software development with TypeScript, but has relevant skills in machine learning and artificial intelligence.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "linkedin_4436660199",
+            "title": "Software Developer Typescript",
+            "company": "Cross Solution",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436660199",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience with Machine Learning and Artificial Intelligence are relevant, but the role requires a PhD and 5+ years of industry experience, which the candidate lacks.",
+          "domain_class": "core_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with Machine Learning and Artificial Intelligence are relevant, but the role requires a PhD and 5+ years of industry experience, which the candidate lacks.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "linkedin_4439500622",
+            "title": "Applied Scientist / Domain Expert, AI4Engineering - EMEA",
+            "company": "Mistral",
+            "location": "Munich, Bavaria, Germany",
+            "description": "About Mistral Mistral provides full-stack AI solutions: from frontier models to developer tools, applications, and compute. We partner with enterprises tackling the hardest problems—across high-stakes industries like finance, manufacturing, defense, healthcare, and the public sector—co-creating cust",
+            "url": "https://www.linkedin.com/jobs/view/4439500622",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience with AI and machine learning tools are relevant, but the role requires more business and management-focused skills, and the candidate's experience is more technical and production-oriented.",
+          "domain_class": "core_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with AI and machine learning tools are relevant, but the role requires more business and management-focused skills, and the candidate's experience is more technical and production-oriented.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000131836934",
+            "title": "Praktikum im Produktmanagement",
+            "company": "Bosch",
+            "location": "Frankfurt am Main, HE, de",
+            "description": "Du willst Einblicke ins strategische Produktmanagement und an spannenden, internationalen Projekten mitwirken? Dann bring deine Ideen ein und entwickle mit uns Innovationen weiter. Bewirb dich jetzt und gestalte die Zukunft mit uns. Du unterstützt das Produktmanagement bei bestehenden und neuen Serv",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131836934",
+            "published": "2026-06-12T08:09:53.895Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the role's focus on Sales & Market Intelligence and requirement for business German proficiency are significant gaps.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the role's focus on Sales & Market Intelligence and requirement for business German proficiency are significant gaps.",
+          "unscored": false,
+          "category": "fluent_german",
+          "job": {
+            "id": "smartr_BoschGroup_744000135406889",
+            "title": "Werkstudent für die Prozessdokumentation im Sales & Market Intelligence (w/m/div.)",
+            "company": "Bosch",
+            "location": "Lohr am Main, BY, de",
+            "description": "Wir, im Bereich Sales & Market Intelligence, schaffen durch globale Markt- und Sales-Insights eine tiefgehende Transparenz auf Basis Sales-KPIs. Mit strategischen Analysen liefern wir die Grundlage für zukunftsweisende, datenbasierte Entscheidungen auf Führungsebene. So gestalten wir aktiv und fakte",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135406889",
+            "published": "2026-07-02T03:31:34.402Z",
+            "source": "Bosch (Direct)"
+          }
+        }
+      ]
+    }
+  ]
+}

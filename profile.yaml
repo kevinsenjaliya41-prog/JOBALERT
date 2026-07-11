@@ -8,31 +8,33 @@ personal:
   name: ''
   email: ''
 persona: a master's student in International Automotive Engineering (Artificial Intelligence, Machine
-  Learning, Deep Learning)
+  Learning, Automotive Systems)
 domain:
   name: automotive engineering
   core_terms:
   - Automotive
   - Fahrzeugtechnik
-  - Kraftfahrzeug
-  - Motor
-  - Antrieb
-  - Getriebe
-  - Elektronik
-  - Sicherheit
-  - Automatisierung
+  - Artificial Intelligence
   - Künstliche Intelligenz
+  - Machine Learning
   - Maschinelles Lernen
-  supporting_terms:
-  - Mechanik
-  - Elektrotechnik
-  - Informatik
-  - Mathematik
-  adjacent_terms:
-  - Luftfahrt
-  - Schifffahrt
-  - Maschinenbau
+  - Data Analysis
+  - Datenanalyse
+  - Automatisierung
+  - Elektronik
   - Mechatronik
+  supporting_terms:
+  - Engineering
+  - Ingenieurwesen
+  - Technik
+  - Technology
+  adjacent_terms:
+  - Mechanical Engineering
+  - Maschinenbau
+  - Electrical Engineering
+  - Elektrotechnik
+  - Computer Science
+  - Informatik
   core_companies:
   - bmw
   - mercedes
@@ -43,27 +45,33 @@ domain:
   - bosch
   - siemens
   adjacent_companies:
-  - airbus
-  - thyssenkrupp
-  - siemens healthineers
+  - sap
+  - ibm
+  - microsoft
+  - google
+  - amazon
   reject_title_terms:
   - Marketing Manager
   - Nurse
   - Recruiter
   - Sales Manager
-  - Kundenberater
+  - Financial Analyst
   bonus_terms:
   - Artificial Intelligence
   - Machine Learning
-  - Deep Learning
-  - Computer Vision
-  - Robotik
+  - Data Analysis
+  - Automotive Systems
+  - Fahrzeugentwicklungsingenieur
 skills:
-- Python
+- Python Programming
 - PyTorch
 - TensorFlow
 - Data Collection
 - Data Processing
+- Data Integration
+- Conda
+- Python virtual environment
+- Git
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
@@ -72,7 +80,7 @@ skills:
 - Analytical Thinking
 - Künstliche Intelligenz
 - Maschinelles Lernen
-- Tiefes Lernen
+- Datenanalyse
 target_titles:
 - Working Student Automotive
 - Werkstudent Automotive
@@ -82,19 +90,25 @@ target_titles:
 - Masterarbeit Automotive
 - Thesis Automotive
 - Abschlussarbeit Automotive
-- Automotive Engineer
-- Fahrzeugentwickler
+- Junior Automotive Engineer
+- Automotive Systems Engineer
+- Artificial Intelligence Engineer
+- Machine Learning Engineer
+- Data Analyst
+- Data Scientist
+- Automotive Software Engineer
+- Fahrzeugentwicklungsingenieur
 - Automatisierungstechniker
-- Robotik-Ingenieur
-- Künstliche Intelligenz Ingenieur
+- Elektroniker
+- Mechatroniker
 must_have_keywords:
 - Automotive
 - Artificial Intelligence
 - Machine Learning
-- Deep Learning
+- Data Analysis
 - Künstliche Intelligenz
 - Maschinelles Lernen
-- Tiefes Lernen
+- Datenanalyse
 - Fahrzeugtechnik
 - Automatisierung
 exclude_keywords:
@@ -104,6 +118,7 @@ exclude_keywords:
 - 10+ years
 - mehrjährige Berufserfahrung
 - Leitender Ingenieur
+- Gruppenleiter
 preferred_locations:
 - Ingolstadt
 - Munich
@@ -114,11 +129,15 @@ years_of_experience: 4
 career_level: student
 search_queries:
 - Werkstudent Automotive
-- Junior Perception Engineer
-- Automotive Engineer
-- Künstliche Intelligenz Ingenieur
-- Fahrzeugentwickler
+- Junior Automotive Engineer
+- Artificial Intelligence Engineer
+- Machine Learning Engineer
+- Data Analyst Automotive
+- Automotive Software Engineer
+- Fahrzeugentwicklungsingenieur
 - Automatisierungstechniker
+- Elektroniker
+- Mechatroniker
 prefilter_min_score: 15
 tier_thresholds:
   strong: 75
@@ -126,10 +145,16 @@ tier_thresholds:
 company_targets:
 - name: BMW
   ats: smartrecruiters
-  id: BMGroup
+  id: BMWGroup
 - name: Mercedes
   ats: smartrecruiters
   id: DaimlerAG
 - name: Audi
   ats: smartrecruiters
   id: AudiAG
+- name: Volkswagen
+  ats: smartrecruiters
+  id: VolkswagenAG
+- name: Porsche
+  ats: smartrecruiters
+  id: PorscheAG

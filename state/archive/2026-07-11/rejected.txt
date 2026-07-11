@@ -510,3 +510,335 @@
   Reason: Out of domain: The job is in CRM at a cruise company, unrelated to automotive engineering.
   URL:    https://www.linkedin.com/jobs/view/4420295206
 
+--- Run at 15:39:42 (47 jobs) ---
+
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior AI Engineer (w/m/d)
+  @ BWI GmbH  ·  Ulm, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4377188807
+────────────────────────────────────────────────
+  Score:   0/100
+  Staff Engineer (gn) - AI Enablement
+  @ The Quality Group  ·  Hamburg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4402943176
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior AI Engineer – Agentic AI (w/m/d)
+  @ Avanade  ·  Kronberg, Hesse, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4420408797
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior AI Engineer - Agentic AI Evaluation
+  @ Resaro  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4438946121
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior AI R&D Engineer – Model Training (f/m/d)
+  @ Aleph Alpha  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4420977931
+────────────────────────────────────────────────
+  Score:   0/100
+  Development Architect (f/m/d) - AI Foundation Model Training and Serving
+  @ SAP  ·  Potsdam, Brandenburg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4429680502
+────────────────────────────────────────────────
+  Score:   0/100
+  Product Engineer (m/f/d)
+  @ Stackgini  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4436672524
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Machine Learning Engineer/ Research Scientist
+  @ World  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4420473387
+────────────────────────────────────────────────
+  Score:   0/100
+  Data Analyst (m/w/d)
+  @ Rheinmetall  ·  Bremen, Bremen, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'mehrjährige Berufserfahrung'
+  URL:    https://www.linkedin.com/jobs/view/4436666006
+────────────────────────────────────────────────
+  Score:   0/100
+  Data Analyst (f/m/d)
+  @ think-cell Software  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4419344019
+────────────────────────────────────────────────
+  Score:   0/100
+  Data Analyst / Business Intelligence Manager (m/w/d)
+  @ Instaffo  ·  Mannheim, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'mehrjährige Berufserfahrung'
+  URL:    https://www.linkedin.com/jobs/view/4417648685
+────────────────────────────────────────────────
+  Score:   0/100
+  Manager, Customer Service Analytics
+  @ Audible  ·  Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4411843139
+────────────────────────────────────────────────
+  Score:   0/100
+  Embedded Software Engineer (m/f/d) GPU & edge AI Signal Processing
+  @ Thales  ·  Ditzingen, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4430973947
+────────────────────────────────────────────────
+  Score:  10/100
+  Embedded SW Developer (m/f/d)
+  @ Electronic components by Würth Elektronik  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436659944
+────────────────────────────────────────────────
+  Score:  10/100
+  Softwaretechniker (m/w/d)
+  @ Afra GmbH  ·  Forchheim, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439544742
+────────────────────────────────────────────────
+  Score:  10/100
+  Embedded Softwareentwickler C++ (m/w/d)
+  @ Afra GmbH  ·  Forchheim, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439560105
+────────────────────────────────────────────────
+  Score:  10/100
+  Zerspanungsmechaniker (m/w/d) / Industriemechaniker (m/w/d) in der mechanischen Bearbeitung
+  @ DYNEXA  ·  Laudenbach, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439552548
+────────────────────────────────────────────────
+  Score:  10/100
+  CNC-Fräser (m/w/d)
+  @ Steinmeyer Mechatronik GmbH  ·  Dresden, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439559167
+────────────────────────────────────────────────
+  Score:  10/100
+  Zerspanungsmechaniker / Schleifer (m/w/d)
+  @ Steinmeyer Mechatronik GmbH  ·  Dresden, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439540873
+────────────────────────────────────────────────
+  Score:  10/100
+  Verfahrensmechaniker für Kunststoff- und Kautschuktechnik (m/w/d) Schwerpunkt: Formteile
+  @ TechniSat Digital GmbH  ·  Nerdlen, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439566160
+────────────────────────────────────────────────
+  Score:  10/100
+  Zerspanungsmechaniker / CNC - Fräser (m/w/d) - Fachbereich Glanzfräsen
+  @ BORBET  ·  Hallenberg, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436671578
+────────────────────────────────────────────────
+  Score:  10/100
+  Betriebselektriker (m/w/d)
+  @ BIRKENSTOCK  ·  Pasewalk, Mecklenburg-West Pomerania, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4331193057
+────────────────────────────────────────────────
+  Score:  10/100
+  Electronics technician for industrial engineering
+  @ Kronospan  ·  Steinheim, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4390641205
+────────────────────────────────────────────────
+  Score:  10/100
+  Instandhaltungstechniker (all genders)
+  @ Zalando  ·  Gießen, Hesse, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4411820050
+────────────────────────────────────────────────
+  Score:  10/100
+  Volkswagen Servicetechniker (m/w/d)
+  @ Volkswagen Automobile Leipzig GmbH  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4417221563
+────────────────────────────────────────────────
+  Score:  10/100
+  Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Leipzig
+  @ PolyTALENT JOBS  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436680053
+────────────────────────────────────────────────
+  Score:  10/100
+  Schlosser / Metallbauer (m/w/d)
+  @ HiSERV  ·  Dietzenbach, Hesse, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439547144
+────────────────────────────────────────────────
+  Score:  10/100
+  Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Bremen
+  @ PolyTALENT JOBS  ·  Bremen, Bremen, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436681018
+────────────────────────────────────────────────
+  Score:  10/100
+  Industriemechaniker m/w/d
+  @ IMO Group  ·  Gremsdorf, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439561176
+────────────────────────────────────────────────
+  Score:  10/100
+  Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Dortmund
+  @ PolyTALENT JOBS  ·  Dortmund, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436660605
+────────────────────────────────────────────────
+  Score:  10/100
+  Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Hannover
+  @ PolyTALENT JOBS  ·  Hannover, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436670357
+────────────────────────────────────────────────
+  Score:  10/100
+  Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Dresden
+  @ PolyTALENT JOBS  ·  Dresden, Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436673308
+────────────────────────────────────────────────
+  Score:   0/100
+  Elektroniker (m/w/d)
+  @ BIRKENSTOCK  ·  Wittichenau, Saxony, Germany
+  Source: LinkedIn
+  Reason: The role requires fluent German and is out of the candidate's field of expertise
+  URL:    https://www.linkedin.com/jobs/view/4407417315
+────────────────────────────────────────────────
+  Score:   0/100
+  Elektroniker:in als Servicetechniker:in
+  @ Deutsche Bahn  ·  Nuremberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The role requires fluent German and the candidate has no such requirement waived.
+  URL:    https://www.linkedin.com/jobs/view/4403172692
+────────────────────────────────────────────────
+  Score:  40/100
+  Elektroniker:in / Elektrofachkraft / Mechatroniker:in als Signalmechaniker:in (w/m/d)
+  @ Deutsche Bahn  ·  Haar, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the job posting requires specific skills in electronics and mechatronics, and the candidate's experience is more focused on automotive systems and machine learning.
+  URL:    https://www.linkedin.com/jobs/view/4261678691
+────────────────────────────────────────────────
+  Score:  40/100
+  Elektroniker für Betriebstechnik (m/w/d)
+  @ ADM  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and experience are not directly applicable to the job posting.
+  URL:    https://www.linkedin.com/jobs/view/4420287866
+────────────────────────────────────────────────
+  Score:  40/100
+  Elektroniker für Anlagentechnik (m/w/d)
+  @ Refresco  ·  Grünsfeld, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and experience are partially applicable, but the job requires specific knowledge of electrical systems and German language skills are preferred.
+  URL:    https://www.linkedin.com/jobs/view/4196539269
+────────────────────────────────────────────────
+  Score:  30/100
+  Elektroniker für Betriebstechnik (m/w/d)
+  @ Dr. Paul Lohmann GmbH & Co. KGaA  ·  Lunenburg, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and experience are not directly applicable to the job, and the job requires specific knowledge of electronics and betriebstechnik.
+  URL:    https://www.linkedin.com/jobs/view/4439556350
+────────────────────────────────────────────────
+  Score:   0/100
+  Kfz-Mechatroniker für Luftfahrtbodengeräte (m/w/d)
+  @ HiSERV  ·  Schönefeld, Brandenburg, Germany
+  Source: LinkedIn
+  Reason: The role requires fluent German and is not directly related to the candidate's field of automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4439534787
+────────────────────────────────────────────────
+  Score:   0/100
+  Kfz-Mechatroniker/Mechaniker (m/w/d)
+  @ TCR  ·  Frankfurt am Main, Hesse, Germany
+  Source: LinkedIn
+  Reason: The role requires fluent German and the candidate's language preference is no German required.
+  URL:    https://www.linkedin.com/jobs/view/4411357272
+────────────────────────────────────────────────
+  Score:  40/100
+  Automotive Market Analyst - German Speaking
+  @ JD Power  ·  Germany
+  Source: LinkedIn
+  Reason: The candidate's technical skills are not directly applicable to the market analyst role, and the job requires German language proficiency and business experience.
+  URL:    https://www.linkedin.com/jobs/view/4431103157
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent Supply Chain Management / Arbeitsvorbereitung (w/m/d)
+  @ EGGER D-A-CH  ·  Marienmünster, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and experience are not directly applicable to the job, and the role requires different expertise.
+  URL:    https://www.linkedin.com/jobs/view/4389582571
+────────────────────────────────────────────────
+  Score:  30/100
+  Applied Scientist - Logistics Algorithms (all genders)
+  @ CHEManager International  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: title fits 'Data Scientist'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4438917630
+────────────────────────────────────────────────
+  Score:  40/100
+  Agentic AI Solution Engineer mit Fokus auf LowCode Plattformen German fluent (w/m/d)
+  @ Zurich Insurance  ·  Cologne, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the role requires fluent German and more professional experience, which the candidate lacks.
+  URL:    https://www.linkedin.com/jobs/view/4419061976
+────────────────────────────────────────────────
+  Score:  19/100
+  Spezialist*in Sales Planning & Reporting (m/w/d)
+  @ Ford Credit  ·  Cologne, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: skills: Datenanalyse; keyword bonus: 2; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4420964901
+────────────────────────────────────────────────
+  Score:  17/100
+  Specialist Digital Process Management & Automation
+  @ Ford Credit  ·  Cologne, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: skills: Git; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4420451339
+────────────────────────────────────────────────
+  Score:  17/100
+  Softwareentwickler-Applikateur-in Steuerungstechnik (m/w/d)
+  @ Liebherr Group  ·  Bad Schussenried, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: skills: Git; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4410484728
+

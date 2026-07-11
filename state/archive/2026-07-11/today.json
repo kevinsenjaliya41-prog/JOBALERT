@@ -1500,6 +1500,924 @@
           }
         }
       ]
+    },
+    {
+      "timestamp": "2026-07-11T15:39:42.821600",
+      "strong": [
+        {
+          "score": 85,
+          "reason": "The candidate's skills in AI, ML, and automotive systems align well with the job requirements",
+          "domain_class": "core_field",
+          "ai_score": 85,
+          "ai_reason": "The candidate's skills in AI, ML, and automotive systems align well with the job requirements",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4380012529",
+            "title": "Software Architect, Automotive Robotics",
+            "company": "Tenstorrent",
+            "location": "Munich, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4380012529",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "worth_look": [
+        {
+          "score": 70,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning align well with the Data Intelligence Specialist role, but the candidate's experience is more focused on production engineering and lacks direct experience in data analysis and intelligence.",
+          "domain_class": "core_field",
+          "ai_score": 70,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning align well with the Data Intelligence Specialist role, but the candidate's experience is more focused on production engineering and lacks direct experience in data analysis and intelligence.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436674599",
+            "title": "Data Intelligence Specialist - Automotive (M/W/D) - SYSTEMS",
+            "company": "VISPIRON GmbH",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Wir bringen die Mobilität der Zukunft schneller auf die Straße Mit unserer einzigartigen Kombination aus tiefem Systemverständnis, modernster Testinfrastruktur und intelligenten Automatisierungslösungen verkürzen wir Entwicklungszyklen radikal, reduzieren Risiken und schaffen Freiraum für Innovation",
+            "url": "https://www.linkedin.com/jobs/view/4436674599",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's background in International Automotive Engineering and experience with data analysis, machine learning, and artificial intelligence are relevant to the Data Analyst role, but the candidate lacks direct experience in data analytics and the role requires professional experience in a related field.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with data analysis, machine learning, and artificial intelligence are relevant to the Data Analyst role, but the candidate lacks direct experience in data analytics and the role requires professional experience in a related field.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436660963",
+            "title": "Data Analyst (m/w/d)",
+            "company": "ODW-ELEKTRIK",
+            "location": "Steinau, Hesse, Germany",
+            "description": "Werden Sie Teil unseres Data Analytics Teams und gestalten Sie die digitale Zukunft der ODW Elektrik aktiv mit. Als international tätiger, mittelständischer Automobilzulieferer mit rund 3.000 Mitarbeitenden verbinden wir technisches Know-how mit datengetriebenen Entscheidungen. Als Data Analyst bei ",
+            "url": "https://www.linkedin.com/jobs/view/4436660963",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in Machine Learning, Deep Learning, and Artificial Intelligence match the job requirements, but the role's location in Lampertswalde, Saxony, Germany does not align with the candidate's preferred locations, and the candidate's experience, although relevant, does not fully meet the expected level of professional experience.",
+          "domain_class": "core_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in Machine Learning, Deep Learning, and Artificial Intelligence match the job requirements, but the role's location in Lampertswalde, Saxony, Germany does not align with the candidate's preferred locations, and the candidate's experience, although relevant, does not fully meet the expected level of professional experience.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4390620930",
+            "title": "AI Specialist / IT-Spezialist– Schwerpunkt Künstliche Intelligenz",
+            "company": "Kronospan",
+            "location": "Lampertswalde, Saxony, Germany",
+            "description": "Unternehmensbeschreibung Wir sind ein weltweit führender Hersteller von hochwertigen Holzwerkstoffen. Seit unsere Geschäftstätigkeit 1897 mit einem einzigen Sägewerk begann, hat Kronospan eine einzigartige Lieferkette mit 40 Produktionsstätten und 21 Vertriebszentren in 28 Ländern und mehr als 14.00",
+            "url": "https://www.linkedin.com/jobs/view/4390620930",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in data analysis and machine learning are relevant, but the job is not directly in automotive engineering.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in data analysis and machine learning are relevant, but the job is not directly in automotive engineering.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436650833",
+            "title": "Data Analyst (m/w/d)",
+            "company": "WINCH Industry GmbH",
+            "location": "Gersthofen, Bavaria, Germany",
+            "description": "Die Winch Industry GmbH ist ein innovatives Unternehmen, das sich auf die Entwicklung, den Vertrieb und den Verkauf von technischen Produkten spezialisiert hat. Die Bereiche erstrecken sich von OEM, Industrie- bis hin zu Privatkunden. Unsere Produkte vertreiben wir über ein Multichannel-System. Das ",
+            "url": "https://www.linkedin.com/jobs/view/4436650833",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in machine learning and artificial intelligence are relevant, but the job is not directly in automotive engineering.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in machine learning and artificial intelligence are relevant, but the job is not directly in automotive engineering.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436643954",
+            "title": "Software Engineer (m/f/d)",
+            "company": "Zentral.com",
+            "location": "Hamburg, Hamburg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436643954",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in artificial intelligence, machine learning, and automotive systems are somewhat relevant to the electronic engineering role.",
+          "domain_class": "broader_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in artificial intelligence, machine learning, and automotive systems are somewhat relevant to the electronic engineering role.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436674059",
+            "title": "Elektroniker:in",
+            "company": "GERATECH Landmaschinen GmbH",
+            "location": "Gera, Thuringia, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436674059",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 23,
+          "reason": "preferred location (rule-based; AI quota exhausted)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": true,
+          "job": {
+            "id": "linkedin_4430955864",
+            "title": "AI Workflow Engineer (d/m/w) Web & Marketing",
+            "company": "Lexware",
+            "location": "Freiburg, Baden-Württemberg, Germany",
+            "description": "Wir sind das technische Team im Lexware Marketing Bereich. Wir bauen, betreiben und optimieren unsere Websites und Tools – und arbeiten KI-First. Für diesen Bereich suchen wir Verstärkung mit fundierter Erfahrung im Einsatz von LLMs, um beispielsweise Inhalte und Seiten zu generieren und kontinuierl",
+            "url": "https://www.linkedin.com/jobs/view/4430955864",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "rejected": [
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4377188807",
+            "title": "Senior AI Engineer (w/m/d)",
+            "company": "BWI GmbH",
+            "location": "Ulm, Baden-Württemberg, Germany",
+            "description": "Sorge gemeinsam mit uns für die digitale Zukunftsfähigkeit der Bundeswehr. Deine Aufgaben: Architektur und Entwicklung der zentralen KI-Plattform unter Verwendung von Techniken wie MCP, A2A und AG-UI Implementierung LLM-basierter Agenten mithilfe gängiger Python-Frameworks (z.B. LangGraph, CrewAI, P",
+            "url": "https://www.linkedin.com/jobs/view/4377188807",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4402943176",
+            "title": "Staff Engineer (gn) - AI Enablement",
+            "company": "The Quality Group",
+            "location": "Hamburg, Germany",
+            "description": "Start: Immediately | Level: Staff | Location: remote, Germany | Working Hours: Full Time (40h/week) Your next step in the Tech & Engineering team at ESN & More. As Staff Engineer (gn) – AI Enablement , you will close the gap between AI potential and engineering reality. We have the platform, the too",
+            "url": "https://www.linkedin.com/jobs/view/4402943176",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4420408797",
+            "title": "Senior AI Engineer – Agentic AI (w/m/d)",
+            "company": "Avanade",
+            "location": "Kronberg, Hesse, Germany",
+            "description": "Als Senior AI Engineer – Agentic AI übernimmst du End‑to‑End‑Verantwortung für die technische Ausgestaltung, Qualität und Skalierbarkeit komplexer AI‑Lösungen in unternehmenskritischen Kontexten. Du agierst als verbindende Instanz zwischen Business‑Anforderungen, Architekturentscheidungen und techni",
+            "url": "https://www.linkedin.com/jobs/view/4420408797",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438946121",
+            "title": "Senior AI Engineer - Agentic AI Evaluation",
+            "company": "Resaro",
+            "location": "Munich, Bavaria, Germany",
+            "description": "About Us Resaro is an independent, third-party AI assurance company. We build the software and run the evaluations that let enterprises and public-sector bodies deploy AI they can actually trust - across computer vision, LLMs, vision-language models, and, increasingly, agentic and autonomous systems",
+            "url": "https://www.linkedin.com/jobs/view/4438946121",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4420977931",
+            "title": "Senior AI R&D Engineer – Model Training (f/m/d)",
+            "company": "Aleph Alpha",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Our Mission Aleph Alpha is one of the few companies in Europe doing serious foundation model pre- and post-training. We're building models that have general-purpose capabilities, and specifically excel at addressing the needs of our customers. We're looking for exceptional Software Engineers to join",
+            "url": "https://www.linkedin.com/jobs/view/4420977931",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4429680502",
+            "title": "Development Architect (f/m/d) - AI Foundation Model Training and Serving",
+            "company": "SAP",
+            "location": "Potsdam, Brandenburg, Germany",
+            "description": "We help the world run better At SAP, we keep it simple: you bring your best to us, and we'll bring out the best in you. We're builders touching over 20 industries and 80% of global commerce, and we need your unique talents to help shape what's next. The work is challenging – but it matters. You'll f",
+            "url": "https://www.linkedin.com/jobs/view/4429680502",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436672524",
+            "title": "Product Engineer (m/f/d)",
+            "company": "Stackgini",
+            "location": "Berlin, Berlin, Germany",
+            "description": "At Stackgini we are turning business ideas into technology impact. In most large companies this journey is broken. A good idea lands in an IT organization that runs hundreds of applications, and nobody can tell you quickly what already exists, what is redundant or what to buy. So decisions happen in",
+            "url": "https://www.linkedin.com/jobs/view/4436672524",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4420473387",
+            "title": "Senior Machine Learning Engineer/ Research Scientist",
+            "company": "World",
+            "location": "Munich, Bavaria, Germany",
+            "description": "About The Company Tools for Humanity (TFH) designs and builds technology behind World. World is building a real human network designed to accelerate people in the age of AI. As bots and autonomous agents reshape the internet, people, institutions, and applications need a trusted way to confirm who i",
+            "url": "https://www.linkedin.com/jobs/view/4420473387",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'mehrjährige Berufserfahrung'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436666006",
+            "title": "Data Analyst (m/w/d)",
+            "company": "Rheinmetall",
+            "location": "Bremen, Bremen, Germany",
+            "description": "WOFÜR WIR SIE SUCHEN Sie sind auf der Suche nach einer spannenden Tätigkeit in einem Umfeld voller Technologie und Innovationen? - Dann sind Sie bei uns genau richtig! Als Data Analyst (m/w/d) entwickeln Sie moderne KPI- und Reportinglösungen, treiben die Digitalisierung von Geschäftsprozessen voran",
+            "url": "https://www.linkedin.com/jobs/view/4436666006",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4419344019",
+            "title": "Data Analyst (f/m/d)",
+            "company": "think-cell Software",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Data Analyst - Join Our Innovative Team at think-cell Software Our Story At think-cell, we create powerful software solutions that help professionals be more efficient and productive. Founded in 2002 and based in Berlin, our tools integrate seamlessly with Microsoft Office to help users create prese",
+            "url": "https://www.linkedin.com/jobs/view/4419344019",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'mehrjährige Berufserfahrung'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4417648685",
+            "title": "Data Analyst / Business Intelligence Manager (m/w/d)",
+            "company": "Instaffo",
+            "location": "Mannheim, Baden-Württemberg, Germany",
+            "description": "Data Analyst / Business Intelligence Manager (m/w/d) bei bedrop - FLBE Health GmbH Anforderungen Bitte beachte, dass für diese Stelle eine Arbeitserlaubnis für Deutschland erforderlich ist. Sprache: Deutsch - Muttersprachliches Niveau, Englisch - Fließend Dein Profil Abgeschlossenes Studium im natur",
+            "url": "https://www.linkedin.com/jobs/view/4417648685",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4411843139",
+            "title": "Manager, Customer Service Analytics",
+            "company": "Audible",
+            "location": "Berlin, Germany",
+            "description": "Description At Audible, we believe stories have the power to transform lives. It’s why we work with some of the world’s leading creators to produce and share audio storytelling with our millions of global listeners. We are dreamers and inventors who come from a wide range of backgrounds and experien",
+            "url": "https://www.linkedin.com/jobs/view/4411843139",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4430973947",
+            "title": "Embedded Software Engineer (m/f/d) GPU & edge AI Signal Processing",
+            "company": "Thales",
+            "location": "Ditzingen, Baden-Württemberg, Germany",
+            "description": "Location: DITZINGEN SRA OME, Germany We say HI* Thales in Germany is part of an internationally leading technology group in the defence and security, aerospace as well as cyber security and digital identity markets. Say HI* – to your career as Embedded Software Engineer (m/f/d) GPU & edge AI Signal ",
+            "url": "https://www.linkedin.com/jobs/view/4430973947",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436659944",
+            "title": "Embedded SW Developer (m/f/d)",
+            "company": "Electronic components by Würth Elektronik",
+            "location": "Munich, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436659944",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439544742",
+            "title": "Softwaretechniker (m/w/d)",
+            "company": "Afra GmbH",
+            "location": "Forchheim, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439544742",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439560105",
+            "title": "Embedded Softwareentwickler C++ (m/w/d)",
+            "company": "Afra GmbH",
+            "location": "Forchheim, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439560105",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439552548",
+            "title": "Zerspanungsmechaniker (m/w/d) / Industriemechaniker (m/w/d) in der mechanischen Bearbeitung",
+            "company": "DYNEXA",
+            "location": "Laudenbach, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439552548",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439559167",
+            "title": "CNC-Fräser (m/w/d)",
+            "company": "Steinmeyer Mechatronik GmbH",
+            "location": "Dresden, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439559167",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439540873",
+            "title": "Zerspanungsmechaniker / Schleifer (m/w/d)",
+            "company": "Steinmeyer Mechatronik GmbH",
+            "location": "Dresden, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439540873",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439566160",
+            "title": "Verfahrensmechaniker für Kunststoff- und Kautschuktechnik (m/w/d) Schwerpunkt: Formteile",
+            "company": "TechniSat Digital GmbH",
+            "location": "Nerdlen, Rhineland-Palatinate, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439566160",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436671578",
+            "title": "Zerspanungsmechaniker / CNC - Fräser (m/w/d) - Fachbereich Glanzfräsen",
+            "company": "BORBET",
+            "location": "Hallenberg, North Rhine-Westphalia, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436671578",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4331193057",
+            "title": "Betriebselektriker (m/w/d)",
+            "company": "BIRKENSTOCK",
+            "location": "Pasewalk, Mecklenburg-West Pomerania, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4331193057",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4390641205",
+            "title": "Electronics technician for industrial engineering",
+            "company": "Kronospan",
+            "location": "Steinheim, North Rhine-Westphalia, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4390641205",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4411820050",
+            "title": "Instandhaltungstechniker (all genders)",
+            "company": "Zalando",
+            "location": "Gießen, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4411820050",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4417221563",
+            "title": "Volkswagen Servicetechniker (m/w/d)",
+            "company": "Volkswagen Automobile Leipzig GmbH",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4417221563",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436680053",
+            "title": "Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Leipzig",
+            "company": "PolyTALENT JOBS",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436680053",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439547144",
+            "title": "Schlosser / Metallbauer (m/w/d)",
+            "company": "HiSERV",
+            "location": "Dietzenbach, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439547144",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436681018",
+            "title": "Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Bremen",
+            "company": "PolyTALENT JOBS",
+            "location": "Bremen, Bremen, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436681018",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439561176",
+            "title": "Industriemechaniker m/w/d",
+            "company": "IMO Group",
+            "location": "Gremsdorf, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439561176",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436660605",
+            "title": "Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Dortmund",
+            "company": "PolyTALENT JOBS",
+            "location": "Dortmund, North Rhine-Westphalia, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436660605",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436670357",
+            "title": "Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Hannover",
+            "company": "PolyTALENT JOBS",
+            "location": "Hannover, Lower Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436670357",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436673308",
+            "title": "Industriemechaniker Instandhaltung / Betriebstechnik (m/w/d) | Raum Dresden",
+            "company": "PolyTALENT JOBS",
+            "location": "Dresden, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436673308",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "The role requires fluent German and is out of the candidate's field of expertise",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 0,
+          "ai_reason": "The role requires fluent German and is out of the candidate's field of expertise",
+          "unscored": false,
+          "category": "fluent_german",
+          "job": {
+            "id": "linkedin_4407417315",
+            "title": "Elektroniker (m/w/d)",
+            "company": "BIRKENSTOCK",
+            "location": "Wittichenau, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4407417315",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "The role requires fluent German and the candidate has no such requirement waived.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 0,
+          "ai_reason": "The role requires fluent German and the candidate has no such requirement waived.",
+          "unscored": false,
+          "category": "fluent_german",
+          "job": {
+            "id": "linkedin_4403172692",
+            "title": "Elektroniker:in als Servicetechniker:in",
+            "company": "Deutsche Bahn",
+            "location": "Nuremberg, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4403172692",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the job posting requires specific skills in electronics and mechatronics, and the candidate's experience is more focused on automotive systems and machine learning.",
+          "domain_class": "core_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the job posting requires specific skills in electronics and mechatronics, and the candidate's experience is more focused on automotive systems and machine learning.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "linkedin_4261678691",
+            "title": "Elektroniker:in / Elektrofachkraft / Mechatroniker:in als Signalmechaniker:in (w/m/d)",
+            "company": "Deutsche Bahn",
+            "location": "Haar, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4261678691",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's skills and experience are not directly applicable to the job posting.",
+          "domain_class": "broader_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's skills and experience are not directly applicable to the job posting.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4420287866",
+            "title": "Elektroniker für Betriebstechnik (m/w/d)",
+            "company": "ADM",
+            "location": "Berlin, Berlin, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4420287866",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's skills and experience are partially applicable, but the job requires specific knowledge of electrical systems and German language skills are preferred.",
+          "domain_class": "broader_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's skills and experience are partially applicable, but the job requires specific knowledge of electrical systems and German language skills are preferred.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4196539269",
+            "title": "Elektroniker für Anlagentechnik (m/w/d)",
+            "company": "Refresco",
+            "location": "Grünsfeld, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4196539269",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "The candidate's skills and experience are not directly applicable to the job, and the job requires specific knowledge of electronics and betriebstechnik.",
+          "domain_class": "broader_field",
+          "ai_score": 30,
+          "ai_reason": "The candidate's skills and experience are not directly applicable to the job, and the job requires specific knowledge of electronics and betriebstechnik.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4439556350",
+            "title": "Elektroniker für Betriebstechnik (m/w/d)",
+            "company": "Dr. Paul Lohmann GmbH & Co. KGaA",
+            "location": "Lunenburg, Lower Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439556350",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "The role requires fluent German and is not directly related to the candidate's field of automotive engineering.",
+          "domain_class": "broader_field",
+          "ai_score": 0,
+          "ai_reason": "The role requires fluent German and is not directly related to the candidate's field of automotive engineering.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4439534787",
+            "title": "Kfz-Mechatroniker für Luftfahrtbodengeräte (m/w/d)",
+            "company": "HiSERV",
+            "location": "Schönefeld, Brandenburg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439534787",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "The role requires fluent German and the candidate's language preference is no German required.",
+          "domain_class": "broader_field",
+          "ai_score": 0,
+          "ai_reason": "The role requires fluent German and the candidate's language preference is no German required.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4411357272",
+            "title": "Kfz-Mechatroniker/Mechaniker (m/w/d)",
+            "company": "TCR",
+            "location": "Frankfurt am Main, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4411357272",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's technical skills are not directly applicable to the market analyst role, and the job requires German language proficiency and business experience.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 40,
+          "ai_reason": "The candidate's technical skills are not directly applicable to the market analyst role, and the job requires German language proficiency and business experience.",
+          "unscored": false,
+          "category": "fluent_german",
+          "job": {
+            "id": "linkedin_4431103157",
+            "title": "Automotive Market Analyst - German Speaking",
+            "company": "JD Power",
+            "location": "Germany",
+            "description": "Job Description Market Analyst – Car To Market – Consulting Position | Europe Join JD Power Europe, which combines trusted automotive data, analytics, and deep local market expertise to support manufacturers, fleet and finance organizations across Europe. You will be part of our Professional Service",
+            "url": "https://www.linkedin.com/jobs/view/4431103157",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's skills and experience are not directly applicable to the job, and the role requires different expertise.",
+          "domain_class": "broader_field",
+          "ai_score": 20,
+          "ai_reason": "The candidate's skills and experience are not directly applicable to the job, and the role requires different expertise.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4389582571",
+            "title": "Werkstudent Supply Chain Management / Arbeitsvorbereitung (w/m/d)",
+            "company": "EGGER D-A-CH",
+            "location": "Marienmünster, North Rhine-Westphalia, Germany",
+            "description": "Zur Verstärkung unseres Teams in Marienmünster suchen wir dich ab dem 01.09.2026. Die ersten Erfahrungen in der Arbeitswelt stellen oft schon die Weichen für die berufliche Zukunft. Setze dein theoretisches Wissen in der Praxis ein und lerne deinen zukünftigen Wunschberuf besser kennen. Standort: Ma",
+            "url": "https://www.linkedin.com/jobs/view/4389582571",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Data Scientist'; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4438917630",
+            "title": "Applied Scientist - Logistics Algorithms (all genders)",
+            "company": "CHEManager International",
+            "location": "Berlin, Berlin, Germany",
+            "description": "THE ROLE AND THE TEAM As an Applied Scientist , you will contribute to algorithmic research-driven software development in a logistics team. At Zalando, we process millions of customer orders every week and our systems make critical scheduling, planning, and routing decisions within our warehouses. ",
+            "url": "https://www.linkedin.com/jobs/view/4438917630",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the role requires fluent German and more professional experience, which the candidate lacks.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the role requires fluent German and more professional experience, which the candidate lacks.",
+          "unscored": false,
+          "category": "fluent_german",
+          "job": {
+            "id": "linkedin_4419061976",
+            "title": "Agentic AI Solution Engineer mit Fokus auf LowCode Plattformen German fluent (w/m/d)",
+            "company": "Zurich Insurance",
+            "location": "Cologne, North Rhine-Westphalia, Germany",
+            "description": "Bist du bereit, mit dem Besten zu rechnen ? Bei Zurich leben wir Versicherung neu. Um die Wünsche unserer Kunden noch besser zu erfüllen, gehen wir neue Wege, denken kreativ, arbeiten agil. Unsere Unternehmenskultur schenkt dir in jeder Hinsicht mehr Flexibilität – und viel Freiraum, dich optimal zu",
+            "url": "https://www.linkedin.com/jobs/view/4419061976",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 19,
+          "reason": "skills: Datenanalyse; keyword bonus: 2; preferred location (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4420964901",
+            "title": "Spezialist*in Sales Planning & Reporting (m/w/d)",
+            "company": "Ford Credit",
+            "location": "Cologne, North Rhine-Westphalia, Germany",
+            "description": "Standort: Köln | Anstellungsart: Vollzeit 35 Stunden ABTEILUNG: Im Marketing & Sales gestalten wir aktiv die Zukunft unserer Produkte und Marktauftritte, entwickeln unsere Angebote ständig weiter und decken durch tiefgehende Analysen ungenutzte Marktpotenziale auf. STELLE Du bist ein Datenprofi, der",
+            "url": "https://www.linkedin.com/jobs/view/4420964901",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 17,
+          "reason": "skills: Git; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4420451339",
+            "title": "Specialist Digital Process Management & Automation",
+            "company": "Ford Credit",
+            "location": "Cologne, North Rhine-Westphalia, Germany",
+            "description": "Standort: Köln | Anstellungsart: Vollzeit (35 Stunden) ABTEILUNG: Im Bereich Business Development gestalten wir die digitale Transformation unserer Bankprozesse. Unser Fokus liegt auf der Entwicklung moderner Automatisierungslösungen und der Bereitstellung strategischer Entscheidungsgrundlagen. Wir ",
+            "url": "https://www.linkedin.com/jobs/view/4420451339",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 17,
+          "reason": "skills: Git; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "skill_adjacent",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4410484728",
+            "title": "Softwareentwickler-Applikateur-in Steuerungstechnik (m/w/d)",
+            "company": "Liebherr Group",
+            "location": "Bad Schussenried, Baden-Württemberg, Germany",
+            "description": "Das sind Ihre Aufgaben Entwicklung sicherheitskritischer Steuerungssoftware für Maschinen der Betontechnik (z. B. Autobetonpumpen, Fahrmischer) Softwareentwicklung und Dokumentation nach V‑Modell Statische Codeanalysen sowie Mitarbeit bei Code‑Reviews Durchführung von Modul- und Integrationstests (S",
+            "url": "https://www.linkedin.com/jobs/view/4410484728",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ]
     }
   ]
 }

@@ -62,3 +62,13 @@
   Reason: The candidate's skills in AI, machine learning, and deep learning are highly relevant to the job, despite the industry difference.
   URL:    https://www.linkedin.com/jobs/view/4439396776
 
+--- Run at 15:39:42 (1 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  85/100
+  Software Architect, Automotive Robotics
+  @ Tenstorrent  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, ML, and automotive systems align well with the job requirements
+  URL:    https://www.linkedin.com/jobs/view/4380012529
+

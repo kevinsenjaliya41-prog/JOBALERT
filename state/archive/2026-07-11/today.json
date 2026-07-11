@@ -2418,6 +2418,634 @@
           }
         }
       ]
+    },
+    {
+      "timestamp": "2026-07-11T20:11:10.629926",
+      "strong": [
+        {
+          "score": 80,
+          "reason": "The candidate's skills and education are highly relevant to the job, but the job title is 'Systems Engineer (m/w/d) Hardware' which may not be an exact match to the candidate's target titles.",
+          "domain_class": "core_field",
+          "ai_score": 80,
+          "ai_reason": "The candidate's skills and education are highly relevant to the job, but the job title is 'Systems Engineer (m/w/d) Hardware' which may not be an exact match to the candidate's target titles.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4439573450",
+            "title": "Systems Engineer (m/w/d) Hardware",
+            "company": "mamgo | Talente 🔗 Jobs",
+            "location": "Munich, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439573450",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 80,
+          "reason": "The candidate's skills and education are highly relevant to the job, but the role's experience requirements are not fully met.",
+          "domain_class": "core_field",
+          "ai_score": 80,
+          "ai_reason": "The candidate's skills and education are highly relevant to the job, but the role's experience requirements are not fully met.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4429677835",
+            "title": "Middle Systems Engineer",
+            "company": "TXT GROUP",
+            "location": "Bayern, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4429677835",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "worth_look": [
+        {
+          "score": 70,
+          "reason": "The candidate's master's studies in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow align with the job requirements, but the role's preference for knowledge in Leistungselektronik/Pulswechselrichter and the candidate's limited direct experience in this area are notable gaps.",
+          "domain_class": "core_field",
+          "ai_score": 70,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow align with the job requirements, but the role's preference for knowledge in Leistungselektronik/Pulswechselrichter and the candidate's limited direct experience in this area are notable gaps.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4422011852",
+            "title": "Abschlussarbeit - Entwicklung risikobasierter Hardware-Teststrategie (w/m/d)",
+            "company": "Volkswagen Group",
+            "location": "Baunatal, Hesse, Germany",
+            "description": "Arbeitsumfeld Unser Bereich \"Entwicklung E-Antriebe, Leistungselektronik und Getriebe\" der Group Components am Standort Kassel hat die Konzernverantwortung zur Entwicklung aller zukünftigen Pulswechselrichter (PWR) für Elektronantriebe übernommen. Wir entwickeln die mobile Zukunft, indem wir unsere ",
+            "url": "https://www.linkedin.com/jobs/view/4422011852",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 70,
+          "reason": "The candidate's master's degree in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns well with the PhD project's objectives, but the role's location in Wolfsburg and potential language requirements may pose a challenge.",
+          "domain_class": "core_field",
+          "ai_score": 70,
+          "ai_reason": "The candidate's master's degree in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns well with the PhD project's objectives, but the role's location in Wolfsburg and potential language requirements may pose a challenge.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4429691686",
+            "title": "PhD Student - AI AI Electrical Systems Planning (f/m/d)",
+            "company": "Volkswagen Group",
+            "location": "Wolfsburg, Lower Saxony, Germany",
+            "description": "Work environment As the link between development and production plants, we support and influence vehicle electronics from the initial concept idea through to the finished vehicle delivered to the customer. Based on our guiding principle, “We define the product optimized for series production,” we wo",
+            "url": "https://www.linkedin.com/jobs/view/4429691686",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in AI, machine learning, and data analysis are relevant, but the job is not directly in the automotive field.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in AI, machine learning, and data analysis are relevant, but the job is not directly in the automotive field.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4402290970",
+            "title": "Data Scientist (m/f/x)",
+            "company": "FINN",
+            "location": "Germany",
+            "description": "Your Role As a Data Scientist in Operations, you will be at the forefront of optimizing how FINN manages and scales its operational infrastructure. You will leverage advanced forecasting and optimization models to predict capacity needs, drive efficient resource distribution, and solve operationally",
+            "url": "https://www.linkedin.com/jobs/view/4402290970",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in machine learning and artificial intelligence are relevant, but the job requires mechanical systems engineering expertise.",
+          "domain_class": "broader_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in machine learning and artificial intelligence are relevant, but the job requires mechanical systems engineering expertise.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4439575407",
+            "title": "Mechanical Systems Engineer (m/w/d)",
+            "company": "Litherm Technologies GmbH",
+            "location": "Krefeld, North Rhine-Westphalia, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439575407",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in machine learning and data analysis are relevant, but the job is not directly in the automotive field.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in machine learning and data analysis are relevant, but the job is not directly in the automotive field.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4436687054",
+            "title": "Data Scientist / Data Engineer (m/w/d)",
+            "company": "FEGA & Schmitt Elektrogroßhandel GmbH",
+            "location": "Ansbach, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436687054",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Werkstudent Automotive'; preferred location (rule-based; AI quota exhausted)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": true,
+          "job": {
+            "id": "linkedin_4381105474",
+            "title": "Werkstudent Agile Transformation und Prozessentwicklung (w/m/x)",
+            "company": "BMW Group",
+            "location": "Munich, Bavaria, Germany",
+            "description": "GLEICH NORMAL MITARBEITEN IST NUR WOANDERS NICHT NORMAL. TEILE DEINE LEIDENSCHAFT. Erfolg ist Teamarbeit. Nur wenn Expert:innen ihr Fachwissen und ihre Begeisterung teilen, entsteht ein Workflow, in dem Ideen fließen. Das nennen wir Innovationskultur. Deshalb geben wir Studierenden bei uns nicht nur",
+            "url": "https://www.linkedin.com/jobs/view/4381105474",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "rejected": [
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4205335501",
+            "title": "Werkstudenten-Jobs / Praktika / Abschlußarbeiten",
+            "company": "Stanley Black & Decker, Inc.",
+            "location": "Linden, Lower Saxony, Germany",
+            "description": "Stanley Black & Decker ist mit über 54.000 Mitarbeitern der weltweit führende Anbieter für Werkzeuge und Zubehör, elektronische Sicherheitslösungen sowie Befestigungslösungen mit nachhaltigem profitablem Wachstum. Unser Segment Stanley Engineered Fastening ist Weltmarktführer für Konzeptlösungen für",
+            "url": "https://www.linkedin.com/jobs/view/4205335501",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4412413470",
+            "title": "VP of Engineering, Navigation",
+            "company": "Mapbox",
+            "location": "Germany",
+            "description": "Mapbox is the leading real-time location platform for a new generation of location-aware businesses. Mapbox is the only platform that equips organizations with the full set of tools to power the navigation of people, packages, and vehicles everywhere. More than 4 million registered developers have c",
+            "url": "https://www.linkedin.com/jobs/view/4412413470",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4428262439",
+            "title": "Senior Databricks Consulting Engineer (m/f/*)",
+            "company": "Ultra Tendency",
+            "location": "Magdeburg, Saxony-Anhalt, Germany",
+            "description": "About Ultra Tendency Ultra Tendency is a leading data and AI consultancy helping organizations accelerate digital transformation through modern data platforms, advanced analytics, and AI-driven solutions. As a trusted partner to enterprise customers across Europe, we specialize in delivering cloud-n",
+            "url": "https://www.linkedin.com/jobs/view/4428262439",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4411639013",
+            "title": "Senior Product Manager (m/f/x) Operations",
+            "company": "FINN",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Your Role As a Senior Product Manager - Operations (m/f/x), you own the digital architecture and systems that control how every single FINN vehicle transitions from the manufacturer to a ready-to-deliver state. This role sits directly at the intersection of software and physical reality, managing th",
+            "url": "https://www.linkedin.com/jobs/view/4411639013",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4390321737",
+            "title": "(Senior) Consultant (all genders) – Manufacturing & Industrialization",
+            "company": "Porsche Consulting",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Was erwartet dich? Was erwartet dich? Transformation von Produktionssystemen Du begleitest führende Unternehmen bei der Neuausrichtung ihrer Operations hin zu höherer Produktivität, Flexibilität und Wirtschaftlichkeit – entlang der gesamten industriellen Wertschöpfungskette. Als Teil eines Teams arb",
+            "url": "https://www.linkedin.com/jobs/view/4390321737",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4402276510",
+            "title": "Principal BMS Industrial System Architect (m/f/d)",
+            "company": "NXP Semiconductors",
+            "location": "Munich, Bavaria, Germany",
+            "description": "As part of NXP’s electrification and energy transition strategy, the Battery Management Systems (BMS) business is expanding beyond automotive into industrial Battery Energy Storage Systems (BESS) , grid-edge, and energy infrastructure applications. We are looking for an experienced Principal BMS Ind",
+            "url": "https://www.linkedin.com/jobs/view/4402276510",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4430983182",
+            "title": "Senior Go-to-Market (GTM) Manager (d/fm)",
+            "company": "mobile.de",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Job description mobile.de is Germany’s largest vehicle marketplace, with more than 1.6 million listed cars, commercial vehicles, motorcycles, and e-bikes (annual average 2025). Both private customers and registered vehicle dealers use the platform and benefit from more than 140 million visits per mo",
+            "url": "https://www.linkedin.com/jobs/view/4430983182",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4365115095",
+            "title": "Engineering Manager (m/f/d) Machine Learning",
+            "company": "SIXT",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Our vision is: Transform the world moves, because people expect better. Join our Data Science organization and make the magic happen. We drive business processes like pricing and many more with the use of sophisticated algorithms and building highly scaling algorithms. Apply now and be part of our j",
+            "url": "https://www.linkedin.com/jobs/view/4365115095",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4429692641",
+            "title": "Doktorandin / Doktorand KI Elektronikplanung (w/m/d)",
+            "company": "Volkswagen Group",
+            "location": "Wolfsburg, Lower Saxony, Germany",
+            "description": "Arbeitsumfeld Als Bindeglied zwischen Entwicklung und produzierenden Werken begleiten und beeinflussen wir die Elektronik im Fahrzeug von der Konzeptidee bis zum Auto beim Kunden. Auf Basis unseres Leitbilds „Wir definieren das für die Serienproduktion optimal gestaltete Produkt“ arbeiten wir in int",
+            "url": "https://www.linkedin.com/jobs/view/4429692641",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436685115",
+            "title": "(Senior) Machine Learning Engineer (f/m/d)",
+            "company": "Pricenow",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Do you have a passion for developing complex, intelligent, data-driven systems and cloud solutions? Do you want to work on challenging projects and with the latest technologies? Do you want to find ideal solutions together with great colleagues? We are looking for an experienced and enthusiastic (Se",
+            "url": "https://www.linkedin.com/jobs/view/4436685115",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4380309871",
+            "title": "(Senior) Technical Product Owner - AI Platform (m/f/d)",
+            "company": "SIXT",
+            "location": "Munich, Bavaria, Germany",
+            "description": "In this role, you drive the vision and roadmap for SIXT's central MLOps/LLMOps Platform and AI Service tooling. You empower over 80 Data Scientists, ML Engineers, and product teams to create cutting-edge GenAI applications. Join our Data Science team and become part of Team Orange in Pullach close t",
+            "url": "https://www.linkedin.com/jobs/view/4380309871",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4370996778",
+            "title": "(Senior) Consultant in SAP Data Analytics (all genders)",
+            "company": "MHP – A Porsche Company",
+            "location": "Dresden, Saxony, Germany",
+            "description": "Aufgaben Du begeisterst dich für technologische Fragestellungen rund um die Themen Data & Business Analytics? Dann werde Teil unseres Teams und gestalte gemeinsam mit uns die erfolgreiche digitale Zukunft unserer Kunden. Dabei warten folgende Aufgaben auf dich: Design und Implementierung von End-to-",
+            "url": "https://www.linkedin.com/jobs/view/4370996778",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439559799",
+            "title": "Entwicklungsingenieur (m/w/d) Elektrische Systeme",
+            "company": "Crown Lift Trucks UK",
+            "location": "Feldkirchen, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439559799",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4410822185",
+            "title": "Systems/Release Engineer / Technical Lead",
+            "company": "Ambu",
+            "location": "Augsburg, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4410822185",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Title contains out-of-field term 'Mechanical Engineer'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436668874",
+            "title": "Senior Mechanical Engineer Electric Drive Systems (m/w/d)",
+            "company": "KONDI Engineering & Prototyping",
+            "location": "Heilbronn, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436668874",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4389741795",
+            "title": "Senior Space System Engineer (m/f/d)",
+            "company": "CGI",
+            "location": "Darmstadt, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4389741795",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4429693476",
+            "title": "Doktorandin / Doktorand Entwicklung AI‑Native Entwicklungsmodelle & virtuelle KI‑Agenten (w/m/d)",
+            "company": "Volkswagen Group",
+            "location": "Wolfsburg, Lower Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4429693476",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4429918434",
+            "title": "(Senior) Manager Data & AI Technology (all genders)",
+            "company": "MHP – A Porsche Company",
+            "location": "Nuremberg, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4429918434",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4430969707",
+            "title": "Team Lead GenAI Platform (m/f/d)",
+            "company": "KION Group",
+            "location": "Frankfurt am Main, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4430969707",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's skills in AI, ML, and data analysis are transferable, but the job requires experience in quality management and business improvement, which is not directly mentioned in the candidate's profile.",
+          "domain_class": "broader_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's skills in AI, ML, and data analysis are transferable, but the job requires experience in quality management and business improvement, which is not directly mentioned in the candidate's profile.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4428284964",
+            "title": "Working Student (d/f/m) Operational Quality Management & Business Improvement Support",
+            "company": "Airbus Aircraft",
+            "location": "Hamburg, Hamburg, Germany",
+            "description": "Job Description: In order to support Satair (100 % Airbus subsidiary) we are looking for a Working Student (d/f/m) Operational Quality Management & Business Improvement Support You are a full time student (d/f/m), looking for a working student position and want to get to know the work of a Quality B",
+            "url": "https://www.linkedin.com/jobs/view/4428284964",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Werkstudent Automotive'; preferred location (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4389683974",
+            "title": "Werkstudent Qualitätsmanagement Kleinserienfertigung (w/m/x)",
+            "company": "BMW Group",
+            "location": "Munich, Bavaria, Germany",
+            "description": "THEORETISCH DIE BESTE ENTSCHEIDUNG. PRAKTISCH AUCH. TEILE DEINE LEIDENSCHAFT. Nur hochprofessionelle Abläufe in dynamischen Teams produzieren innovative Spitzentechnologie. Aber Fahrfreude wird bei uns von der Entwicklung bis zur Fertigung vor allem auch mit Spaß an der Arbeit und Begeisterung für d",
+            "url": "https://www.linkedin.com/jobs/view/4389683974",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Werkstudent Automotive'; preferred location (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4322676754",
+            "title": "Werkstudentin / Werkstudent Organisationsentwicklung (w/m/d)",
+            "company": "Volkswagen Group",
+            "location": "Wolfsburg, Lower Saxony, Germany",
+            "description": "Arbeitsumfeld Die Organisationsentwicklung der Volkswagen Group Technology verantwortet die ganzheitliche Gestaltung effizienter und effektiver Organisationsstrukturen, Entscheidungsprozesse und Steuerungsmodelle für alle Konzerngesellschaften in den Themenfeldern Components, Battery, Charging & Ene",
+            "url": "https://www.linkedin.com/jobs/view/4322676754",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Werkstudent Automotive'; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4429688504",
+            "title": "Werkstudent (m/w/d) Vertragsverwaltung",
+            "company": "Toyota Kreditbank/ Toyota Financial Services Germany",
+            "location": "Cologne, North Rhine-Westphalia, Germany",
+            "description": "Aufgaben: Selbstständige Bearbeitung von Leasing‑ und Kreditumschreibungen (u.a. Taxi/ Uber) von Beginn bis Abschluss Erstellung manueller Bestätigungsschreiben von Sondertilgungen inkl. neuem Zahlungsplan Telefonische Beratung von Händlern und Kunden unter Einhaltung von Service‑Level und bankinter",
+            "url": "https://www.linkedin.com/jobs/view/4429688504",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Praktikum Automotive'; preferred location (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4417231232",
+            "title": "Praktikum Volkswagen Automobile Stuttgart",
+            "company": "Volkswagen Automobile Stuttgart GmbH",
+            "location": "Stuttgart, Baden-Württemberg, Germany",
+            "description": "Heilbronner Straße 392, 70469 Stuttgart Hauptstraße 166, 70563 Stuttgart Wangener Straße 66, 70188 Stuttgart Die Volkswagen Automobile Stuttgart GmbH ist ein hundertprozentiges Tochterunternehmen der Volkswagen Group Retail Deutschland und damit eine Konzerngesellschaft der Volkswagen AG. Derzeit be",
+            "url": "https://www.linkedin.com/jobs/view/4417231232",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 23,
+          "reason": "preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4439559995",
+            "title": "System Engineer (m/w/d)",
+            "company": "mamgo | Talente 🔗 Jobs",
+            "location": "Berlin, Berlin, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439559995",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 23,
+          "reason": "preferred location (rule-based)",
+          "domain_class": "skill_adjacent",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4421799153",
+            "title": "Embedded Systems Entwicklungsingenieur (w/m/d)",
+            "company": "Siemens Energy",
+            "location": "Erlangen, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4421799153",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 23,
+          "reason": "preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4436682051",
+            "title": "Designer PDU Systems (m/f/d)",
+            "company": "Electronic components by Würth Elektronik",
+            "location": "Munich, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436682051",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 23,
+          "reason": "preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4326574121",
+            "title": "AI Implementation Engineer (m/w/d)",
+            "company": "Liebherr Group",
+            "location": "Kirchdorf an der Iller, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4326574121",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 23,
+          "reason": "preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4436669882",
+            "title": "Junior AI Developer — Services (m/w/d)",
+            "company": "AI-Z Group",
+            "location": "Stuttgart, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436669882",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ]
     }
   ]
 }

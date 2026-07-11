@@ -72,3 +72,20 @@
   Reason: The candidate's skills in AI, ML, and automotive systems align well with the job requirements
   URL:    https://www.linkedin.com/jobs/view/4380012529
 
+--- Run at 20:11:10 (2 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  80/100
+  Systems Engineer (m/w/d) Hardware
+  @ mamgo | Talente 🔗 Jobs  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and education are highly relevant to the job, but the job title is 'Systems Engineer (m/w/d) Hardware' which may not be an exact match to the candidate's target titles.
+  URL:    https://www.linkedin.com/jobs/view/4439573450
+────────────────────────────────────────────────
+  Score:  80/100
+  Middle Systems Engineer
+  @ TXT GROUP  ·  Bayern, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and education are highly relevant to the job, but the role's experience requirements are not fully met.
+  URL:    https://www.linkedin.com/jobs/view/4429677835
+

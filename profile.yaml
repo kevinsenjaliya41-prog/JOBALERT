@@ -14,15 +14,13 @@ domain:
   core_terms:
   - Automotive
   - Fahrzeugtechnik
+  - Automatisierung
   - Artificial Intelligence
   - Künstliche Intelligenz
   - Machine Learning
   - Maschinelles Lernen
   - Data Analysis
   - Datenanalyse
-  - Automatisierung
-  - Elektronik
-  - Mechatronik
   supporting_terms:
   - Engineering
   - Ingenieurwesen
@@ -30,54 +28,41 @@ domain:
   - Technology
   adjacent_terms:
   - Mechanical Engineering
-  - Maschinenbau
+  - Mechatronik
   - Electrical Engineering
   - Elektrotechnik
-  - Computer Science
-  - Informatik
   core_companies:
   - bmw
   - mercedes
   - audi
   - volkswagen
   - porsche
-  - continental
-  - bosch
-  - siemens
   adjacent_companies:
-  - sap
-  - ibm
-  - microsoft
-  - google
-  - amazon
+  - siemens
+  - bosch
+  - continental
   reject_title_terms:
   - Marketing Manager
   - Nurse
   - Recruiter
-  - Sales Manager
-  - Financial Analyst
+  - Software Developer
+  - Mechanical Engineer
   bonus_terms:
   - Artificial Intelligence
   - Machine Learning
   - Data Analysis
-  - Automotive Systems
-  - Fahrzeugentwicklungsingenieur
+  - Künstliche Intelligenz
+  - Maschinelles Lernen
 skills:
-- Python Programming
+- Python
 - PyTorch
 - TensorFlow
-- Data Collection
-- Data Processing
-- Data Integration
-- Conda
-- Python virtual environment
-- Git
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
+- Data Analysis
 - MATLAB
 - SIMULINK
-- Analytical Thinking
 - Künstliche Intelligenz
 - Maschinelles Lernen
 - Datenanalyse
@@ -94,13 +79,8 @@ target_titles:
 - Automotive Systems Engineer
 - Artificial Intelligence Engineer
 - Machine Learning Engineer
-- Data Analyst
-- Data Scientist
-- Automotive Software Engineer
-- Fahrzeugentwicklungsingenieur
-- Automatisierungstechniker
-- Elektroniker
-- Mechatroniker
+- Data Analyst Automotive
+- Automotive Data Scientist
 must_have_keywords:
 - Automotive
 - Artificial Intelligence
@@ -118,7 +98,6 @@ exclude_keywords:
 - 10+ years
 - mehrjährige Berufserfahrung
 - Leitender Ingenieur
-- Gruppenleiter
 preferred_locations:
 - Ingolstadt
 - Munich
@@ -130,14 +109,12 @@ career_level: student
 search_queries:
 - Werkstudent Automotive
 - Junior Automotive Engineer
-- Artificial Intelligence Engineer
-- Machine Learning Engineer
+- Artificial Intelligence Automotive
+- Machine Learning Automotive
 - Data Analyst Automotive
-- Automotive Software Engineer
-- Fahrzeugentwicklungsingenieur
-- Automatisierungstechniker
-- Elektroniker
-- Mechatroniker
+- Automotive Systems Engineer
+- Künstliche Intelligenz Automotive
+- Maschinelles Lernen Automotive
 prefilter_min_score: 15
 tier_thresholds:
   strong: 75
@@ -145,16 +122,4 @@ tier_thresholds:
 company_targets:
 - name: BMW
   ats: smartrecruiters
-  id: BMWGroup
-- name: Mercedes
-  ats: smartrecruiters
-  id: DaimlerAG
-- name: Audi
-  ats: smartrecruiters
-  id: AudiAG
-- name: Volkswagen
-  ats: smartrecruiters
-  id: VolkswagenAG
-- name: Porsche
-  ats: smartrecruiters
-  id: PorscheAG
+  id: BMWGroupp

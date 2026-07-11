@@ -842,3 +842,209 @@
   Reason: skills: Git; keyword bonus: 1; preferred location (rule-based)
   URL:    https://www.linkedin.com/jobs/view/4410484728
 
+--- Run at 20:11:10 (29 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  10/100
+  Werkstudenten-Jobs / Praktika / Abschlußarbeiten
+  @ Stanley Black & Decker, Inc.  ·  Linden, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4205335501
+────────────────────────────────────────────────
+  Score:   0/100
+  VP of Engineering, Navigation
+  @ Mapbox  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4412413470
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Databricks Consulting Engineer (m/f/*)
+  @ Ultra Tendency  ·  Magdeburg, Saxony-Anhalt, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4428262439
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Product Manager (m/f/x) Operations
+  @ FINN  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4411639013
+────────────────────────────────────────────────
+  Score:   0/100
+  (Senior) Consultant (all genders) – Manufacturing & Industrialization
+  @ Porsche Consulting  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4390321737
+────────────────────────────────────────────────
+  Score:   0/100
+  Principal BMS Industrial System Architect (m/f/d)
+  @ NXP Semiconductors  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4402276510
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Go-to-Market (GTM) Manager (d/fm)
+  @ mobile.de  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4430983182
+────────────────────────────────────────────────
+  Score:   0/100
+  Engineering Manager (m/f/d) Machine Learning
+  @ SIXT  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4365115095
+────────────────────────────────────────────────
+  Score:  10/100
+  Doktorandin / Doktorand KI Elektronikplanung (w/m/d)
+  @ Volkswagen Group  ·  Wolfsburg, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4429692641
+────────────────────────────────────────────────
+  Score:   0/100
+  (Senior) Machine Learning Engineer (f/m/d)
+  @ Pricenow  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4436685115
+────────────────────────────────────────────────
+  Score:   0/100
+  (Senior) Technical Product Owner - AI Platform (m/f/d)
+  @ SIXT  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4380309871
+────────────────────────────────────────────────
+  Score:   0/100
+  (Senior) Consultant in SAP Data Analytics (all genders)
+  @ MHP – A Porsche Company  ·  Dresden, Saxony, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4370996778
+────────────────────────────────────────────────
+  Score:  10/100
+  Entwicklungsingenieur (m/w/d) Elektrische Systeme
+  @ Crown Lift Trucks UK  ·  Feldkirchen, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439559799
+────────────────────────────────────────────────
+  Score:   0/100
+  Systems/Release Engineer / Technical Lead
+  @ Ambu  ·  Augsburg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4410822185
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Mechanical Engineer Electric Drive Systems (m/w/d)
+  @ KONDI Engineering & Prototyping  ·  Heilbronn, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: Title contains out-of-field term 'Mechanical Engineer'
+  URL:    https://www.linkedin.com/jobs/view/4436668874
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Space System Engineer (m/f/d)
+  @ CGI  ·  Darmstadt, Hesse, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4389741795
+────────────────────────────────────────────────
+  Score:  10/100
+  Doktorandin / Doktorand Entwicklung AI‑Native Entwicklungsmodelle & virtuelle KI‑Agenten (w/m/d)
+  @ Volkswagen Group  ·  Wolfsburg, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4429693476
+────────────────────────────────────────────────
+  Score:   0/100
+  (Senior) Manager Data & AI Technology (all genders)
+  @ MHP – A Porsche Company  ·  Nuremberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4429918434
+────────────────────────────────────────────────
+  Score:   0/100
+  Team Lead GenAI Platform (m/f/d)
+  @ KION Group  ·  Frankfurt am Main, Hesse, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4430969707
+────────────────────────────────────────────────
+  Score:  40/100
+  Working Student (d/f/m) Operational Quality Management & Business Improvement Support
+  @ Airbus Aircraft  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, ML, and data analysis are transferable, but the job requires experience in quality management and business improvement, which is not directly mentioned in the candidate's profile.
+  URL:    https://www.linkedin.com/jobs/view/4428284964
+────────────────────────────────────────────────
+  Score:  30/100
+  Werkstudent Qualitätsmanagement Kleinserienfertigung (w/m/x)
+  @ BMW Group  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: title fits 'Werkstudent Automotive'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4389683974
+────────────────────────────────────────────────
+  Score:  30/100
+  Werkstudentin / Werkstudent Organisationsentwicklung (w/m/d)
+  @ Volkswagen Group  ·  Wolfsburg, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: title fits 'Werkstudent Automotive'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4322676754
+────────────────────────────────────────────────
+  Score:  30/100
+  Werkstudent (m/w/d) Vertragsverwaltung
+  @ Toyota Kreditbank/ Toyota Financial Services Germany  ·  Cologne, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: title fits 'Werkstudent Automotive'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4429688504
+────────────────────────────────────────────────
+  Score:  30/100
+  Praktikum Volkswagen Automobile Stuttgart
+  @ Volkswagen Automobile Stuttgart GmbH  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: title fits 'Praktikum Automotive'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4417231232
+────────────────────────────────────────────────
+  Score:  23/100
+  System Engineer (m/w/d)
+  @ mamgo | Talente 🔗 Jobs  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439559995
+────────────────────────────────────────────────
+  Score:  23/100
+  Embedded Systems Entwicklungsingenieur (w/m/d)
+  @ Siemens Energy  ·  Erlangen, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4421799153
+────────────────────────────────────────────────
+  Score:  23/100
+  Designer PDU Systems (m/f/d)
+  @ Electronic components by Würth Elektronik  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4436682051
+────────────────────────────────────────────────
+  Score:  23/100
+  AI Implementation Engineer (m/w/d)
+  @ Liebherr Group  ·  Kirchdorf an der Iller, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4326574121
+────────────────────────────────────────────────
+  Score:  23/100
+  Junior AI Developer — Services (m/w/d)
+  @ AI-Z Group  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4436669882
+

@@ -135,3 +135,48 @@
   Reason: preferred location (rule-based; AI quota exhausted)
   URL:    https://www.linkedin.com/jobs/view/4430955864
 
+--- Run at 20:11:10 (6 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  70/100
+  Abschlussarbeit - Entwicklung risikobasierter Hardware-Teststrategie (w/m/d)
+  @ Volkswagen Group  ·  Baunatal, Hesse, Germany
+  Source: LinkedIn
+  Reason: The candidate's master's studies in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow align with the job requirements, but the role's preference for knowledge in Leistungselektronik/Pulswechselrichter and the candidate's limited direct experience in this area are notable gaps.
+  URL:    https://www.linkedin.com/jobs/view/4422011852
+────────────────────────────────────────────────
+  Score:  70/100
+  PhD Student - AI AI Electrical Systems Planning (f/m/d)
+  @ Volkswagen Group  ·  Wolfsburg, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: The candidate's master's degree in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns well with the PhD project's objectives, but the role's location in Wolfsburg and potential language requirements may pose a challenge.
+  URL:    https://www.linkedin.com/jobs/view/4429691686
+────────────────────────────────────────────────
+  Score:  60/100
+  Data Scientist (m/f/x)
+  @ FINN  ·  Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, machine learning, and data analysis are relevant, but the job is not directly in the automotive field.
+  URL:    https://www.linkedin.com/jobs/view/4402290970
+────────────────────────────────────────────────
+  Score:  60/100
+  Mechanical Systems Engineer (m/w/d)
+  @ Litherm Technologies GmbH  ·  Krefeld, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in machine learning and artificial intelligence are relevant, but the job requires mechanical systems engineering expertise.
+  URL:    https://www.linkedin.com/jobs/view/4439575407
+────────────────────────────────────────────────
+  Score:  60/100
+  Data Scientist / Data Engineer (m/w/d)
+  @ FEGA & Schmitt Elektrogroßhandel GmbH  ·  Ansbach, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in machine learning and data analysis are relevant, but the job is not directly in the automotive field.
+  URL:    https://www.linkedin.com/jobs/view/4436687054
+────────────────────────────────────────────────
+  Score:  30/100
+  Werkstudent Agile Transformation und Prozessentwicklung (w/m/x)
+  @ BMW Group  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: title fits 'Werkstudent Automotive'; preferred location (rule-based; AI quota exhausted)
+  URL:    https://www.linkedin.com/jobs/view/4381105474
+

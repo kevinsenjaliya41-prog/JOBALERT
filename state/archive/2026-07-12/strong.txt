@@ -1,0 +1,61 @@
+=== STRONG MATCHES ===
+
+--- Run at 08:44:50 (8 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  95/100
+  Werkstudent:in AI Engineering (m/w/d)
+  @ disruptive  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and education in International Automotive Engineering, Artificial Intelligence, and Machine Learning are an outstanding match for the job requirements.
+  URL:    https://www.linkedin.com/jobs/view/4437200903
+────────────────────────────────────────────────
+  Score:  90/100
+  Praktikum Digital Twin & Robotik-Engineering
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning align well with the Praktikum Digital Twin & Robotik-Engineering role at Bosch, and their skills in Python, PyTorch, and TensorFlow are directly relevant to the position.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134453259
+────────────────────────────────────────────────
+  Score:  90/100
+  Praktikum Data Analysis & Software-Engineering UX
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in data analysis and software engineering, make them a strong fit for the Praktikum Data Analysis & Software-Engineering UX role at Bosch.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134175009
+────────────────────────────────────────────────
+  Score:  90/100
+  Masterarbeit Web-App Live-Prototyping - IT/Fertigungsschnittstellen-Automatisierung mit benutzerfreundlicher Bedienoberfläche
+  @ Bosch  ·  Gunzenhausen, BY, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning align well with the job requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000125036759
+────────────────────────────────────────────────
+  Score:  90/100
+  Masterarbeit im Bereich adaptiver Regelung von elektrischen Antrieben
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning closely match the job requirements, and their experience with MATLAB and SIMULINK is a strong fit for the role.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136391959
+────────────────────────────────────────────────
+  Score:  90/100
+  Pflichtpraktikum Data Science im Qualitätsmanagement
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in projects like the Handwritten Character Recognition System, align well with the Data Science internship at Bosch, and their preferred location includes Stuttgart.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132621204
+────────────────────────────────────────────────
+  Score:  90/100
+  Master’s Thesis Adaptive Multi-Modal Sensor Fusion with 5G/6G ISAC
+  @ Bosch  ·  Erlangen, BY, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in projects like Handwritten Character Recognition System, make them a strong fit for the Master's Thesis on Adaptive Multi-Modal Sensor Fusion with 5G/6G ISAC at Bosch.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133528162
+────────────────────────────────────────────────
+  Score:  80/100
+  Werkstudent Innovation (m/w/d)
+  @ ITW MOTION  ·  Röttingen, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are relevant to the job, but the job description does not explicitly require these skills.
+  URL:    https://www.linkedin.com/jobs/view/4439599961
+

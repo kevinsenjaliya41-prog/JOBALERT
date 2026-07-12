@@ -13,46 +13,67 @@ domain:
   name: automotive engineering
   core_terms:
   - Automotive
-  - Fahrzeugtechnik
-  - Automatisierung
   - Artificial Intelligence
-  - Künstliche Intelligenz
   - Machine Learning
+  - Deep Learning
+  - Python
+  - PyTorch
+  - TensorFlow
+  - Künstliche Intelligenz
   - Maschinelles Lernen
-  - Data Analysis
-  - Datenanalyse
+  - Tiefes Lernen
+  - Automatisierung
+  - Fahrzeugtechnik
+  - Autonomous Systems
+  - Robotics
+  - Computer Vision
+  - Sensor Fusion
   supporting_terms:
-  - Engineering
-  - Ingenieurwesen
-  - Technik
-  - Technology
+  - Electronics
+  - Mechatronics
+  - Software Development
+  - System Engineering
+  - Testing
+  - Validation
   adjacent_terms:
+  - Aerospace Engineering
   - Mechanical Engineering
-  - Mechatronik
   - Electrical Engineering
-  - Elektrotechnik
+  - Computer Science
+  - Robotics
+  - Mechatronics
   core_companies:
   - bmw
   - mercedes
   - audi
   - volkswagen
   - porsche
-  adjacent_companies:
-  - siemens
   - bosch
   - continental
+  - zfe
+  - daimler
+  adjacent_companies:
+  - airbus
+  - boeing
+  - siemens
+  - philips
+  - nvidia
+  - intel
   reject_title_terms:
   - Marketing Manager
   - Nurse
   - Recruiter
-  - Software Developer
-  - Mechanical Engineer
+  - Sales Manager
+  - Financial Analyst
+  - Human Resources
   bonus_terms:
   - Artificial Intelligence
   - Machine Learning
-  - Data Analysis
-  - Künstliche Intelligenz
-  - Maschinelles Lernen
+  - Deep Learning
+  - Autonomous Systems
+  - Robotics
+  - Computer Vision
+  - Sensor Fusion
 skills:
 - Python
 - PyTorch
@@ -60,12 +81,17 @@ skills:
 - Machine Learning
 - Deep Learning
 - Artificial Intelligence
-- Data Analysis
 - MATLAB
 - SIMULINK
+- Data Analysis
+- Digital Signal Processing
+- Keras
+- Convolutional Neural Networks
+- Git
+- Conda
 - Künstliche Intelligenz
 - Maschinelles Lernen
-- Datenanalyse
+- Tiefes Lernen
 target_titles:
 - Working Student Automotive
 - Werkstudent Automotive
@@ -79,18 +105,26 @@ target_titles:
 - Automotive Systems Engineer
 - Artificial Intelligence Engineer
 - Machine Learning Engineer
-- Data Analyst Automotive
-- Automotive Data Scientist
+- Deep Learning Engineer
+- Automotive Software Engineer
+- Autonomous Systems Engineer
+- Robotics Engineer
+- Junior Perception Engineer
+- Computer Vision Engineer
+- Sensor Fusion Engineer
 must_have_keywords:
 - Automotive
 - Artificial Intelligence
 - Machine Learning
-- Data Analysis
+- Deep Learning
+- Python
+- PyTorch
+- TensorFlow
 - Künstliche Intelligenz
 - Maschinelles Lernen
-- Datenanalyse
-- Fahrzeugtechnik
+- Tiefes Lernen
 - Automatisierung
+- Fahrzeugtechnik
 exclude_keywords:
 - Senior
 - Lead
@@ -98,28 +132,43 @@ exclude_keywords:
 - 10+ years
 - mehrjährige Berufserfahrung
 - Leitender Ingenieur
+- Gruppenleiter
 preferred_locations:
 - Ingolstadt
 - Munich
 - Stuttgart
 - Germany
 language_preference: no_german_required
-years_of_experience: 4
+years_of_experience: 2
 career_level: student
 search_queries:
 - Werkstudent Automotive
 - Junior Automotive Engineer
-- Artificial Intelligence Automotive
-- Machine Learning Automotive
-- Data Analyst Automotive
-- Automotive Systems Engineer
-- Künstliche Intelligenz Automotive
-- Maschinelles Lernen Automotive
+- Artificial Intelligence Engineer
+- Machine Learning Engineer
+- Deep Learning Engineer
+- Automotive Software Engineer
+- Autonomous Systems Engineer
+- Robotics Engineer
+- Junior Perception Engineer
+- Computer Vision Engineer
+- Sensor Fusion Engineer
+- Automatisierung
+- Fahrzeugtechnik
+- Künstliche Intelligenz
+- Maschinelles Lernen
+- Tiefes Lernen
 prefilter_min_score: 15
 tier_thresholds:
   strong: 75
   worth_look: 50
 company_targets:
-- name: BMW
+- name: Bosch
   ats: smartrecruiters
-  id: BMWGroupp
+  id: BoschGroup
+- name: Daimler
+  ats: smartrecruiters
+  id: DaimlerAG
+- name: Volkswagen
+  ats: smartrecruiters
+  id: VolkswagenGroup

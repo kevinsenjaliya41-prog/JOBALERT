@@ -1,0 +1,2944 @@
+{
+  "date": "2026-07-12",
+  "runs": [
+    {
+      "timestamp": "2026-07-12T08:44:50.741450",
+      "strong": [
+        {
+          "score": 95,
+          "reason": "The candidate's skills and education in International Automotive Engineering, Artificial Intelligence, and Machine Learning are an outstanding match for the job requirements.",
+          "domain_class": "core_field",
+          "ai_score": 95,
+          "ai_reason": "The candidate's skills and education in International Automotive Engineering, Artificial Intelligence, and Machine Learning are an outstanding match for the job requirements.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4437200903",
+            "title": "Werkstudent:in AI Engineering (m/w/d)",
+            "company": "disruptive",
+            "location": "Munich, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4437200903",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning align well with the Praktikum Digital Twin & Robotik-Engineering role at Bosch, and their skills in Python, PyTorch, and TensorFlow are directly relevant to the position.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning align well with the Praktikum Digital Twin & Robotik-Engineering role at Bosch, and their skills in Python, PyTorch, and TensorFlow are directly relevant to the position.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000134453259",
+            "title": "Praktikum Digital Twin & Robotik-Engineering",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134453259",
+            "published": "2026-06-26T11:39:50.712Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in data analysis and software engineering, make them a strong fit for the Praktikum Data Analysis & Software-Engineering UX role at Bosch.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in data analysis and software engineering, make them a strong fit for the Praktikum Data Analysis & Software-Engineering UX role at Bosch.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000134175009",
+            "title": "Praktikum Data Analysis & Software-Engineering UX",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134175009",
+            "published": "2026-06-25T05:54:53.280Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning align well with the job requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "domain_class": "core_field",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning align well with the job requirements, and their experience in projects like Handwritten Character Recognition System using TensorFlow demonstrates relevant skills.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000125036759",
+            "title": "Masterarbeit Web-App Live-Prototyping - IT/Fertigungsschnittstellen-Automatisierung mit benutzerfreundlicher Bedienoberfläche",
+            "company": "Bosch",
+            "location": "Gunzenhausen, BY, de",
+            "description": "Als treibende Kraft an der Schnittstelle zwischen IT und Produktion evaluierst und gestaltest du die Digitalisierung unserer Fertigungsprozesse. Im Rahmen deiner Masterarbeit übernimmst du die Verantwortung für den Entwurf, die Implementierung und die Bewertung eines innovativen Software-Prototyps. ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000125036759",
+            "published": "2026-05-07T05:53:11.063Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning closely match the job requirements, and their experience with MATLAB and SIMULINK is a strong fit for the role.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning closely match the job requirements, and their experience with MATLAB and SIMULINK is a strong fit for the role.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000136391959",
+            "title": "Masterarbeit im Bereich adaptiver Regelung von elektrischen Antrieben",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "Während deiner Abschlussarbeit&#xa0;modellierst&#xa0;du&#xa0;elektrische Antriebssysteme unter Verwendung von KI-Methoden. Des Weiteren entwickelst&#xa0;du&#xa0;neue Regelungs- und Lernverfahren für elektrische Antriebe unter Verwendung von maschinellem Lernen und modellbasierten Verfahren. Du entwi",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136391959",
+            "published": "2026-07-08T07:09:35.900Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in projects like the Handwritten Character Recognition System, align well with the Data Science internship at Bosch, and their preferred location includes Stuttgart.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in projects like the Handwritten Character Recognition System, align well with the Data Science internship at Bosch, and their preferred location includes Stuttgart.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000132621204",
+            "title": "Pflichtpraktikum Data Science im Qualitätsmanagement",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132621204",
+            "published": "2026-06-17T11:44:23.118Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 90,
+          "reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in projects like Handwritten Character Recognition System, make them a strong fit for the Master's Thesis on Adaptive Multi-Modal Sensor Fusion with 5G/6G ISAC at Bosch.",
+          "domain_class": "core_field",
+          "ai_score": 90,
+          "ai_reason": "The candidate's master's studies in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning, along with their experience in projects like Handwritten Character Recognition System, make them a strong fit for the Master's Thesis on Adaptive Multi-Modal Sensor Fusion with 5G/6G ISAC at Bosch.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000133528162",
+            "title": "Master’s Thesis Adaptive Multi-Modal Sensor Fusion with 5G/6G ISAC",
+            "company": "Bosch",
+            "location": "Erlangen, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133528162",
+            "published": "2026-06-23T08:01:11.615Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 80,
+          "reason": "The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are relevant to the job, but the job description does not explicitly require these skills.",
+          "domain_class": "core_field",
+          "ai_score": 80,
+          "ai_reason": "The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are relevant to the job, but the job description does not explicitly require these skills.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4439599961",
+            "title": "Werkstudent Innovation (m/w/d)",
+            "company": "ITW MOTION",
+            "location": "Röttingen, Bavaria, Germany",
+            "description": "ITW Motion als Arbeitgeber Unsere Unternehmensgruppe ist mit über 100 Jahren Erfahrung eine der führenden der Automobilbranche. Mit über 100 motivierten Mitarbeitern produzieren wir unsere Dämpfer für verschiedene Anwendungsbereiche. Weltweit besteht ITW aus 88 dezentralen Divisionen mit über 43.000",
+            "url": "https://www.linkedin.com/jobs/view/4439599961",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "worth_look": [
+        {
+          "score": 70,
+          "reason": "The candidate's master's degree in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns well with the job requirements, but the role's emphasis on industrial automation and Foundation Models presents a gap in direct experience.",
+          "domain_class": "core_field",
+          "ai_score": 70,
+          "ai_reason": "The candidate's master's degree in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns well with the job requirements, but the role's emphasis on industrial automation and Foundation Models presents a gap in direct experience.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000135215359",
+            "title": "Promotion - Foundation Models und Agentic AI für die industrielle Automatisierung",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "Die industrielle Automatisierung steht an einem Wendepunkt. Foundation Models bieten eine beispiellose Generalisierung und Anpassungsfähigkeit – doch ihr Einsatz in realen Produktionsumgebungen bedeutet, sich harten Randbedingungen stellen zu müssen: Latenzen im Mikrosekundenbereich, deterministisch",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135215359",
+            "published": "2026-07-01T09:28:10.628Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's background in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns with the job's requirements, but the role's emphasis on robotics and the candidate's limited direct experience in this area are notable gaps.",
+          "domain_class": "core_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's background in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns with the job's requirements, but the role's emphasis on robotics and the candidate's limited direct experience in this area are notable gaps.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000129944629",
+            "title": "Internship Lifelong Learning for Humanoid Robots",
+            "company": "Bosch",
+            "location": "Hildesheim, NDS, de",
+            "description": "The future of robotics lies in continuous learning—a vision that empowers robots to evolve autonomously and throughout their entire operational lifespan. Are you ready to stand at the forefront of this revolution and create humanoid systems that do not merely follow instructions, but actively learn?",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129944629",
+            "published": "2026-06-03T08:53:47.181Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in AI, ML, and programming are relevant, but the job title and company do not directly relate to automotive engineering.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in AI, ML, and programming are relevant, but the job title and company do not directly relate to automotive engineering.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4438962718",
+            "title": "Software Engineer",
+            "company": "FetchJobs.co",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438962718",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in AI, ML, and programming languages are relevant, but the job's focus on Software Defined Radio is not directly related to automotive engineering.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in AI, ML, and programming languages are relevant, but the job's focus on Software Defined Radio is not directly related to automotive engineering.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4437202911",
+            "title": "Software Automation Engineer für Software Defined Radio (m/w/x)",
+            "company": "K-tronik GmbH",
+            "location": "Hannover, Lower Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4437202911",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in AI, machine learning, and programming languages are relevant, but the job is not directly in automotive engineering.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in AI, machine learning, and programming languages are relevant, but the job is not directly in automotive engineering.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4437205823",
+            "title": "Automation Engineer (m/w/d) Workflow- und Prozessautomatisierung",
+            "company": "relyon AG",
+            "location": "Tübingen, Baden-Württemberg, Germany",
+            "description": "Über uns Wir sind relyon – ein schnell wachsender Systemintegrator mit Fokus auf KI & Automatisierung. Unsere Mission: manuelle Arbeit eliminieren, Systeme intelligent verbinden und KI pragmatisch einsetzen – mit messbarem Impact. Was uns ausmacht: Wir arbeiten mit Kunden von Mittelstand bis Großunt",
+            "url": "https://www.linkedin.com/jobs/view/4437205823",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in Python, Machine Learning, and Artificial Intelligence align with the job requirements, but the role's emphasis on data analysis and statistical modeling is not strongly represented in the candidate's CV, and the candidate lacks direct experience as a Data Scientist.",
+          "domain_class": "core_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in Python, Machine Learning, and Artificial Intelligence align with the job requirements, but the role's emphasis on data analysis and statistical modeling is not strongly represented in the candidate's CV, and the candidate lacks direct experience as a Data Scientist.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4438959588",
+            "title": "Data Scientist - Remote",
+            "company": "YO IT Consulting",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Job Title: Data Scientist Job Type: Contractor Location: Remote Job Summary In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experience in AI is required — y",
+            "url": "https://www.linkedin.com/jobs/view/4438959588",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in machine learning and artificial intelligence are relevant, but the job title and description do not directly match their target titles and the location is not preferred.",
+          "domain_class": "broader_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in machine learning and artificial intelligence are relevant, but the job title and description do not directly match their target titles and the location is not preferred.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4439584922",
+            "title": "OPERATIONS ENGINEER (M/W/D)",
+            "company": "aurologic GmbH",
+            "location": "Langen, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439584922",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's skills in Machine Learning, Artificial Intelligence, and experience in Automotive Systems are a good match for the role, but the job title 'Pflichtpraktikum im Bereich Learning and Development' at Bosch suggests a stronger focus on learning and development, which is not explicitly highlighted in the candidate's profile.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 60,
+          "ai_reason": "The candidate's skills in Machine Learning, Artificial Intelligence, and experience in Automotive Systems are a good match for the role, but the job title 'Pflichtpraktikum im Bereich Learning and Development' at Bosch suggests a stronger focus on learning and development, which is not explicitly highlighted in the candidate's profile.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000134400949",
+            "title": "Pflichtpraktikum im Bereich Learning and Development",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134400949",
+            "published": "2026-06-26T06:20:27.211Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's background in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns with the PhD position's requirements, but the role's emphasis on industrial automation and foundation models, along with the candidate's limited direct experience in these areas, creates a gap.",
+          "domain_class": "core_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's background in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns with the PhD position's requirements, but the role's emphasis on industrial automation and foundation models, along with the candidate's limited direct experience in these areas, creates a gap.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000135215679",
+            "title": "PhD – Foundation-Modelle und agentische KI für die industrielle Automatisierung (w/m/div.)",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "Die industrielle Automatisierung steht an einem Wendepunkt. Foundation Models bieten eine beispiellose Generalisierung und Anpassungsfähigkeit – doch ihr Einsatz in realen Produktionsumgebungen bedeutet, sich harten Randbedingungen stellen zu müssen: Latenzen im Mikrosekundenbereich, deterministisch",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135215679",
+            "published": "2026-07-01T09:29:18.532Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 60,
+          "reason": "The candidate's background in International Automotive Engineering and experience with data analysis, machine learning, and digital signal processing align with the job's requirements, but the role's emphasis on project management and German language proficiency are not strongly matched in the candidate's profile.",
+          "domain_class": "core_field",
+          "ai_score": 60,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with data analysis, machine learning, and digital signal processing align with the job's requirements, but the role's emphasis on project management and German language proficiency are not strongly matched in the candidate's profile.",
+          "unscored": false,
+          "job": {
+            "id": "smartr_BoschGroup_744000133934543",
+            "title": "Pflichtpraktikum Digitalisierung im Projektmanagement",
+            "company": "Bosch",
+            "location": "Reutligen, BW, de",
+            "description": "Du gestaltest die Zukunft der Projektsteuerung aktiv mit und treibst die digitale Transformation voran. Wenn du mit deiner Expertise in Datenanalyse sowie Tool-Entwicklung globale Prozesse optimieren und echten Impact erzielen möchtest, dann bist du hier genau richtig. Werde Teil eines Teams, das In",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133934543",
+            "published": "2026-06-24T12:34:40.548Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 25,
+          "reason": "title fits 'Abschlussarbeit Automotive'; skills: Git (rule-based; AI quota exhausted)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": true,
+          "job": {
+            "id": "smartr_BoschGroup_744000136385839",
+            "title": "Abschlussarbeit im Bereich digitale Transformation im Auditmanagement (m/w/div)",
+            "company": "Bosch",
+            "location": "Holzkirchen, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136385839",
+            "published": "2026-07-08T06:18:09.350Z",
+            "source": "Bosch (Direct)"
+          }
+        }
+      ],
+      "rejected": [
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439703628",
+            "title": "Hardware Entwickler (m/w/d)",
+            "company": "mamgo | Talente 🔗 Jobs",
+            "location": "Lübeck, Schleswig-Holstein, Germany",
+            "description": "Du brennst für innovative Hardware, bastelst vielleicht sogar in deiner Freizeit und möchtest Dinge entwickeln, die Menschen wirklich helfen? Dann passt die Stelle als Hardware-Entwickler (m/w/d) perfekt zu dir. Unser Kunde ist ein familiäres High-Tech-Unternehmen mit knapp über 50 Mitarbeitenden. H",
+            "url": "https://www.linkedin.com/jobs/view/4439703628",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439715548",
+            "title": "AI Engineer",
+            "company": "Hyra",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Senior AI Engineer A leading global automotive manufacturer known for innovation in luxury mobility is looking for an experienced specialist to join the autonomous driving development team. This role focuses on developing and industrialising machine learning systems that enable vehicles to navigate ",
+            "url": "https://www.linkedin.com/jobs/view/4439715548",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439706531",
+            "title": "Machine Learning (AI) Engineer (Hybrid)",
+            "company": "Hire Feed",
+            "location": "Germany",
+            "description": "Role : Machine Learning (AI) Engineer (Hybrid) Location : Remote Job Type : Full-Time Payout : $200K - $500K/yr Role Overview: We are hiring for one of our clients, seeking an AI/ML Engineer to develop and deploy machine learning models that power core product features. The role involves collaborati",
+            "url": "https://www.linkedin.com/jobs/view/4439706531",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439710155",
+            "title": "Forward Deployed Engineer (Remote)",
+            "company": "Quik Hire Staffing",
+            "location": "Germany",
+            "description": "Role : Forward Deployed Engineer (Remote) Location : Remote (Work from Anywhere) Job Type: Full-Time Payout : $300K - $650K/yr Role Overview: We are hiring for one of our clients, seeking a Forward Deployed Engineer to work on a full-time basis. This role involves deploying and integrating AI soluti",
+            "url": "https://www.linkedin.com/jobs/view/4439710155",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "title fits 'Robotics Engineer'; preferred location; (seniority warning)",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439575963",
+            "title": "Data Engineer (m/w/d)",
+            "company": "Tekkie Award",
+            "location": "Freigericht, Hesse, Germany",
+            "description": "STRAUSS WORKS - WORK WITH US. YOUR STEP IN: Finde die passende Stelle und lass uns deine Bewerbung schnell und einfach online zukommen. Perfect Fit noch nicht dabei? Sei einen Schritt voraus und schick deine Infos initiativ! Wir freuen uns auf deine Bewerbung. Next Step: Future in Workwear. Stichwor",
+            "url": "https://www.linkedin.com/jobs/view/4439575963",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439719401",
+            "title": "Software Engineer",
+            "company": "Hyra",
+            "location": "Lower Saxony, Germany",
+            "description": "Senior AI Software Engineer A leading global provider of healthcare software solutions is looking for an experienced engineer to join the team in Hanover. This role focuses on developing intelligent E-Health applications that leverage cutting-edge technology to simplify healthcare workflows. The suc",
+            "url": "https://www.linkedin.com/jobs/view/4439719401",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438972128",
+            "title": "Senior AI Advisory Architect (gn)",
+            "company": "SoftwareOne Deutschland GmbH",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "Job Function Services Warum SoftwareOne? SoftwareOne ist ein globaler Anbieter für Software- und Cloud-Lösungen. Mit einer Präsenz in über 70 Ländern und mehr als 12.000 Mitarbeitenden unterstützen wir Unternehmen dabei, ihre Software-Investitionen zu optimieren, Anwendungen zu modernisieren und das",
+            "url": "https://www.linkedin.com/jobs/view/4438972128",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4437208266",
+            "title": "Senior Data Scientist (m/f/d)",
+            "company": "Finmatics",
+            "location": "Germany",
+            "description": "Finmatics – Your AI Accountant With Fin , the AI accountant, Finmatics makes accounting easier, faster, and smarter. Instead of manual routine tasks, our software handles them reliably—specifically designed for accountants in Germany and Austria. Our mission: To give back time, eliminate document ch",
+            "url": "https://www.linkedin.com/jobs/view/4437208266",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438966559",
+            "title": "Data Scientist",
+            "company": "FetchJobs.co",
+            "location": "Germany",
+            "description": "About The Company Airbus Operations GmbH is a leading global aerospace company renowned for designing, manufacturing, and delivering innovative aircraft and aerospace solutions. With a rich history of technological excellence and a commitment to sustainability, Airbus plays a pivotal role in shaping",
+            "url": "https://www.linkedin.com/jobs/view/4438966559",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438966308",
+            "title": "Senior Software Engineer - Remote",
+            "company": "YO IT Consulting",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Job Description Job Title: Senior Software Engineer Job Type: Contract Location: Remote Job Summary: In this role, you'll apply your expertise to help train next-generation AI systems. Your work will shape how models learn, reason, and perform through high-quality, real-world input. No prior experie",
+            "url": "https://www.linkedin.com/jobs/view/4438966308",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439711489",
+            "title": "Software Engineer automation (m/w/d)",
+            "company": "AgileGrid Solutions",
+            "location": "Germany",
+            "description": "About The Company The HAZEMAG Group is a globally operating enterprise specializing in machinery and plant engineering, with its headquarters located in Dülmen, Germany. Our company is renowned for developing, designing, manufacturing, and distributing equipment tailored for the aggregate and recycl",
+            "url": "https://www.linkedin.com/jobs/view/4439711489",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439708447",
+            "title": "Data Engineer I (Remote)",
+            "company": "Hire Feed",
+            "location": "Germany",
+            "description": "Role : Data Engineer I (Remote) Location : Remote (Work from Anywhere) Job Type: Contract Payout : $30 - $130/hour Role Overview: We are hiring for one of our clients, seeking a Data Engineer to work on a contract basis. The role focuses on building and optimizing data pipelines to ensure efficient ",
+            "url": "https://www.linkedin.com/jobs/view/4439708447",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439599873",
+            "title": "Software Engineer - E-Commerce (Remote)",
+            "company": "Hired",
+            "location": "Germany",
+            "description": "Role : Software Engineer - E-Commerce (Remote) Location : Remote (Work from Anywhere) Job Type : Full-Time Payout : $180K - $250K/yr Role Overview: We are hiring for one of our clients, seeking a Software Engineer, New Grad (Zara) to work on a full-time basis. The role involves developing scalable b",
+            "url": "https://www.linkedin.com/jobs/view/4439599873",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436678909",
+            "title": "Senior Software Engineer (m/w/d) – Backend / Platform / ML (bis 100k €)",
+            "company": "Crateflow",
+            "location": "Germany",
+            "description": "Ihre Aufgaben Deine Aufgaben Strategische System-Architektur: Du baust nicht einfach Features, du baust und verantwortest das Rückgrat von Crateflow. Du entwickelst den Backend- und Plattform-Kern (Python, Django REST) weiter und sorgst dafür, dass unsere Architektur auch morgen noch skaliert – von ",
+            "url": "https://www.linkedin.com/jobs/view/4436678909",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4437207486",
+            "title": "Software-Entwickler (m/w/d) embedded Systems",
+            "company": "STIEBEL ELTRON Group",
+            "location": "Holzminden, Lower Saxony, Germany",
+            "description": "STIEBEL ELTRON bietet hocheffiziente Produkte und Lösungen für Warmwasser, Wärme, Lüftung und Kühlung für jedes Gebäude. Dabei verfolgen wir eine klare Linie und treiben die Energiewende voran: Erneuerbarer Strom ist die Antriebsenergie unserer Produkte! Mit unseren über 5.000 Mitarbeiterinnen und M",
+            "url": "https://www.linkedin.com/jobs/view/4437207486",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436694919",
+            "title": "Embedded SW Developer (m/f/d)",
+            "company": "Electronic components by Würth Elektronik",
+            "location": "Munich, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436694919",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438971497",
+            "title": "Backend Developer",
+            "company": "FetchJobs.co",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438971497",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439584586",
+            "title": "Ausbildung zum Fachinformatiker | Systemintegration (m/w/d)",
+            "company": "Tekkie Award",
+            "location": "Fulda, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439584586",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439579879",
+            "title": "Developer (m/w/d)",
+            "company": "Tekkie Award",
+            "location": "Freigericht, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439579879",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439597028",
+            "title": "Ausbildung als Fachinformatiker*in mit Fachrichtung Systemintegration (ab August 2025)",
+            "company": "Tekkie Award",
+            "location": "Fulda, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439597028",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 12,
+          "reason": "keyword bonus: 1; preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439717065",
+            "title": "Automatisierungstechniker (m/w/d)",
+            "company": "SI.SERV GmbH",
+            "location": "Werdau, Saxony, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439717065",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439712619",
+            "title": "Automation Manager (m/w/d)",
+            "company": "PimpUP",
+            "location": "Herxheim, Rhineland-Palatinate, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439712619",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 12,
+          "reason": "keyword bonus: 1; preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439586318",
+            "title": "Automatisierungstechniker – SPS (m/w/d)",
+            "company": "Tekkie Award",
+            "location": "Hünfeld, Hesse, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439586318",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4437211047",
+            "title": "Service-Elektroniker  (m/w/d)",
+            "company": "Rationator Maschinenbau GmbH",
+            "location": "Hillesheim, Rhineland-Palatinate, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4437211047",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439705508",
+            "title": "SPS-Service-Ingenieur - Anlagentechnik (m/w/d)",
+            "company": "mamgo | Talente 🔗 Jobs",
+            "location": "Nuremberg, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439705508",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438984030",
+            "title": "Inbetriebnahmetechniker (m/w/d)",
+            "company": "Hörburger GmbH",
+            "location": "Waltenhofen, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438984030",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436699174",
+            "title": "Maschinenbauingenieur (m/w/d)",
+            "company": "Boels Verleih GmbH",
+            "location": "Freilassing, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436699174",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436694893",
+            "title": "Nachwuchs - Konstrukteur (m/w/d)",
+            "company": "ibb house of engineering GmbH",
+            "location": "Hamburg, Hamburg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436694893",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436699189",
+            "title": "Entwicklungsingenieur Mechanik (m/w/d) Systeme & Fahrzeuge",
+            "company": "Boels Verleih GmbH",
+            "location": "Freilassing, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436699189",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439599900",
+            "title": "Fachinformatiker Anwendungsentwicklung (m/w/d) - Ausbildung 2026",
+            "company": "TechniSat Digital GmbH",
+            "location": "Daun, Rhineland-Palatinate, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439599900",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439706545",
+            "title": "Industriekaufmann (m/w/d) - Ausbildung 2026",
+            "company": "TechniSat Digital GmbH",
+            "location": "Daun, Rhineland-Palatinate, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439706545",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 7,
+          "reason": "skills: Git; keyword bonus: 1",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000137106450",
+            "title": "PreMaster Programm - GapYear - Sales Analytics & AI Solutions",
+            "company": "Bosch",
+            "location": "Bochum, NRW, de",
+            "description": "Unser&#xa0; PreMaster Programm &#xa0;ist ein zweistufiges Qualifizierungsprogramm&#xa0; für engagierte Bachelor-Absolvent:innen , die das Ziel haben&#xa0;ein Masterstudium zu absolvieren. Nach dem Bachelor bietet die erste Phase bis zu&#xa0; 12 Monate praktische Erfahrung , um die fachlichen und unt",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137106450",
+            "published": "2026-07-10T11:21:42.608Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 7,
+          "reason": "skills: Git; keyword bonus: 1",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000136794492",
+            "title": "PreMaster Programm Einkauf & Controlling (w/m/d)",
+            "company": "Bosch",
+            "location": "Frankfurt am Main, HE, de",
+            "description": "Du startest mit einer generischen Einarbeitung und übernimmst schnell Verantwortung für übergreifende Themen. Anschließend hast du die Möglichkeit, dich auf spezifische Aufgaben im Einkauf und Controlling zu fokussieren: : Analyse & Reporting :&#xa0;Du erstellst, analysierst und entwickelst eigenver",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136794492",
+            "published": "2026-07-09T11:37:08.710Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000136780349",
+            "title": "Werkstudent in der Geschäftsentwicklung - Business Development (w/m/div.)",
+            "company": "Bosch",
+            "location": "Ulm, BW, de",
+            "description": "Mit technischem Geschick begleitest du den Onboarding-Prozess neuer Kunden auf unserer any.site-Plattform – von der Einrichtung bis zur erfolgreichen ersten Nutzung. Du entwickelst und optimierst innovative Prompts sowie KI-Workflows, zum Beispiel auf Basis von LLMs, um unsere Support-Prozesse noch ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136780349",
+            "published": "2026-07-09T10:19:30.760Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 7,
+          "reason": "skills: Git; keyword bonus: 1",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000135676227",
+            "title": "Dualer Master (M.Sc.) Prozessmanagement - Technische Prozesse im Bereich Service Management",
+            "company": "Bosch",
+            "location": "Wetzlar, HE, de",
+            "description": "Als Master of Science im Studiengang Prozessmanagement - Technische Prozesse unterstützt du unseren spannenden Bereich Service Management. Im dualen Ausbildungssystem bei der Bosch Home Comfort Group werden Theorie und Praxis eng miteinander verbunden. Qualifizierte Dozent:innen aus der Praxis der d",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135676227",
+            "published": "2026-07-03T09:10:26.942Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000135469296",
+            "title": "Pflichtpraktikum Datenanalyse & Automatisierung im IT-Kostenmanagement",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "Während deines Praktikums wirkst du aktiv an der Konzeption und Weiterentwicklung einer digitalen Lösung zur Prüfung, Aufbereitung und Analyse von IT-Kostendaten mit. Du analysierst unterschiedliche Datenquellen und entwickelst mit Python automatisierte Prüf- und Validierungslogiken, die Abweichunge",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135469296",
+            "published": "2026-07-02T10:45:14.630Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000135165389",
+            "title": "Praktikum im Sondermaschinenbau",
+            "company": "Bosch",
+            "location": "Immenstadt im Allgäu, BY, de",
+            "description": "Während deines Praktikums unterstützt du uns bei der Konstruktion und Optimierung von Bauteilen und Fertigungsprozessen. Du entwickelst konstruktive Verbesserungen in der Produktion und setzt diese um. Die Analyse von Produktionsdaten zur Identifikation von Optimierungspotenzialen gehört zu deinen A",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135165389",
+            "published": "2026-07-01T04:34:57.173Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 7,
+          "reason": "skills: Git; keyword bonus: 1",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000134933444",
+            "title": "PreMaster Programm - Digitaler Einkauf & Projektmanagement",
+            "company": "Bosch",
+            "location": "Schwieberdingen, BW, de",
+            "description": "Als Teil deines PreMaster Programms gestaltest du die Zukunft der Automobilindustrie mit. Du wirkst aktiv an Beschaffungsprojekten für weltweit führende Automobilhersteller im Bereich PKW-Automatik-Getriebesteuerung und Solenoids mit und trägst maßgeblich zum Erfolg unserer Kundschaft&#xa0;bei. In e",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134933444",
+            "published": "2026-06-30T06:17:04.689Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 9,
+          "reason": "skills: Python; keyword bonus: 2",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000134807384",
+            "title": "Pricing & Commercial Excellence Consultant (w/m/div.)",
+            "company": "Bosch",
+            "location": "München, BY, de",
+            "description": "Pricing Analytics Unterstützung bei der Weiterentwicklung und Anwendung bestehender Preismodelle für Installation, Service und Rental Analyse von Profitabilität, Margen sowie Preisentwicklungen über Regionen und Kundensegmente hinweg Unterstützung bei der Weiterentwicklung von Rabattstrukturen sowie",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134807384",
+            "published": "2026-06-29T14:16:00.502Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000133614169",
+            "title": "Praktikum/ Werkstudententätigkeit im Bereich Automatisierung und Digitalisierung von Geschäftsprozessen",
+            "company": "Bosch",
+            "location": "Horb am Neckar, BW, de",
+            "description": "Verantwortung übernehmen : Sie arbeiten bei den vielfältigen Aufgaben im Qualitätsbereich mit&#xa0;und unterstützen das Team im operativen Tagesgeschäft Ganzheitlich umsetzen : Sie unterstützen aktiv bei der&#xa0;Automatisierung, Digitalisierung und Verbesserung von internen Prozessen im Bereich Qua",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133614169",
+            "published": "2026-06-23T13:55:48.463Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000133019489",
+            "title": "Praktikum im Global Services Accounting – Forderungsmanagement",
+            "company": "Bosch",
+            "location": "Karlsruhe, BW, de",
+            "description": "Tauche in die Welt von Accounting und Forderungsmanagement ein und erlebe, wie moderne Finanzprozesse im internationalen Umfeld gesteuert werden. Übernimm Verantwortung, wirke aktiv mit und bewirb dich jetzt, um Teil unseres Teams zu werden. Du übernimmst eigenständig Aufgaben in der Debitorenbuchha",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133019489",
+            "published": "2026-06-19T08:52:55.986Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132885479",
+            "title": "Praktikum im Prozessmanagement",
+            "company": "Bosch",
+            "location": "Ulm, BW, de",
+            "description": "Du möchtest aktiv an Projekten rund um Daten, Prozesse und moderne Technologien mitwirken und Veränderungen voranbringen? Dann gewinnst du wertvolle Einblicke und bringst deine Ideen direkt ein. Bewirb dich jetzt! Du arbeitest im Projekt „Product Data Flow @ DC“ mit und bringst dich aktiv in die The",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132885479",
+            "published": "2026-06-18T14:36:49.773Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132842629",
+            "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Manufacturing",
+            "company": "Bosch",
+            "location": "Gerlingen-Schillerhöhe, BW, de",
+            "description": "Gestalte die Produktion der Zukunft mit uns! Wir suchen Master-Graduates mit Gestaltungswillen, die im Junior Managers Program unsere globalen Werke digitalisieren und Produktionsprozesse optimieren. Du liebst Technologie, denkst in Prozessen und willst unsere Produktion auf das nächste Level heben?",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132842629",
+            "published": "2026-06-18T11:32:35.743Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132197784",
+            "title": "Praktikum im Bereich Testwafermanagement",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "Du hast Freude daran, komplexe logistische Herausforderungen zu meistern, und möchtest deine im Studium erworbenen Kenntnisse direkt in innovative Lösungen für die Automatisierung sowie das Handling unserer Testwafer einbringen? Bist du begeistert von komplexen Zusammenhängen und hinterfragst besteh",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132197784",
+            "published": "2026-06-15T13:04:01.233Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000131456356",
+            "title": "Praktikum im Bereich Digital Marketing Communication",
+            "company": "Bosch",
+            "location": "Elchingen, BY, de",
+            "description": "Als Teil unseres zentralen Marketing-Teams im Geschäftsbereich Mobile Solutions erhältst du vielfältige Einblicke in das gesamte B2B-Marketing-Spektrum, von Online-Marketing über Marketingkampagnen bis hin zu Messen und Events. Du arbeitest selbständig in den Bereichen interne Kommunikation, Content",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131456356",
+            "published": "2026-06-10T13:36:41.913Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 7,
+          "reason": "skills: Git; keyword bonus: 1",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000130543499",
+            "title": "PreMaster Programm | Strategischer Einkauf Sensorik",
+            "company": "Bosch",
+            "location": "Reutlingen, de",
+            "description": "Du hast den Bachelor in der Tasche und willst praktisch loslegen? Du willst aber auch den Master? Entweder? Oder? – Beides! Bei uns findest du die optimale Lösung: Mit unserem&#xa0; PreMaster Programm &#xa0;im Bereich Einkauf bringen wir dich mit Praxis zum Mastertitel. Das heißt: du lernst bei uns ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000130543499",
+            "published": "2026-06-05T15:13:02.923Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000128679929",
+            "title": "Praktikum in der IT Entwicklung - Semiconductor Operations",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "Als Zulieferer für Sensoren und Chips für die Automobil- und Smartphone-Industrie sind wir bei der Steuerung unserer Lieferkette täglich neuen Herausforderungen ausgesetzt. In unserem Team der strategischen und mittelfristigen Stückzahlplanung erwartet dich ein abwechslungsreicher Mix aus Aufgaben u",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128679929",
+            "published": "2026-05-27T09:32:44.372Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000128641559",
+            "title": "Praktikum in der Entwicklung",
+            "company": "Bosch",
+            "location": "Gunzenhausen, BY, de",
+            "description": "Als Hersteller für individualisierte Großkesselanlagen unterliegen unsere 3D-CAD Modelle einer extremen Varianz. Die Herausforderung bei geringen Stückzahlen von gleichen Modellen ist, ein Modellvariantenmanagement von weit über 1 Mio. möglicher Modellausprägungen abzudecken. Dafür entwickeln wir zu",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128641559",
+            "published": "2026-05-27T05:36:02.789Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000127650369",
+            "title": "Pflichtpraktikum im internationalen Controlling",
+            "company": "Bosch",
+            "location": "Schwäbisch Gmünd, BW, de",
+            "description": "Erlebe spannende Einblicke in das operative und strategische Controlling eines internationalen Unternehmens, bringe deine eigenen Ideen aktiv ein und gestalte innovative Tools mit. Sammle dabei praxisnahe Erfahrungen mit BI-Tools und Datenanalyse. Du unterstützt aktiv bei der Erstellung präziser Rep",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000127650369",
+            "published": "2026-05-21T11:49:09.831Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000126653779",
+            "title": "Praktikum Einkaufsqualität",
+            "company": "Bosch",
+            "location": "Karlsruhe, BW, de",
+            "description": "Du suchst ein Praktikum, das dir nicht nur tiefe Einblicke in die Welt der Einkaufsqualität bietet, sondern dich aktiv in internationale Prozesse einbindet? Bei uns hast du die Chance, wertvolle Erfahrungen in einem dynamischen Umfeld zu sammeln. Werde Teil unseres Teams im Mobility Aftermarket und ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126653779",
+            "published": "2026-05-15T08:58:13.454Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 7,
+          "reason": "skills: Git; keyword bonus: 1",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000125817844",
+            "title": "PreMaster Programm im Bereich Produktionsmanagement und Digitalisierung (w/m/div.)",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "Du betreust Projekte im Bereich der Digitalisierung und Automatisierung (z.B. Early Warning, Paperless, Industrie 4.0, recipe management, RFID). Du betreibst Schwachstellenanalyse von aktuellen Prozessen sowie die Umsetzung von Verbesserungspotential. Du treibst die Standardisierung im Rahmen von Ab",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000125817844",
+            "published": "2026-05-11T11:50:42.166Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000121106647",
+            "title": "Senior Prozessingenieur Wafertest - Schwerpunkt Prober & Prüftechnik (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "Als Senior Prozessingenieur (w/m/div.) im Bereich Wafertest sind Sie verantwortlich für die Sicherstellung, Optimierung und Weiterentwicklung der Testprozesse auf Wafer-Level. Ihr Schwerpunkt liegt auf der Betreuung, Qualifizierung und Weiterentwicklung von Wafertestprobern sowie der zugehörigen Prü",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000121106647",
+            "published": "2026-04-16T05:47:11.336Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Skipped — fluent German required",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000120680490",
+            "title": "Praktikum im Vorratsbewertung",
+            "company": "Bosch",
+            "location": "Schwäbisch Gmünd, BW, de",
+            "description": "Während deines Praktikums unterstützt du uns bei der Vorbereitung und Erstellung der Vorratsbewertung im Rahmen unserer Jahres- und Quartalsabschlüsse. Die Ermittlung sowie&#xa0;detaillierte Analyse von Abschreibungen nach HGB und IFRS gehört zu deinen Kernaufgaben, wobei du stets die Genauigkeit de",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000120680490",
+            "published": "2026-04-14T11:58:32.154Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 13,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000134175220",
+            "title": "PhD – Skalierbare und effiziente Reinforcement-Learning-Methoden für Physical AI (f/m/div.) (w/m/div.)",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "Bei Bosch Research treiben wir die nächste Generation von Physical AI voran – intelligente Systeme, die die reale Welt wahrnehmen, schlussfolgern und robust handeln können. Von automatisiertem Fahren bis hin zur Robotik ist es unser Ziel, KI-Technologien zu entwickeln, die nicht nur leistungsfähig, ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134175220",
+            "published": "2026-06-25T05:56:41.535Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000134174990",
+            "title": "PhD - Scalable and Efficient Reinforcement Learning Methods for Physical AI (f/m/div.)",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "At Bosch Research, we are pioneering the next generation of Physical AI-intelligent systems that can perceive, reason, and act robustly in the real world. From automated driving to robotics, our goal is to develop AI technologies that are not only highly capable but also safe, efficient, and scalabl",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134174990",
+            "published": "2026-06-25T05:56:23.191Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000136168313",
+            "title": "PhD – Neuronale 3D-Szenenrepräsentationen für den Fahrzeuginnenraum (w/m/div.)",
+            "company": "Bosch",
+            "location": "Hildesheim, NDS, de",
+            "description": "Bei Bosch Research treiben wir die nächste Generation von Physical AI voran: intelligente Systeme, die ihre Umgebung in der realen Welt wahrnehmen, darüber schlussfolgern und robust handeln können. Da Fahrzeuge zunehmend geteilt, automatisiert und softwaredefiniert werden, wird das Verständnis desse",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136168313",
+            "published": "2026-07-07T08:31:11.401Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000129967564",
+            "title": "Praktikum International Sales und Business Analytics – Bosch Werkstattkonzepte",
+            "company": "Bosch",
+            "location": "Karlsruhe, BW, de",
+            "description": "Während deines Praktikums bist du Ansprechperson für unsere Vertriebsteams in verschiedenen Ländern und unterstützt sie bei der Umsetzung sowie&#xa0;Optimierung ihrer Vertriebsaktivitäten. Du wirkst an der Weiterentwicklung internationaler Vertriebsprozesse mit – von Lead-Management über CRM-Workflo",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129967564",
+            "published": "2026-06-03T10:54:27.332Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132843709",
+            "title": "Junior Managers Program (Trainee) - Starte deine Leaderrship Journey im Bereich Purchasing",
+            "company": "Bosch",
+            "location": "Gerlingen-Schillerhöhe, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132843709",
+            "published": "2026-06-18T11:38:45.898Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132843599",
+            "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Corporate Research",
+            "company": "Bosch",
+            "location": "Gerlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132843599",
+            "published": "2026-06-18T11:37:55.862Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132843369",
+            "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich IT",
+            "company": "Bosch",
+            "location": "Gerlingen-Schillerhöhe, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132843369",
+            "published": "2026-06-18T11:36:41.795Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132842239",
+            "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Controlling",
+            "company": "Bosch",
+            "location": "Gerlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132842239",
+            "published": "2026-06-18T11:30:19.011Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132841939",
+            "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Sales Mobility",
+            "company": "Bosch",
+            "location": "Gerlingen, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132841939",
+            "published": "2026-06-18T11:29:07.461Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132792997",
+            "title": "Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Sales & Marketing",
+            "company": "Bosch",
+            "location": "Gerlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132792997",
+            "published": "2026-06-18T07:36:51.927Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000136184429",
+            "title": "Entwicklungs- und Integrationsingenieur:in für MEMS-Technologie (m/w/d) (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136184429",
+            "published": "2026-07-07T09:40:55.975Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000135677612",
+            "title": "Dualer Master (M.Eng.) - Technischer Vertrieb",
+            "company": "Bosch",
+            "location": "Mainz, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135677612",
+            "published": "2026-07-03T09:11:55.084Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000135677731",
+            "title": "Dualer Master (M.Eng.) - Technischer Vertrieb im Bereich Produktmanagement",
+            "company": "Bosch",
+            "location": "Wetzlar, HE, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135677731",
+            "published": "2026-07-03T09:05:09.246Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000134963614",
+            "title": "IT Product Security Specialist (m/w/div.) ",
+            "company": "Bosch",
+            "location": "Berlin, BE, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134963614",
+            "published": "2026-06-30T09:05:18.592Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000133981459",
+            "title": "Thin Film Expert – MEMS Process & Deposition Technologies (f/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133981459",
+            "published": "2026-06-24T15:20:06.856Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000132835629",
+            "title": "Dünnschicht-Experte – MEMS-Prozess- und Abscheidungstechnologien (w/m/d) (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132835629",
+            "published": "2026-06-18T10:48:35.386Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 5,
+          "reason": "skills: Git",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000129951709",
+            "title": "Internship Digital Twin and Task Simulation for a Humanoid Robot",
+            "company": "Bosch",
+            "location": "Hildesheim, NDS, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129951709",
+            "published": "2026-06-03T09:25:16.606Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000129122434",
+            "title": "Wafertest Sustainer (w/m/div)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129122434",
+            "published": "2026-05-29T08:54:49.474Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000128896656",
+            "title": "PreMaster Programm Ingenieur für Fault Detection and Classification Management in der Halbleiterfertigung Schwerpunkt Elektromobilität (w/m/div.)",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128896656",
+            "published": "2026-05-28T08:55:59.017Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000120950513",
+            "title": "Internship 3D Scene Editing and Generation",
+            "company": "Bosch",
+            "location": "Hildesheim, NDS, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000120950513",
+            "published": "2026-04-15T12:51:00.453Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "basic keyword match",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000135673961",
+            "title": "Dualer Master (M.Sc.) - Prozessmanagement – Steuerung von Geschäftsprozessen im Bereich Business Process Management ",
+            "company": "Bosch",
+            "location": "Wernau (Neckar), BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135673961",
+            "published": "2026-07-03T09:02:11.073Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 5,
+          "reason": "skills: Git",
+          "category": "prefilter",
+          "job": {
+            "id": "smartr_BoschGroup_744000128906279",
+            "title": "PreMaster Programm im Bereich Digitalisierung in der Serienfertigung für Drucksensoren (w/m/div.)",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128906279",
+            "published": "2026-05-28T09:27:22.528Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the job posting requires experience in Einkauf and internationale Beschaffung, which is not present in the candidate's profile.",
+          "domain_class": "core_field",
+          "ai_score": 20,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the job posting requires experience in Einkauf and internationale Beschaffung, which is not present in the candidate's profile.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000127664650",
+            "title": "Pflichtpraktikum im Einkauf – Schwerpunkt internationale Beschaffung mechanischer Teile",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "Im Rahmen deines Praktikums analysierst du unser aktuelles Einkaufsportfolio mit Fokus auf mechanische Komponenten und leitest daraus Potenziale für eine strategische Erweiterung des Lieferantennetzwerks in China ab. Du identifizierst im Lieferantenmanagement potenzielle Lieferanten in China, bewert",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000127664650",
+            "published": "2026-05-21T13:03:02.111Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience with machine learning and artificial intelligence are relevant, but the role requires more years of professional experience and specific skills in sonar systems, physics, and C++ that the candidate lacks.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with machine learning and artificial intelligence are relevant, but the role requires more years of professional experience and specific skills in sonar systems, physics, and C++ that the candidate lacks.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "linkedin_4437207445",
+            "title": "Software Engineer",
+            "company": "Haystack",
+            "location": "Bremen, Bremen, Germany",
+            "description": "We're hiring on behalf of a Haystack partner! The Role Program, test, and analyze software components according to architectural guidelines Document responsible software components Integrate software subsystems from multiple components into the target system Support system integration and commission",
+            "url": "https://www.linkedin.com/jobs/view/4437207445",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's skills and education in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning do not directly align with the job posting for Digitales Marketing & Sales Track-and-Trace, and the candidate lacks experience in marketing and sales.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 20,
+          "ai_reason": "The candidate's skills and education in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning do not directly align with the job posting for Digitales Marketing & Sales Track-and-Trace, and the candidate lacks experience in marketing and sales.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000129470253",
+            "title": "Pflichtpraktikum Digitales Marketing & Sales Track-and-Trace",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129470253",
+            "published": "2026-06-01T12:09:57.094Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's skills in Machine Learning, Artificial Intelligence, and experience with Python and TensorFlow are relevant to the role, but the job requires professional experience and the candidate is a student with only 2 years of experience, and the location is not preferred.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 40,
+          "ai_reason": "The candidate's skills in Machine Learning, Artificial Intelligence, and experience with Python and TensorFlow are relevant to the role, but the job requires professional experience and the candidate is a student with only 2 years of experience, and the location is not preferred.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "linkedin_4438956556",
+            "title": "Robotics Evaluation Specialist - Remote",
+            "company": "YO IT Consulting",
+            "location": "Berlin, Berlin, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438956556",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 32,
+          "reason": "skills: Python, Machine Learning, Git; keyword bonus: 2; preferred location; +1 core-strength terms (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "AI scoring unavailable",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4439707467",
+            "title": "Member of Technical Staff - Research Engineering (Remote)",
+            "company": "Quik Hire Staffing",
+            "location": "Germany",
+            "description": "Role: Member of Technical Staff - Research Engineering (Remote) Location: Remote (Work from Anywhere) Job Type: Full-Time Payout: $220K - $500K/yr Role Overview: We are hiring for one of our clients, seeking a Member of Technical Staff, Research Engineering to work on a full-time basis. The role inv",
+            "url": "https://www.linkedin.com/jobs/view/4439707467",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 32,
+          "reason": "title fits 'Pflichtpraktikum Automotive'; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "AI scoring unavailable",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000132356521",
+            "title": "Pflichtpraktikum in Kommunikation und Medien mit Schwerpunkt Videos und Livestreams ",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "Mit weltweit über 12 000 Mitarbeitenden verfolgen wir bei Bosch Global Business Services ein gemeinsames Ziel: die Bereitstellung erstklassiger Dienstleistungen, die einen echten Mehrwert für Bosch schaffen. Fortschrittliche Technologie und weltweite Zusammenarbeit sind unsere Treiber, durch die wir",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132356521",
+            "published": "2026-06-16T08:20:37.289Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's skills and experience are not directly applicable to the job requirements of materialwirtschaft and supply chain management.",
+          "domain_class": "broader_field",
+          "ai_score": 20,
+          "ai_reason": "The candidate's skills and experience are not directly applicable to the job requirements of materialwirtschaft and supply chain management.",
+          "unscored": false,
+          "category": "broader_field",
+          "job": {
+            "id": "linkedin_4439707464",
+            "title": "Werkstudent / Praktikant für den Bereich Materialwirtschaft / Supply Chain (m/w/d)",
+            "company": "WIRSOL ROOF SOLUTIONS",
+            "location": "Waghäusel, Baden-Württemberg, Germany",
+            "description": "ZUKUNFT GEMEINSAM GESTALTEN Werkstudent / Praktikant für den Bereich Materialwirtschaft / Supply Chain (m/w/d) Bereit für eine Karriere in der Energiebranche? Wir suchen motivierte Wegbereiter, die unsere Vision von einer nachhaltigen Zukunft teilen und ihre Energie in wegweisende Projekte einbringe",
+            "url": "https://www.linkedin.com/jobs/view/4439707464",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Robotics Engineer'; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4432231391",
+            "title": "Golang AI Engineer (Germany-based)",
+            "company": "BoWatt",
+            "location": "Germany",
+            "description": "About BoWatt BoWatt is building agentic requirements and system engineering software for manufacturing . We believe AI will reach PhD-level engineering capability within the next 10 years . This will unlock massive value across several complex manufacturing industries. Cars. Planes. Rockets. Factori",
+            "url": "https://www.linkedin.com/jobs/view/4432231391",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The job is not directly related to automotive engineering and requires no relevant experience.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 20,
+          "ai_reason": "The job is not directly related to automotive engineering and requires no relevant experience.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "linkedin_4439723352",
+            "title": "Mobile Software für Feuerwehren - Produkt Konzeption - Bachelor-/Master-Thesis",
+            "company": "mobilion.eu",
+            "location": "Karlsruhe, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439723352",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "The role requires professional experience as a Full Stack Go Engineer, which the candidate lacks.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 0,
+          "ai_reason": "The role requires professional experience as a Full Stack Go Engineer, which the candidate lacks.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "linkedin_4437153356",
+            "title": "Full Stack Go Engineer (Germany-based)",
+            "company": "BoWatt",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4437153356",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Robotics Engineer'; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4437200765",
+            "title": "IT System Engineer Linux (w/m/d)",
+            "company": "Bechtle Managed Services GmbH",
+            "location": "Stuttgart, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4437200765",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are not directly applicable to the Zentralcontrolling role, and the job posting does not mention any specific technical requirements that match the candidate's profile.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 20,
+          "ai_reason": "The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are not directly applicable to the Zentralcontrolling role, and the job posting does not mention any specific technical requirements that match the candidate's profile.",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000120908364",
+            "title": "Pflichtpraktikum Zentralcontrolling ",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000120908364",
+            "published": "2026-04-15T10:01:28.275Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the UX-Design or User Research role, and the candidate's preferred titles do not include UX-related positions.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 20,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the UX-Design or User Research role, and the candidate's preferred titles do not include UX-related positions.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000133362459",
+            "title": "Praktikum im Bereich User Experience - UX-Design oder User Research",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133362459",
+            "published": "2026-06-22T13:03:11.957Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the User Experience Research role, and there is no indication of relevant experience in UX research.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 20,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the User Experience Research role, and there is no indication of relevant experience in UX research.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000133344455",
+            "title": "Praktikum in User Experience Research",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133344455",
+            "published": "2026-06-22T11:56:56.743Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are not directly applicable to the Scrum-Master role, and the candidate lacks experience in agile team management.",
+          "domain_class": "adjacent_in_company",
+          "ai_score": 20,
+          "ai_reason": "The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are not directly applicable to the Scrum-Master role, and the candidate lacks experience in agile team management.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000128553559",
+            "title": "Praktikum Scrum-Master im Agilen Team",
+            "company": "Bosch",
+            "location": "Stuttgart, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128553559",
+            "published": "2026-05-26T17:15:49.739Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the job posting requires expertise in Microsoft Power Platform and business process optimization, which are not prominent in the candidate's profile.",
+          "domain_class": "core_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the job posting requires expertise in Microsoft Power Platform and business process optimization, which are not prominent in the candidate's profile.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000131643149",
+            "title": "Praktikum Optimierung und Automatisierung von Geschäftsprozessen",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "In deinem Praktikum unterstützt du uns dabei, die Effizienz unserer internen Abläufe signifikant zu steigern. Der Schwerpunkt deiner Tätigkeit liegt auf der Konzeption und Implementierung von Lösungen innerhalb der Microsoft Power Platform. Du bist maßgeblich an der technischen Umsetzung von Automat",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131643149",
+            "published": "2026-06-11T10:49:55.079Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the job requires more focus on logistics and SAP/R3, which is not prominent in the candidate's profile.",
+          "domain_class": "core_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the job requires more focus on logistics and SAP/R3, which is not prominent in the candidate's profile.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000126970219",
+            "title": "Praktikum in der Ersatzteillogistik - remote möglich",
+            "company": "Bosch",
+            "location": "Lollar, HE, de",
+            "description": "Du bearbeitest Anfragen unserer internationalen Tochtergesellschaften und gewinnst dabei tiefe Einblicke in globale Geschäftsprozesse. Die Auftragserfassung in SAP/R3 gehört zu deinen Aufgaben, wodurch du ein grundlegendes Verständnis für unsere Systemlandschaft entwickelst. Des Weiteren&#xa0;erstel",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126970219",
+            "published": "2026-05-18T10:58:33.469Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the role requires sales and market intelligence expertise, and the candidate's experience is more focused on engineering and production.",
+          "domain_class": "core_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the role requires sales and market intelligence expertise, and the candidate's experience is more focused on engineering and production.",
+          "unscored": false,
+          "category": "too_senior",
+          "job": {
+            "id": "smartr_BoschGroup_744000135418960",
+            "title": "Praktikum im Bereich Sales & Market Intelligence ",
+            "company": "Bosch",
+            "location": "Ulm, BW, de",
+            "description": "Wir, im Bereich Sales and Market Intelligence, schaffen durch globale Markt- und Sales-Insights eine tiefgehende Transparenz auf Basis Sales-KPIs. Mit strategischen Analysen liefern wir die Grundlage für zukunftsweisende, datenbasierte Entscheidungen auf Führungsebene. So gestalten wir aktiv und fak",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135418960",
+            "published": "2026-07-02T06:47:20.267Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 25,
+          "reason": "title fits 'Praktikum Automotive'; skills: Git (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000137096499",
+            "title": "Praktikum im Digital Experience Product Ownership",
+            "company": "Bosch",
+            "location": "München, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137096499",
+            "published": "2026-07-10T10:15:31.276Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 25,
+          "reason": "title fits 'Praktikum Automotive'; skills: Git (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136739234",
+            "title": "Praktikum in der Digitalisierung - Schwerpunkt AGV",
+            "company": "Bosch",
+            "location": "Immenstadt im Allgäu, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136739234",
+            "published": "2026-07-09T07:52:33.324Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 22,
+          "reason": "title fits 'Pflichtpraktikum Automotive'; keyword bonus: 1 (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000135232666",
+            "title": "Pflichtpraktikum Automatisierung operative Logistik",
+            "company": "Bosch",
+            "location": "Bühl, BW, de",
+            "description": "Während deines Praktikums unterstützt du bei der kompletten Einführung der FTS zum Transport von Bodenrollern. Des Weiteren planst, beschaffst und baust die Materialstellplätze für den Einsatz der FTS auf. Im Softwaresystem konfigurierst du Fahrzeuge, Ladestationen, Stellplätze und Fahrwege, um die ",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135232666",
+            "published": "2026-07-01T10:52:06.217Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 22,
+          "reason": "title fits 'Werkstudent Automotive'; keyword bonus: 1 (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136772589",
+            "title": "Werkstudent im Bereich Vertrieb Automatisierungstechnik (w/m/div.)",
+            "company": "Bosch",
+            "location": "Bietigheim-Bissingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136772589",
+            "published": "2026-07-09T09:48:21.196Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "skills: Git; keyword bonus: 1 (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000134243779",
+            "title": "PreMaster Junior-Projektmanager-/in in der Ersatzteil-/Instandhaltungslogistik der Halbleiterfertigung (w/m/div.)",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "Als PreMaster&#xa0;übernimmst&#xa0;du eigenständig die Betreuung von Fertigungsbereichen in Bezug auf verschiedene Aufgaben der Ersatzteil-/Instandhaltungslogistik (z.B. Prozesse und Abläufe definieren, SAP Auswertungen, etc.). Darüber hinaus unterstützt Du bei der Optimierung und Automatisierung vo",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134243779",
+            "published": "2026-06-25T11:40:27.614Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000133010509",
+            "title": "Praktikum: Logistikprozesse und Packmittelmanagement ",
+            "company": "Bosch",
+            "location": "Eisenach, TH, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133010509",
+            "published": "2026-06-19T08:00:36.477Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000131635233",
+            "title": "Praktikum Fertigungsplanung für Bremssystemsteuergeräte",
+            "company": "Bosch",
+            "location": "Ansbach, BAYERN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131635233",
+            "published": "2026-06-11T10:09:32.040Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000127417450",
+            "title": "Pflichtpraktikum im Projektmanagement",
+            "company": "Bosch",
+            "location": "Bietigheim-Bissingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000127417450",
+            "published": "2026-05-20T12:07:39.067Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Masterarbeit Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000124831480",
+            "title": "Masterarbeit Robotik - Hochdynamische Regelung von elektrischen Antrieben",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000124831480",
+            "published": "2026-05-06T08:23:16.195Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000122454955",
+            "title": "Pflichtpraktikum Kommunikation und Medien",
+            "company": "Bosch",
+            "location": "Homburg, SL, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000122454955",
+            "published": "2026-04-23T13:05:05.185Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000121994503",
+            "title": "Praktikum Business Development – Software Defined Business",
+            "company": "Bosch",
+            "location": "Lohr am Main, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000121994503",
+            "published": "2026-04-21T10:41:21.951Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000121412592",
+            "title": "Pflichtpraktikum im Learning & Skill Management - Bosch Global Real Estate Academy",
+            "company": "Bosch",
+            "location": "Gerlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000121412592",
+            "published": "2026-04-17T12:40:16.263Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000137087726",
+            "title": "Maintenance Engineer Implant (w/m/div)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137087726",
+            "published": "2026-07-10T09:44:13.178Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000137087134",
+            "title": "Maintenance Engineer Metrology / Defect Density Engineering (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137087134",
+            "published": "2026-07-10T09:41:22.560Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136392464",
+            "title": "Maintenance Engineer Lithography (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SACHSEN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136392464",
+            "published": "2026-07-08T07:22:09.410Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136393059",
+            "title": "Maintenance Engineer CVD/PVD (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136393059",
+            "published": "2026-07-08T07:18:14.620Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136182350",
+            "title": "Development and Integration Engineer for MEMS technology (f/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136182350",
+            "published": "2026-07-07T09:40:28.280Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136021809",
+            "title": "Process & Maintenance Engineer Wafertest Probecards (w/m/div)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136021809",
+            "published": "2026-07-06T14:02:46.594Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136021379",
+            "title": "Support Process & Maintenance Engineer Wafertest Probecards (w/m/div)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136021379",
+            "published": "2026-07-06T14:01:40.765Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136019838",
+            "title": "Praktikum - Industrialisierung und Fertigung Elektrolyseur H2",
+            "company": "Bosch",
+            "location": "Bamberg, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136019838",
+            "published": "2026-07-06T13:56:12.348Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000135168409",
+            "title": "Praktikum Data & AI Solutions im industriellen Sondermaschinenbau",
+            "company": "Bosch",
+            "location": "Immenstadt im Allgäu, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135168409",
+            "published": "2026-07-01T05:19:21.702Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000133625669",
+            "title": "Praktikum im Bereich Instandhaltungs- & Ersatzteillogistik",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133625669",
+            "published": "2026-06-23T14:39:11.546Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000133342599",
+            "title": "Expert Data Engineer & Business Analysis (w/m/div)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133342599",
+            "published": "2026-06-22T11:55:07.710Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000131591411",
+            "title": "Maintenance Engineer Wet Chemistry (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131591411",
+            "published": "2026-06-11T05:48:28.862Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000131590839",
+            "title": "Maintenance Engineer Furnace (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131590839",
+            "published": "2026-06-11T05:37:22.674Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000131590778",
+            "title": "Maintenance Engineer Etch/Ash (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131590778",
+            "published": "2026-06-11T05:36:47.057Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000130709689",
+            "title": "Support Process & Maintenance Engineer Wafertest (w/m/div)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000130709689",
+            "published": "2026-06-08T06:18:05.256Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000130708602",
+            "title": "Support Process & Maintenance Engineer Pre-Assembly (w/m/div)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000130708602",
+            "published": "2026-06-08T06:09:06.855Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000129448969",
+            "title": "Pflichtpraktikum im Bereich Applikation Steuergeräte im Fahrzeug",
+            "company": "Bosch",
+            "location": "Schwieberdingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129448969",
+            "published": "2026-06-01T09:59:25.594Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000129122594",
+            "title": "Process & Maintenance Engineer Wafertest (w/m/div)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000129122594",
+            "published": "2026-05-29T08:48:21.313Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Robotics Engineer' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000125139421",
+            "title": "Process & Maintenance Engineer (w/m/div.)",
+            "company": "Bosch",
+            "location": "Dresden, SN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000125139421",
+            "published": "2026-05-07T13:33:38.562Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000137082390",
+            "title": "Pflichtpraktikum in der Fertigungs- und Erzeugnisplanung",
+            "company": "Bosch",
+            "location": "Salzgitter, NIEDERSACHSEN, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000137082390",
+            "published": "2026-07-10T09:09:04.913Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136256589",
+            "title": "Praktikum im Produktmanagement",
+            "company": "Bosch",
+            "location": "Karlsruhe, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136256589",
+            "published": "2026-07-07T14:39:30.182Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136211779",
+            "title": "Praktikum im Bereich Complaint Management",
+            "company": "Bosch",
+            "location": "Wernau (Neckar), BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136211779",
+            "published": "2026-07-07T12:01:51.967Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000136021599",
+            "title": "Praktikum im Projektmanagement - Einkauf eMobility",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000136021599",
+            "published": "2026-07-06T14:02:16.724Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000135991630",
+            "title": "Pflichtpraktikum Product Compliance and Environment, Health and Safety ",
+            "company": "Bosch",
+            "location": "Würzburg, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135991630",
+            "published": "2026-07-06T12:14:09.582Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000135989739",
+            "title": "Praktikum im Manufacturing Controlling",
+            "company": "Bosch",
+            "location": "Wernau (Neckar), BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135989739",
+            "published": "2026-07-06T12:01:36.912Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000135958436",
+            "title": "Praktikum Mobility Aftermarket Technical Fluid Exchange ",
+            "company": "Bosch",
+            "location": "Plochingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135958436",
+            "published": "2026-07-06T09:41:08.368Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Masterarbeit Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000135245719",
+            "title": "Masterarbeit Modellierung und Simulation der Wärmebehandlung mikrolegierter Stähle",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135245719",
+            "published": "2026-07-01T11:57:11.406Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Thesis Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000135236804",
+            "title": "Thesis: Entwicklung und Analyse optischer Methoden für laserbearbeitete Halbleiter (w/m/div.)",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135236804",
+            "published": "2026-07-01T11:18:26.671Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Masterarbeit Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000135047961",
+            "title": "Masterarbeit im Bereich mechanisches Direktfügen von hybriden Werkstoffen",
+            "company": "Bosch",
+            "location": "Renningen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000135047961",
+            "published": "2026-06-30T15:03:00.787Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000134423300",
+            "title": "Praktikum Agile Transformation",
+            "company": "Bosch",
+            "location": "Ulm, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134423300",
+            "published": "2026-06-26T08:50:07.659Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000134257409",
+            "title": "Praktikum in der Logistik mit Schwerpunkt Inventory Planning Spare Parts",
+            "company": "Bosch",
+            "location": "Wernau (Neckar), BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000134257409",
+            "published": "2026-06-25T12:43:14.665Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000133866820",
+            "title": "Praktikum im Strategischen Einkauf",
+            "company": "Bosch",
+            "location": "München, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133866820",
+            "published": "2026-06-24T06:40:38.446Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Masterarbeit Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000133529000",
+            "title": "Masterarbeit: Adaptive multimodale Sensorfusion mit 5G/6G ISAC (w/m/div.)",
+            "company": "Bosch",
+            "location": "Erlangen, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133529000",
+            "published": "2026-06-23T08:01:33.552Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000133052924",
+            "title": "Praktikum Entwicklung von Fertigungsverfahren für MEMS Inertialsensoren",
+            "company": "Bosch",
+            "location": "Reutlingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133052924",
+            "published": "2026-06-19T11:58:52.174Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Abschlussarbeit Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000133029170",
+            "title": "Abschlussarbeit Experimentelle Bewertung verschiedener Materialvarianten für den Kugel-Kalotte-Kontakt",
+            "company": "Bosch",
+            "location": "Elchingen, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000133029170",
+            "published": "2026-06-19T09:40:57.801Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000132827019",
+            "title": "Praktikum New Business und Prozessmanagement",
+            "company": "Bosch",
+            "location": "Murrhardt, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132827019",
+            "published": "2026-06-18T10:03:59.654Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000132164279",
+            "title": "Praktikum Finanzcontrolling",
+            "company": "Bosch",
+            "location": "Leinfelden-Echterdingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000132164279",
+            "published": "2026-06-15T10:17:46.123Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000131860325",
+            "title": "Praktikum Data Analytics in der Logistik",
+            "company": "Bosch",
+            "location": "Lohr am Main, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000131860325",
+            "published": "2026-06-12T10:01:07.613Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000130766709",
+            "title": "Pflichtpraktikum im Qualitätsmanagement",
+            "company": "Bosch",
+            "location": "Waiblingen, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000130766709",
+            "published": "2026-06-08T10:29:25.162Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000128700559",
+            "title": "Praktikum im Bereich Human Resources mit Schwerpunkt HR Business Partnering (m/w/div.)",
+            "company": "Bosch",
+            "location": "Bexbacherstr. 72, Saarland, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000128700559",
+            "published": "2026-05-27T11:28:10.237Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000127863959",
+            "title": "Praktikum Social Media & Marketing – Two-Wheeler & Powersports ",
+            "company": "Bosch",
+            "location": "Abstatt, BW, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000127863959",
+            "published": "2026-05-22T11:12:33.977Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000126268165",
+            "title": "Pflichtpraktikum Fertigungsplanung und -optimierung",
+            "company": "Bosch",
+            "location": "Blaichach, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000126268165",
+            "published": "2026-05-13T09:48:07.775Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Praktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000125773549",
+            "title": "Praktikum im internationalen Vertrieb ",
+            "company": "Bosch",
+            "location": "Karlsruhe, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000125773549",
+            "published": "2026-05-11T08:11:25.995Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Pflichtpraktikum Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000124593299",
+            "title": "Pflichtpraktikum Projekteinkauf – Deep Impact im Großprojekt",
+            "company": "Bosch",
+            "location": "Schweinfurt, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000124593299",
+            "published": "2026-05-05T08:57:57.409Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Masterarbeit Automotive' (rule-based)",
+          "domain_class": "adjacent_in_company",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "smartr_BoschGroup_744000123460260",
+            "title": "Masterarbeit im Qualitätsmanagement",
+            "company": "Bosch",
+            "location": "Gunzenhausen, BY, de",
+            "description": "",
+            "url": "https://jobs.smartrecruiters.com/BoschGroup/744000123460260",
+            "published": "2026-04-28T13:52:11.135Z",
+            "source": "Bosch (Direct)"
+          }
+        },
+        {
+          "score": 17,
+          "reason": "skills: Git; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4437214066",
+            "title": "AI & Process Automation Manager (m/w/d)",
+            "company": "adlicious",
+            "location": "Hamburg, Hamburg, Germany",
+            "description": "Über adlicious adlicious ist einer der führenden Advertising Solutions Provider im schönen Hamburg und unsere Mission ist es, die besten Werbekampagnen für unsere Kunden zu kreieren, indem wir Media, Creative & Tech miteinander vereinen. Mit unserer einzigartigen Ad Delivery Technologie unterstützen",
+            "url": "https://www.linkedin.com/jobs/view/4437214066",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 17,
+          "reason": "skills: Python; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4439589254",
+            "title": "Hardwarenaher Softwareentwickler (m/w/d)",
+            "company": "AXON Innovations",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "Jobspezifikationen Stellenbezeichnung: Hardwarenaher Softwareentwickler (m/w/d) Standort: Leipzig, Deutschland Wochenarbeitszeit: 40 Std./ Woche Befristung: unbefristet Home-Office / Remote: nein Jetzt online bewerben Ihre Aufgaben Wir entwickeln im Kundenauftrag eingebettete Systeme. Das beginnt be",
+            "url": "https://www.linkedin.com/jobs/view/4439589254",
+            "published": "2026-07-11T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+=== WORTH A LOOK ===
+
+--- Run at 08:44:50 (11 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  70/100
+  Promotion - Foundation Models und Agentic AI für die industrielle Automatisierung
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's master's degree in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns well with the job requirements, but the role's emphasis on industrial automation and Foundation Models presents a gap in direct experience.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135215359
+────────────────────────────────────────────────
+  Score:  60/100
+  Internship Lifelong Learning for Humanoid Robots
+  @ Bosch  ·  Hildesheim, NDS, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns with the job's requirements, but the role's emphasis on robotics and the candidate's limited direct experience in this area are notable gaps.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129944629
+────────────────────────────────────────────────
+  Score:  60/100
+  Software Engineer
+  @ FetchJobs.co  ·  Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, ML, and programming are relevant, but the job title and company do not directly relate to automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4438962718
+────────────────────────────────────────────────
+  Score:  60/100
+  Software Automation Engineer für Software Defined Radio (m/w/x)
+  @ K-tronik GmbH  ·  Hannover, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, ML, and programming languages are relevant, but the job's focus on Software Defined Radio is not directly related to automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4437202911
+────────────────────────────────────────────────
+  Score:  60/100
+  Automation Engineer (m/w/d) Workflow- und Prozessautomatisierung
+  @ relyon AG  ·  Tübingen, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in AI, machine learning, and programming languages are relevant, but the job is not directly in automotive engineering.
+  URL:    https://www.linkedin.com/jobs/view/4437205823
+────────────────────────────────────────────────
+  Score:  60/100
+  Data Scientist - Remote
+  @ YO IT Consulting  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in Python, Machine Learning, and Artificial Intelligence align with the job requirements, but the role's emphasis on data analysis and statistical modeling is not strongly represented in the candidate's CV, and the candidate lacks direct experience as a Data Scientist.
+  URL:    https://www.linkedin.com/jobs/view/4438959588
+────────────────────────────────────────────────
+  Score:  60/100
+  OPERATIONS ENGINEER (M/W/D)
+  @ aurologic GmbH  ·  Langen, Hesse, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in machine learning and artificial intelligence are relevant, but the job title and description do not directly match their target titles and the location is not preferred.
+  URL:    https://www.linkedin.com/jobs/view/4439584922
+────────────────────────────────────────────────
+  Score:  60/100
+  Pflichtpraktikum im Bereich Learning and Development
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and experience in Automotive Systems are a good match for the role, but the job title 'Pflichtpraktikum im Bereich Learning and Development' at Bosch suggests a stronger focus on learning and development, which is not explicitly highlighted in the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134400949
+────────────────────────────────────────────────
+  Score:  60/100
+  PhD – Foundation-Modelle und agentische KI für die industrielle Automatisierung (w/m/div.)
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning aligns with the PhD position's requirements, but the role's emphasis on industrial automation and foundation models, along with the candidate's limited direct experience in these areas, creates a gap.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135215679
+────────────────────────────────────────────────
+  Score:  60/100
+  Pflichtpraktikum Digitalisierung im Projektmanagement
+  @ Bosch  ·  Reutligen, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with data analysis, machine learning, and digital signal processing align with the job's requirements, but the role's emphasis on project management and German language proficiency are not strongly matched in the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133934543
+────────────────────────────────────────────────
+  Score:  25/100
+  Abschlussarbeit im Bereich digitale Transformation im Auditmanagement (m/w/div)
+  @ Bosch  ·  Holzkirchen, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Abschlussarbeit Automotive'; skills: Git (rule-based; AI quota exhausted)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136385839
+

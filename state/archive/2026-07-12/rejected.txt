@@ -1,0 +1,1069 @@
+=== AUTO-REJECTED ===
+
+--- Run at 08:44:50 (152 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  10/100
+  Hardware Entwickler (m/w/d)
+  @ mamgo | Talente 🔗 Jobs  ·  Lübeck, Schleswig-Holstein, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439703628
+────────────────────────────────────────────────
+  Score:   0/100
+  AI Engineer
+  @ Hyra  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4439715548
+────────────────────────────────────────────────
+  Score:   0/100
+  Machine Learning (AI) Engineer (Hybrid)
+  @ Hire Feed  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439706531
+────────────────────────────────────────────────
+  Score:   0/100
+  Forward Deployed Engineer (Remote)
+  @ Quik Hire Staffing  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439710155
+────────────────────────────────────────────────
+  Score:   0/100
+  Data Engineer (m/w/d)
+  @ Tekkie Award  ·  Freigericht, Hesse, Germany
+  Source: LinkedIn
+  Reason: title fits 'Robotics Engineer'; preferred location; (seniority warning)
+  URL:    https://www.linkedin.com/jobs/view/4439575963
+────────────────────────────────────────────────
+  Score:   0/100
+  Software Engineer
+  @ Hyra  ·  Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4439719401
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior AI Advisory Architect (gn)
+  @ SoftwareOne Deutschland GmbH  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4438972128
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Data Scientist (m/f/d)
+  @ Finmatics  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4437208266
+────────────────────────────────────────────────
+  Score:   0/100
+  Data Scientist
+  @ FetchJobs.co  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4438966559
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Software Engineer - Remote
+  @ YO IT Consulting  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4438966308
+────────────────────────────────────────────────
+  Score:   0/100
+  Software Engineer automation (m/w/d)
+  @ AgileGrid Solutions  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439711489
+────────────────────────────────────────────────
+  Score:   0/100
+  Data Engineer I (Remote)
+  @ Hire Feed  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439708447
+────────────────────────────────────────────────
+  Score:   0/100
+  Software Engineer - E-Commerce (Remote)
+  @ Hired  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439599873
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Software Engineer (m/w/d) – Backend / Platform / ML (bis 100k €)
+  @ Crateflow  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4436678909
+────────────────────────────────────────────────
+  Score:   0/100
+  Software-Entwickler (m/w/d) embedded Systems
+  @ STIEBEL ELTRON Group  ·  Holzminden, Lower Saxony, Germany
+  Source: LinkedIn
+  Reason: Skipped — fluent German required
+  URL:    https://www.linkedin.com/jobs/view/4437207486
+────────────────────────────────────────────────
+  Score:  10/100
+  Embedded SW Developer (m/f/d)
+  @ Electronic components by Würth Elektronik  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436694919
+────────────────────────────────────────────────
+  Score:  10/100
+  Backend Developer
+  @ FetchJobs.co  ·  Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438971497
+────────────────────────────────────────────────
+  Score:  10/100
+  Ausbildung zum Fachinformatiker | Systemintegration (m/w/d)
+  @ Tekkie Award  ·  Fulda, Hesse, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439584586
+────────────────────────────────────────────────
+  Score:  10/100
+  Developer (m/w/d)
+  @ Tekkie Award  ·  Freigericht, Hesse, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439579879
+────────────────────────────────────────────────
+  Score:  10/100
+  Ausbildung als Fachinformatiker*in mit Fachrichtung Systemintegration (ab August 2025)
+  @ Tekkie Award  ·  Fulda, Hesse, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439597028
+────────────────────────────────────────────────
+  Score:  12/100
+  Automatisierungstechniker (m/w/d)
+  @ SI.SERV GmbH  ·  Werdau, Saxony, Germany
+  Source: LinkedIn
+  Reason: keyword bonus: 1; preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439717065
+────────────────────────────────────────────────
+  Score:  10/100
+  Automation Manager (m/w/d)
+  @ PimpUP  ·  Herxheim, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439712619
+────────────────────────────────────────────────
+  Score:  12/100
+  Automatisierungstechniker – SPS (m/w/d)
+  @ Tekkie Award  ·  Hünfeld, Hesse, Germany
+  Source: LinkedIn
+  Reason: keyword bonus: 1; preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439586318
+────────────────────────────────────────────────
+  Score:  10/100
+  Service-Elektroniker  (m/w/d)
+  @ Rationator Maschinenbau GmbH  ·  Hillesheim, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4437211047
+────────────────────────────────────────────────
+  Score:  10/100
+  SPS-Service-Ingenieur - Anlagentechnik (m/w/d)
+  @ mamgo | Talente 🔗 Jobs  ·  Nuremberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439705508
+────────────────────────────────────────────────
+  Score:  10/100
+  Inbetriebnahmetechniker (m/w/d)
+  @ Hörburger GmbH  ·  Waltenhofen, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438984030
+────────────────────────────────────────────────
+  Score:  10/100
+  Maschinenbauingenieur (m/w/d)
+  @ Boels Verleih GmbH  ·  Freilassing, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436699174
+────────────────────────────────────────────────
+  Score:  10/100
+  Nachwuchs - Konstrukteur (m/w/d)
+  @ ibb house of engineering GmbH  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436694893
+────────────────────────────────────────────────
+  Score:  10/100
+  Entwicklungsingenieur Mechanik (m/w/d) Systeme & Fahrzeuge
+  @ Boels Verleih GmbH  ·  Freilassing, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436699189
+────────────────────────────────────────────────
+  Score:  10/100
+  Fachinformatiker Anwendungsentwicklung (m/w/d) - Ausbildung 2026
+  @ TechniSat Digital GmbH  ·  Daun, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439599900
+────────────────────────────────────────────────
+  Score:  10/100
+  Industriekaufmann (m/w/d) - Ausbildung 2026
+  @ TechniSat Digital GmbH  ·  Daun, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439706545
+────────────────────────────────────────────────
+  Score:   7/100
+  PreMaster Programm - GapYear - Sales Analytics & AI Solutions
+  @ Bosch  ·  Bochum, NRW, de
+  Source: Bosch (Direct)
+  Reason: skills: Git; keyword bonus: 1
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137106450
+────────────────────────────────────────────────
+  Score:   7/100
+  PreMaster Programm Einkauf & Controlling (w/m/d)
+  @ Bosch  ·  Frankfurt am Main, HE, de
+  Source: Bosch (Direct)
+  Reason: skills: Git; keyword bonus: 1
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136794492
+────────────────────────────────────────────────
+  Score:   0/100
+  Werkstudent in der Geschäftsentwicklung - Business Development (w/m/div.)
+  @ Bosch  ·  Ulm, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136780349
+────────────────────────────────────────────────
+  Score:   7/100
+  Dualer Master (M.Sc.) Prozessmanagement - Technische Prozesse im Bereich Service Management
+  @ Bosch  ·  Wetzlar, HE, de
+  Source: Bosch (Direct)
+  Reason: skills: Git; keyword bonus: 1
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135676227
+────────────────────────────────────────────────
+  Score:   0/100
+  Pflichtpraktikum Datenanalyse & Automatisierung im IT-Kostenmanagement
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135469296
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum im Sondermaschinenbau
+  @ Bosch  ·  Immenstadt im Allgäu, BY, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135165389
+────────────────────────────────────────────────
+  Score:   7/100
+  PreMaster Programm - Digitaler Einkauf & Projektmanagement
+  @ Bosch  ·  Schwieberdingen, BW, de
+  Source: Bosch (Direct)
+  Reason: skills: Git; keyword bonus: 1
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134933444
+────────────────────────────────────────────────
+  Score:   9/100
+  Pricing & Commercial Excellence Consultant (w/m/div.)
+  @ Bosch  ·  München, BY, de
+  Source: Bosch (Direct)
+  Reason: skills: Python; keyword bonus: 2
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134807384
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum/ Werkstudententätigkeit im Bereich Automatisierung und Digitalisierung von Geschäftsprozessen
+  @ Bosch  ·  Horb am Neckar, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133614169
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum im Global Services Accounting – Forderungsmanagement
+  @ Bosch  ·  Karlsruhe, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133019489
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum im Prozessmanagement
+  @ Bosch  ·  Ulm, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132885479
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Manufacturing
+  @ Bosch  ·  Gerlingen-Schillerhöhe, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132842629
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum im Bereich Testwafermanagement
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132197784
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum im Bereich Digital Marketing Communication
+  @ Bosch  ·  Elchingen, BY, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131456356
+────────────────────────────────────────────────
+  Score:   7/100
+  PreMaster Programm | Strategischer Einkauf Sensorik
+  @ Bosch  ·  Reutlingen, de
+  Source: Bosch (Direct)
+  Reason: skills: Git; keyword bonus: 1
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000130543499
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum in der IT Entwicklung - Semiconductor Operations
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128679929
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum in der Entwicklung
+  @ Bosch  ·  Gunzenhausen, BY, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128641559
+────────────────────────────────────────────────
+  Score:   0/100
+  Pflichtpraktikum im internationalen Controlling
+  @ Bosch  ·  Schwäbisch Gmünd, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127650369
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum Einkaufsqualität
+  @ Bosch  ·  Karlsruhe, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000126653779
+────────────────────────────────────────────────
+  Score:   7/100
+  PreMaster Programm im Bereich Produktionsmanagement und Digitalisierung (w/m/div.)
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: skills: Git; keyword bonus: 1
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000125817844
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Prozessingenieur Wafertest - Schwerpunkt Prober & Prüftechnik (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Senior'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121106647
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum im Vorratsbewertung
+  @ Bosch  ·  Schwäbisch Gmünd, BW, de
+  Source: Bosch (Direct)
+  Reason: Skipped — fluent German required
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000120680490
+────────────────────────────────────────────────
+  Score:  13/100
+  PhD – Skalierbare und effiziente Reinforcement-Learning-Methoden für Physical AI (f/m/div.) (w/m/div.)
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134175220
+────────────────────────────────────────────────
+  Score:   0/100
+  PhD - Scalable and Efficient Reinforcement Learning Methods for Physical AI (f/m/div.)
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134174990
+────────────────────────────────────────────────
+  Score:   0/100
+  PhD – Neuronale 3D-Szenenrepräsentationen für den Fahrzeuginnenraum (w/m/div.)
+  @ Bosch  ·  Hildesheim, NDS, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136168313
+────────────────────────────────────────────────
+  Score:   0/100
+  Praktikum International Sales und Business Analytics – Bosch Werkstattkonzepte
+  @ Bosch  ·  Karlsruhe, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129967564
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leaderrship Journey im Bereich Purchasing
+  @ Bosch  ·  Gerlingen-Schillerhöhe, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132843709
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Corporate Research
+  @ Bosch  ·  Gerlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132843599
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich IT
+  @ Bosch  ·  Gerlingen-Schillerhöhe, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132843369
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Controlling
+  @ Bosch  ·  Gerlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132842239
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Sales Mobility
+  @ Bosch  ·  Gerlingen, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132841939
+────────────────────────────────────────────────
+  Score:   0/100
+  Junior Managers Program (Trainee) - Starte deine Leadership Journey im Bereich Sales & Marketing
+  @ Bosch  ·  Gerlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: Excluded — contains 'Lead'
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132792997
+────────────────────────────────────────────────
+  Score:   0/100
+  Entwicklungs- und Integrationsingenieur:in für MEMS-Technologie (m/w/d) (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136184429
+────────────────────────────────────────────────
+  Score:   0/100
+  Dualer Master (M.Eng.) - Technischer Vertrieb
+  @ Bosch  ·  Mainz, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135677612
+────────────────────────────────────────────────
+  Score:   0/100
+  Dualer Master (M.Eng.) - Technischer Vertrieb im Bereich Produktmanagement
+  @ Bosch  ·  Wetzlar, HE, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135677731
+────────────────────────────────────────────────
+  Score:   0/100
+  IT Product Security Specialist (m/w/div.) 
+  @ Bosch  ·  Berlin, BE, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134963614
+────────────────────────────────────────────────
+  Score:   0/100
+  Thin Film Expert – MEMS Process & Deposition Technologies (f/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133981459
+────────────────────────────────────────────────
+  Score:   0/100
+  Dünnschicht-Experte – MEMS-Prozess- und Abscheidungstechnologien (w/m/d) (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132835629
+────────────────────────────────────────────────
+  Score:   5/100
+  Internship Digital Twin and Task Simulation for a Humanoid Robot
+  @ Bosch  ·  Hildesheim, NDS, de
+  Source: Bosch (Direct)
+  Reason: skills: Git
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129951709
+────────────────────────────────────────────────
+  Score:   0/100
+  Wafertest Sustainer (w/m/div)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129122434
+────────────────────────────────────────────────
+  Score:   0/100
+  PreMaster Programm Ingenieur für Fault Detection and Classification Management in der Halbleiterfertigung Schwerpunkt Elektromobilität (w/m/div.)
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128896656
+────────────────────────────────────────────────
+  Score:   0/100
+  Internship 3D Scene Editing and Generation
+  @ Bosch  ·  Hildesheim, NDS, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000120950513
+────────────────────────────────────────────────
+  Score:   0/100
+  Dualer Master (M.Sc.) - Prozessmanagement – Steuerung von Geschäftsprozessen im Bereich Business Process Management 
+  @ Bosch  ·  Wernau (Neckar), BW, de
+  Source: Bosch (Direct)
+  Reason: basic keyword match
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135673961
+────────────────────────────────────────────────
+  Score:   5/100
+  PreMaster Programm im Bereich Digitalisierung in der Serienfertigung für Drucksensoren (w/m/div.)
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: skills: Git
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128906279
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum im Einkauf – Schwerpunkt internationale Beschaffung mechanischer Teile
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in projects like Handwritten Character Recognition System using TensorFlow show some relevance, but the job posting requires experience in Einkauf and internationale Beschaffung, which is not present in the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127664650
+────────────────────────────────────────────────
+  Score:  40/100
+  Software Engineer
+  @ Haystack  ·  Bremen, Bremen, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with machine learning and artificial intelligence are relevant, but the role requires more years of professional experience and specific skills in sonar systems, physics, and C++ that the candidate lacks.
+  URL:    https://www.linkedin.com/jobs/view/4437207445
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Digitales Marketing & Sales Track-and-Trace
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's skills and education in International Automotive Engineering with a focus on Artificial Intelligence and Machine Learning do not directly align with the job posting for Digitales Marketing & Sales Track-and-Trace, and the candidate lacks experience in marketing and sales.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129470253
+────────────────────────────────────────────────
+  Score:  40/100
+  Robotics Evaluation Specialist - Remote
+  @ YO IT Consulting  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills in Machine Learning, Artificial Intelligence, and experience with Python and TensorFlow are relevant to the role, but the job requires professional experience and the candidate is a student with only 2 years of experience, and the location is not preferred.
+  URL:    https://www.linkedin.com/jobs/view/4438956556
+────────────────────────────────────────────────
+  Score:  32/100
+  Member of Technical Staff - Research Engineering (Remote)
+  @ Quik Hire Staffing  ·  Germany
+  Source: LinkedIn
+  Reason: skills: Python, Machine Learning, Git; keyword bonus: 2; preferred location; +1 core-strength terms (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439707467
+────────────────────────────────────────────────
+  Score:  32/100
+  Pflichtpraktikum in Kommunikation und Medien mit Schwerpunkt Videos und Livestreams 
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive'; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132356521
+────────────────────────────────────────────────
+  Score:  20/100
+  Werkstudent / Praktikant für den Bereich Materialwirtschaft / Supply Chain (m/w/d)
+  @ WIRSOL ROOF SOLUTIONS  ·  Waghäusel, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's skills and experience are not directly applicable to the job requirements of materialwirtschaft and supply chain management.
+  URL:    https://www.linkedin.com/jobs/view/4439707464
+────────────────────────────────────────────────
+  Score:  30/100
+  Golang AI Engineer (Germany-based)
+  @ BoWatt  ·  Germany
+  Source: LinkedIn
+  Reason: title fits 'Robotics Engineer'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4432231391
+────────────────────────────────────────────────
+  Score:  20/100
+  Mobile Software für Feuerwehren - Produkt Konzeption - Bachelor-/Master-Thesis
+  @ mobilion.eu  ·  Karlsruhe, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The job is not directly related to automotive engineering and requires no relevant experience.
+  URL:    https://www.linkedin.com/jobs/view/4439723352
+────────────────────────────────────────────────
+  Score:   0/100
+  Full Stack Go Engineer (Germany-based)
+  @ BoWatt  ·  Germany
+  Source: LinkedIn
+  Reason: The role requires professional experience as a Full Stack Go Engineer, which the candidate lacks.
+  URL:    https://www.linkedin.com/jobs/view/4437153356
+────────────────────────────────────────────────
+  Score:  30/100
+  IT System Engineer Linux (w/m/d)
+  @ Bechtle Managed Services GmbH  ·  Stuttgart, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: title fits 'Robotics Engineer'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4437200765
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Zentralcontrolling 
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are not directly applicable to the Zentralcontrolling role, and the job posting does not mention any specific technical requirements that match the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000120908364
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im Bereich User Experience - UX-Design oder User Research
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the UX-Design or User Research role, and the candidate's preferred titles do not include UX-related positions.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133362459
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum in User Experience Research
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience in machine learning and artificial intelligence do not directly align with the User Experience Research role, and there is no indication of relevant experience in UX research.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133344455
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Scrum-Master im Agilen Team
+  @ Bosch  ·  Stuttgart, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's skills in Artificial Intelligence, Machine Learning, and Automotive Systems are not directly applicable to the Scrum-Master role, and the candidate lacks experience in agile team management.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128553559
+────────────────────────────────────────────────
+  Score:  40/100
+  Praktikum Optimierung und Automatisierung von Geschäftsprozessen
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the job posting requires expertise in Microsoft Power Platform and business process optimization, which are not prominent in the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131643149
+────────────────────────────────────────────────
+  Score:  40/100
+  Praktikum in der Ersatzteillogistik - remote möglich
+  @ Bosch  ·  Lollar, HE, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the job requires more focus on logistics and SAP/R3, which is not prominent in the candidate's profile.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000126970219
+────────────────────────────────────────────────
+  Score:  40/100
+  Praktikum im Bereich Sales & Market Intelligence 
+  @ Bosch  ·  Ulm, BW, de
+  Source: Bosch (Direct)
+  Reason: The candidate's background in International Automotive Engineering and experience with AI, ML, and data analysis are relevant, but the role requires sales and market intelligence expertise, and the candidate's experience is more focused on engineering and production.
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135418960
+────────────────────────────────────────────────
+  Score:  25/100
+  Praktikum im Digital Experience Product Ownership
+  @ Bosch  ·  München, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive'; skills: Git (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137096499
+────────────────────────────────────────────────
+  Score:  25/100
+  Praktikum in der Digitalisierung - Schwerpunkt AGV
+  @ Bosch  ·  Immenstadt im Allgäu, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive'; skills: Git (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136739234
+────────────────────────────────────────────────
+  Score:  22/100
+  Pflichtpraktikum Automatisierung operative Logistik
+  @ Bosch  ·  Bühl, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive'; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135232666
+────────────────────────────────────────────────
+  Score:  22/100
+  Werkstudent im Bereich Vertrieb Automatisierungstechnik (w/m/div.)
+  @ Bosch  ·  Bietigheim-Bissingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Werkstudent Automotive'; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136772589
+────────────────────────────────────────────────
+  Score:  20/100
+  PreMaster Junior-Projektmanager-/in in der Ersatzteil-/Instandhaltungslogistik der Halbleiterfertigung (w/m/div.)
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: skills: Git; keyword bonus: 1 (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134243779
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum: Logistikprozesse und Packmittelmanagement 
+  @ Bosch  ·  Eisenach, TH, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133010509
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Fertigungsplanung für Bremssystemsteuergeräte
+  @ Bosch  ·  Ansbach, BAYERN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131635233
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum im Projektmanagement
+  @ Bosch  ·  Bietigheim-Bissingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127417450
+────────────────────────────────────────────────
+  Score:  20/100
+  Masterarbeit Robotik - Hochdynamische Regelung von elektrischen Antrieben
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Masterarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000124831480
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Kommunikation und Medien
+  @ Bosch  ·  Homburg, SL, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000122454955
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Business Development – Software Defined Business
+  @ Bosch  ·  Lohr am Main, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121994503
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum im Learning & Skill Management - Bosch Global Real Estate Academy
+  @ Bosch  ·  Gerlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000121412592
+────────────────────────────────────────────────
+  Score:  20/100
+  Maintenance Engineer Implant (w/m/div)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137087726
+────────────────────────────────────────────────
+  Score:  20/100
+  Maintenance Engineer Metrology / Defect Density Engineering (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137087134
+────────────────────────────────────────────────
+  Score:  20/100
+  Maintenance Engineer Lithography (w/m/div.)
+  @ Bosch  ·  Dresden, SACHSEN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136392464
+────────────────────────────────────────────────
+  Score:  20/100
+  Maintenance Engineer CVD/PVD (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136393059
+────────────────────────────────────────────────
+  Score:  20/100
+  Development and Integration Engineer for MEMS technology (f/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136182350
+────────────────────────────────────────────────
+  Score:  20/100
+  Process & Maintenance Engineer Wafertest Probecards (w/m/div)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136021809
+────────────────────────────────────────────────
+  Score:  20/100
+  Support Process & Maintenance Engineer Wafertest Probecards (w/m/div)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136021379
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum - Industrialisierung und Fertigung Elektrolyseur H2
+  @ Bosch  ·  Bamberg, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136019838
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Data & AI Solutions im industriellen Sondermaschinenbau
+  @ Bosch  ·  Immenstadt im Allgäu, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135168409
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im Bereich Instandhaltungs- & Ersatzteillogistik
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133625669
+────────────────────────────────────────────────
+  Score:  20/100
+  Expert Data Engineer & Business Analysis (w/m/div)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133342599
+────────────────────────────────────────────────
+  Score:  20/100
+  Maintenance Engineer Wet Chemistry (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131591411
+────────────────────────────────────────────────
+  Score:  20/100
+  Maintenance Engineer Furnace (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131590839
+────────────────────────────────────────────────
+  Score:  20/100
+  Maintenance Engineer Etch/Ash (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131590778
+────────────────────────────────────────────────
+  Score:  20/100
+  Support Process & Maintenance Engineer Wafertest (w/m/div)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000130709689
+────────────────────────────────────────────────
+  Score:  20/100
+  Support Process & Maintenance Engineer Pre-Assembly (w/m/div)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000130708602
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum im Bereich Applikation Steuergeräte im Fahrzeug
+  @ Bosch  ·  Schwieberdingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129448969
+────────────────────────────────────────────────
+  Score:  20/100
+  Process & Maintenance Engineer Wafertest (w/m/div)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000129122594
+────────────────────────────────────────────────
+  Score:  20/100
+  Process & Maintenance Engineer (w/m/div.)
+  @ Bosch  ·  Dresden, SN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Robotics Engineer' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000125139421
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum in der Fertigungs- und Erzeugnisplanung
+  @ Bosch  ·  Salzgitter, NIEDERSACHSEN, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000137082390
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im Produktmanagement
+  @ Bosch  ·  Karlsruhe, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136256589
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im Bereich Complaint Management
+  @ Bosch  ·  Wernau (Neckar), BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136211779
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im Projektmanagement - Einkauf eMobility
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136021599
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Product Compliance and Environment, Health and Safety 
+  @ Bosch  ·  Würzburg, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135991630
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im Manufacturing Controlling
+  @ Bosch  ·  Wernau (Neckar), BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135989739
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Mobility Aftermarket Technical Fluid Exchange 
+  @ Bosch  ·  Plochingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135958436
+────────────────────────────────────────────────
+  Score:  20/100
+  Masterarbeit Modellierung und Simulation der Wärmebehandlung mikrolegierter Stähle
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Masterarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135245719
+────────────────────────────────────────────────
+  Score:  20/100
+  Thesis: Entwicklung und Analyse optischer Methoden für laserbearbeitete Halbleiter (w/m/div.)
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Thesis Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135236804
+────────────────────────────────────────────────
+  Score:  20/100
+  Masterarbeit im Bereich mechanisches Direktfügen von hybriden Werkstoffen
+  @ Bosch  ·  Renningen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Masterarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000135047961
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Agile Transformation
+  @ Bosch  ·  Ulm, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134423300
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum in der Logistik mit Schwerpunkt Inventory Planning Spare Parts
+  @ Bosch  ·  Wernau (Neckar), BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000134257409
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im Strategischen Einkauf
+  @ Bosch  ·  München, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133866820
+────────────────────────────────────────────────
+  Score:  20/100
+  Masterarbeit: Adaptive multimodale Sensorfusion mit 5G/6G ISAC (w/m/div.)
+  @ Bosch  ·  Erlangen, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Masterarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133529000
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Entwicklung von Fertigungsverfahren für MEMS Inertialsensoren
+  @ Bosch  ·  Reutlingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133052924
+────────────────────────────────────────────────
+  Score:  20/100
+  Abschlussarbeit Experimentelle Bewertung verschiedener Materialvarianten für den Kugel-Kalotte-Kontakt
+  @ Bosch  ·  Elchingen, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Abschlussarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000133029170
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum New Business und Prozessmanagement
+  @ Bosch  ·  Murrhardt, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132827019
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Finanzcontrolling
+  @ Bosch  ·  Leinfelden-Echterdingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000132164279
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Data Analytics in der Logistik
+  @ Bosch  ·  Lohr am Main, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000131860325
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum im Qualitätsmanagement
+  @ Bosch  ·  Waiblingen, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000130766709
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im Bereich Human Resources mit Schwerpunkt HR Business Partnering (m/w/div.)
+  @ Bosch  ·  Bexbacherstr. 72, Saarland, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000128700559
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum Social Media & Marketing – Two-Wheeler & Powersports 
+  @ Bosch  ·  Abstatt, BW, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000127863959
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Fertigungsplanung und -optimierung
+  @ Bosch  ·  Blaichach, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000126268165
+────────────────────────────────────────────────
+  Score:  20/100
+  Praktikum im internationalen Vertrieb 
+  @ Bosch  ·  Karlsruhe, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Praktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000125773549
+────────────────────────────────────────────────
+  Score:  20/100
+  Pflichtpraktikum Projekteinkauf – Deep Impact im Großprojekt
+  @ Bosch  ·  Schweinfurt, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Pflichtpraktikum Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000124593299
+────────────────────────────────────────────────
+  Score:  20/100
+  Masterarbeit im Qualitätsmanagement
+  @ Bosch  ·  Gunzenhausen, BY, de
+  Source: Bosch (Direct)
+  Reason: title fits 'Masterarbeit Automotive' (rule-based)
+  URL:    https://jobs.smartrecruiters.com/BoschGroup/744000123460260
+────────────────────────────────────────────────
+  Score:  17/100
+  AI & Process Automation Manager (m/w/d)
+  @ adlicious  ·  Hamburg, Hamburg, Germany
+  Source: LinkedIn
+  Reason: skills: Git; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4437214066
+────────────────────────────────────────────────
+  Score:  17/100
+  Hardwarenaher Softwareentwickler (m/w/d)
+  @ AXON Innovations  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: skills: Python; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439589254
+

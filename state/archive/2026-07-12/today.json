@@ -2939,6 +2939,706 @@
           }
         }
       ]
+    },
+    {
+      "timestamp": "2026-07-12T11:19:59.058976",
+      "strong": [],
+      "worth_look": [
+        {
+          "score": 60,
+          "reason": "The candidate's background in International Automotive Engineering and experience with machine learning, simulation, and data analysis are relevant to the role, but the job requires professional experience and the candidate is still a student, and while the candidate has some German language skills, they may not be sufficient for the role.",
+          "domain_class": "skill_adjacent",
+          "ai_score": 60,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with machine learning, simulation, and data analysis are relevant to the role, but the job requires professional experience and the candidate is still a student, and while the candidate has some German language skills, they may not be sufficient for the role.",
+          "unscored": false,
+          "job": {
+            "id": "linkedin_4417928821",
+            "title": "Anwendungs/Entwicklungsingenieur Schraubenkompressorenaggregate (m/w/d)",
+            "company": "AERZEN worldwide",
+            "location": "Oberhausen, North Rhine-Westphalia, Germany",
+            "description": "JOB-ID 2143 Die Air Center International GmbH mit Sitz in Oberhausen befindet sich in einem dynamisch wachsenden Unternehmensumfeld. Das Unternehmen ist spezialisiert auf den Vertrieb, Service und das Engineering von Kompressorenaggregaten, darunter Schraubenkompressoren, Kolbenkompressoren sowie Ko",
+            "url": "https://www.linkedin.com/jobs/view/4417928821",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 37,
+          "reason": "title fits 'Entwicklungsingenieur'; keyword bonus: 1; preferred location (rule-based; AI quota exhausted)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": true,
+          "job": {
+            "id": "linkedin_4439702644",
+            "title": "Entwicklungsingenieur m/w/d",
+            "company": "IMO Group",
+            "location": "Gremsdorf, Bavaria, Germany",
+            "description": "Drehverbindungen mit bis zu 20 t Gewicht und 6 m Durchmesser, Schwenktriebe mit der höchsten Tragfähigkeit auf kleinstem Bauraum. Weltweit sind unsere Produkte Teil zahlreicher Erfolgsgeschichten: In Schwimmbaggern beim Bau der Palmeninsel in Dubai, in Lenkgetrieben beim Landtransport gigantischer Ö",
+            "url": "https://www.linkedin.com/jobs/view/4439702644",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ],
+      "rejected": [
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4417965098",
+            "title": "Senior ML Engineer - Next-Generation Autonomous Driving (f/m/x)",
+            "company": "BMW Group",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Innovation Is Imagining What No One Else Can. Artificial Intelligence and machine learning are at the cutting edge when it comes to shaping next-gen mobility in areas like automated driving. But it takes real intellectual leadership and expertise to identify and then harness the AI trends and techno",
+            "url": "https://www.linkedin.com/jobs/view/4417965098",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4361978624",
+            "title": "IGC Senior Development Engineer (f/m/d)",
+            "company": "Siemens Energy",
+            "location": "Duisburg, North Rhine-Westphalia, Germany",
+            "description": "A Snapshot of Your Day As IGC Senior Development Engineer you will be responsible to drive Integrally Geared Compressor (IGC) core design development as a Subject Matter Expert within Siemens Energy’s Compression business. This involves maintaining and improving quality, costs and robustness within ",
+            "url": "https://www.linkedin.com/jobs/view/4361978624",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 12,
+          "reason": "keyword bonus: 1; preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439720700",
+            "title": "Ingenieur Bordnetzentwicklung (m/w/d)",
+            "company": "mamgo | Talente 🔗 Jobs",
+            "location": "Affalterbach, Baden-Württemberg, Germany",
+            "description": "Für unseren Kunden besetzen wir ab sofort folgende Position: Aufgabenprofil Anpassung von 12V und 48V Bordnetzen an den Fahrzeugen unter Berücksichtigung softwarebasierter Fahrzeugarchitekturen. Verantwortung für die Einhaltung der Ruhestromgrenzwerte der Fahrzeuge und Durchführung von Ruhestrommess",
+            "url": "https://www.linkedin.com/jobs/view/4439720700",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 12,
+          "reason": "keyword bonus: 1; preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4402927737",
+            "title": "Specialist Quality Costs & Warranty (m/w/d)",
+            "company": "AUO Mobility Solutions Germany",
+            "location": "Lippstadt, North Rhine-Westphalia, Germany",
+            "description": "Quality Management / Lippstadt / Alle Stellenangebote in Deutschland Als Spezialist für Klimatisierung sowie Anzeige und Bedienung im Automobil leisten unsere Produkte einen wesentlichen Beitrag zum entspannten und sicheren Fahren. Sie interessieren sich für Technologien und können gut mit Menschen ",
+            "url": "https://www.linkedin.com/jobs/view/4402927737",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Leitung'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4437209251",
+            "title": "Supplier Quality Specialist (m/w/d)",
+            "company": "Tesla Automation GmbH",
+            "location": "Roth, Rhineland-Palatinate, Germany",
+            "description": "Tesla steht für die Beschleunigung des Übergangs zu nachhaltiger Energie. Innerhalb weniger Jahre wurden revolutionäre Strategien und Produkte entwickelt und erfolgreich auf den Markt gebracht. Dies ist nur möglich durch außerordentliche Begeisterung und Identifikation der Mitarbeiter, Geschwindigke",
+            "url": "https://www.linkedin.com/jobs/view/4437209251",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Leitung'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4400792220",
+            "title": "Teamleiter Engineering \"Cabin & Assembled Parts\" (m/w/d)",
+            "company": "SFS Group",
+            "location": "Althengstett, Baden-Württemberg, Germany",
+            "description": "Der SFS Konzern ist ein weltweit tätiger Entwicklungspartner, Hersteller und Zulieferer von Präzisionsformteilen, Sonderschrauben und mechanischen Befestigungssystemen in Kunststoff oder Metall. Die Niederlassung SFS Group Germany GmbH, Aircraft Components in Althengstett ist auf die Luftfahrtindust",
+            "url": "https://www.linkedin.com/jobs/view/4400792220",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 12,
+          "reason": "keyword bonus: 1; preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436682758",
+            "title": "Systemingenieur Elektrotechnik (m/w/d)",
+            "company": "Boels Verleih GmbH",
+            "location": "Freilassing, Bavaria, Germany",
+            "description": "Über das Unternehmen Mehr als ein Jahrhundert an Gleisbautradition trifft auf Innovationskraft, modernste Technologien und den unbändigen Willen Lösungen für unsere Kunden rund um den Globus zu entwickeln und umzusetzen. Unser Planet braucht eine starke Schiene. Die Schiene braucht eine starke ROBEL",
+            "url": "https://www.linkedin.com/jobs/view/4436682758",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439583991",
+            "title": "Fachberater SE-Center (m/w/d) in Kerpen",
+            "company": "Heinrich Schmidt Holding GmbH & Co. KG",
+            "location": "Kerpen, North Rhine-Westphalia, Germany",
+            "description": "Sie kommunizieren gerne mit Kunden und haben Lust diese von der Angebotserstellung bis zum abgeschlossenen Auftrag zu unterstützen und zu betreuen? Unser Team freut sich auf Ihre Unterstützung! Fachberater Sanitär / Heizung (m/w/d) Ihr Profil Abgeschlossene Ausbildung im SHK Fachgroßhandel oder Ha",
+            "url": "https://www.linkedin.com/jobs/view/4439583991",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Leitung'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439711645",
+            "title": "System Engineer Projekt- und Auftragsabwicklung (m/w/d)",
+            "company": "GFAD Systemhaus AG",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Ab wann: ab sofort Art der Einstellung: Vollzeit Standort: Berlin jetzt direkt bewerben Deine Aufgaben Du übernimmst die konzeptionelle Erarbeitung und Implementierung von Infrastrukturlösungen in der Cloud, hybrid oder klassisch „im Serverraum“ bei Implementierungs-Projekten in typischen Kundengröß",
+            "url": "https://www.linkedin.com/jobs/view/4439711645",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439708354",
+            "title": "Systems Engineer / Technical Project Manager (m/f/d)",
+            "company": "mamgo | Talente 🔗 Jobs",
+            "location": "Munich, Bavaria, Germany",
+            "description": "We are currently filling the following permanent position for our client: Responsibilities Lead and manage electrical projects, including protection systems and excitation systems Serve as single point of contact for internal and external stakeholders, suppliers, and third parties, coordinating tech",
+            "url": "https://www.linkedin.com/jobs/view/4439708354",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Leitung'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4402379651",
+            "title": "Prüfingenieur (w/m/d) - Schaltleistung",
+            "company": "Siemens Energy",
+            "location": "Berlin, Berlin, Germany",
+            "description": "Momentaufnahme von Ihrem Tag Diese Position bietet die einzigartige Gelegenheit, selbstständig und eigenverantwortlich Leistungsprüfungen an Hochspannungsgeräten und Anlagen durchzuführen. Sie werden Teil eines kleinen Teams mit sechs Mitarbeiterinnen und Mitarbeitern sein. Ihr Arbeitstag beinhaltet",
+            "url": "https://www.linkedin.com/jobs/view/4402379651",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4373122597",
+            "title": "Polycondensation Process Engineer (m/f/d)",
+            "company": "aevoloop GmbH",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "Your mission Join aevoloop, one of Europe’s fastest-scaling deep-tech startups, and help shape the future of next-generation plastics. Develop a 50 kg batch polycondensation process for our innovative, novel polyester based plastic products as an integral part of aevoloop’s polymer R&D team. Identif",
+            "url": "https://www.linkedin.com/jobs/view/4373122597",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Lead'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4373121548",
+            "title": "Downstreaming Team Lead (f/m/d)",
+            "company": "aevoloop GmbH",
+            "location": "Leipzig, Saxony, Germany",
+            "description": "Your mission Contribute to aevoloop’s material innovation by developing scalable purification processes that transform sustainable chemistry into products. Develop a downstreaming concept for dicarboxylic acids on a pilot scale. Lead the research team that develops a scalable purification process fo",
+            "url": "https://www.linkedin.com/jobs/view/4373121548",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4420973967",
+            "title": "Senior AI R&D Engineer – Model Training (f/m/d)",
+            "company": "Aleph Alpha",
+            "location": "Heidelberg, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4420973967",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4437216284",
+            "title": "Data Science & Solutions Consultant (m/w/d)",
+            "company": "twomynds",
+            "location": "Bonn, North Rhine-Westphalia, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4437216284",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436698818",
+            "title": "Full Stack Developer",
+            "company": "P&T Software",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436698818",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439708434",
+            "title": "Senior Python Developer (Remote)",
+            "company": "Quik Hire Staffing",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439708434",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439704740",
+            "title": "FrontEnd Web Developer (Remote)",
+            "company": "Hire Feed",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439704740",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4438967531",
+            "title": "Full Stack Developer",
+            "company": "FetchJobs.co",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438967531",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4437201888",
+            "title": "Full Stack Developer",
+            "company": "Haystack",
+            "location": "Cologne, North Rhine-Westphalia, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4437201888",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4436692997",
+            "title": "Senior Frontend Developer (m/w/d)",
+            "company": "QualityMinds GmbH",
+            "location": "Nuremberg, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4436692997",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 10,
+          "reason": "preferred location",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4410493982",
+            "title": "Full-Stack Developer (NodeJS/Typescript) (m/f/x)",
+            "company": "osapiens",
+            "location": "Mannheim, Baden-Württemberg, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4410493982",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Senior'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439708448",
+            "title": "Senior Frontend Software Engineer (Typescript)  (Remote)",
+            "company": "Hire Feed",
+            "location": "Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439708448",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Principal'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4391493532",
+            "title": "Principal Forward Deployed Engineer – AI-Native Software Development",
+            "company": "JetBrains",
+            "location": "Berlin, Berlin, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4391493532",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "preferred location; (seniority warning)",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4437210461",
+            "title": "Head of Artificial Intelligence",
+            "company": "develop",
+            "location": "Munich, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4437210461",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 0,
+          "reason": "Excluded — contains 'Manager'",
+          "category": "prefilter",
+          "job": {
+            "id": "linkedin_4439707957",
+            "title": "AI Specialist & Enablement Manager (m/w/d)",
+            "company": "PimpUP",
+            "location": "Herxheim, Rhineland-Palatinate, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439707957",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 40,
+          "reason": "The candidate's background in International Automotive Engineering and experience with FEM simulations (ANSYS) and machine learning are relevant, but the role requires more direct experience in magnetic and electrical simulations, and the candidate's German language skills, while present, may not be sufficient for the role.",
+          "domain_class": "core_field",
+          "ai_score": 40,
+          "ai_reason": "The candidate's background in International Automotive Engineering and experience with FEM simulations (ANSYS) and machine learning are relevant, but the role requires more direct experience in magnetic and electrical simulations, and the candidate's German language skills, while present, may not be sufficient for the role.",
+          "unscored": false,
+          "category": "fluent_german",
+          "job": {
+            "id": "linkedin_4438974661",
+            "title": "Entwicklungsingenieur",
+            "company": "MS-Schramberg GmbH & Co. KG",
+            "location": "Schramberg, Baden-Württemberg, Germany",
+            "description": "für magnetische und elektrische Simulationen Ihr Profil Abgeschlossenes Studium mit der Fachrichtung Physik, Elektrotechnik, Mechatronik oder eine vergleichbare Qualifikation Eine der Position angemessene Berufserfahrung Erfahrung mit FEM-Tools (z. B. COMSOL, Ansys) und analytischen Berechnungen Ken",
+            "url": "https://www.linkedin.com/jobs/view/4438974661",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 37,
+          "reason": "title fits 'Automotive Engineer'; skills: Linux; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4438962688",
+            "title": "System Engineer - Backup & Monitoring (m/w/d)",
+            "company": "Skaylink",
+            "location": "Munich, Bavaria, Germany",
+            "description": "Ready to protect critical systems? 🔐📊 Dich erwartet ein modernes IT-Umfeld, in dem du in den Bereichen Backup, Monitoring und Automatisierung Verantwortung für geschäftskritische Systeme übernimmst. Mit Veeam, Cloud-Backups und professionellem Monitoring stellst du Stabilität, Verfügbarkeit und Tran",
+            "url": "https://www.linkedin.com/jobs/view/4438962688",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 37,
+          "reason": "title fits 'Werkstudent'; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "skill_adjacent",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4439720566",
+            "title": "Systems Engineering Werkstudent",
+            "company": "LILY",
+            "location": "Mannheim, Baden-Württemberg, Germany",
+            "description": "About Us LILY is building the next generation of cloud infrastructure. Instead of incrementally improving existing cloud stacks, we are rethinking the entire system from the ground up. We are developing an infrastructure where runtime, scaling, and orchestration are deeply integrated rather than exi",
+            "url": "https://www.linkedin.com/jobs/view/4439720566",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 37,
+          "reason": "title fits 'Automotive Engineer'; skills: Linux; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "skill_adjacent",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4310216953",
+            "title": "System Engineer (m/w/d) Datacenter",
+            "company": "Instaffo",
+            "location": "Lünen, North Rhine-Westphalia, Germany",
+            "description": "System Engineer (m/w/d) Datacenter bei REMONDIS IT SERVICES GmbH & Co. KG Anforderungen Bitte beachte, dass für diese Stelle eine Arbeitserlaubnis für Deutschland erforderlich ist. Sprache: Deutsch - Fließend Erfolgreich abgeschlossene Ausbildung zum Fachinformatiker in der Fachrichtung Systemintegr",
+            "url": "https://www.linkedin.com/jobs/view/4310216953",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 37,
+          "reason": "title fits 'Entwicklungsingenieur'; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4439721631",
+            "title": "Entwicklungsingenieur ? Elektronik (m/w/d)",
+            "company": "mamgo | Talente 🔗 Jobs",
+            "location": "Nuremberg, Bavaria, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439721631",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 35,
+          "reason": "title fits 'Automotive Engineer'; skills: Linux; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4438977094",
+            "title": "System Engineer - Virtualisierung (m/w/d)",
+            "company": "Skaylink",
+            "location": "Essen, North Rhine-Westphalia, Germany",
+            "description": "Ready to scale virtual platforms? 🚀 Dich erwartet eine moderne Virtualisierungslandschaft, in der du als Spezialist für Hyper-V und VMware stabile, performante und sichere Plattformen verantwortest. Du gestaltest und optimierst unsere Rechenzentrums-Infrastruktur im engen Austausch mit Storage-, Net",
+            "url": "https://www.linkedin.com/jobs/view/4438977094",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 32,
+          "reason": "title fits 'Automotive Engineer'; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "skill_adjacent",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4344513880",
+            "title": "M365 System Engineer – Schwerpunkt Teams und Collaboration (m/w/d)",
+            "company": "Ratiodata",
+            "location": "Frankfurt am Main, Hesse, Germany",
+            "description": "WIR SIND Du suchst neue Herausforderungen und Karrieremöglichkeiten? Du willst deine Zukunft aktiv mitgestalten? Dann komm zu uns! Wir sind eins der größten Systemhäuser und Technologiepartner in Deutschland mit über 1.500 Kolleg:innen an 11 Standorten. Bewirb dich jetzt und zeig uns, aus welchen Bi",
+            "url": "https://www.linkedin.com/jobs/view/4344513880",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 32,
+          "reason": "skills: Machine Learning; keyword bonus: 2; preferred location (rule-based)",
+          "domain_class": "core_field",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4438985381",
+            "title": "Research Associate Position in Process Mining, Information Systems, and Spatial Data Science",
+            "company": "Technische Universität München (Technical University of Munich)",
+            "location": "Munich, Bavaria, Germany",
+            "description": "The professorships “Big Geospatial Data Management” and “Information Systems” are seeking to fill a research associate position (doctoral candidate) in close collaboration with each other to support research activities around sustainability-aware event data engineering for global logistic. Research ",
+            "url": "https://www.linkedin.com/jobs/view/4438985381",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Automotive Engineer'; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4439709294",
+            "title": "Hardware Engineer (m/w/d)",
+            "company": "mamgo | Talente 🔗 Jobs",
+            "location": "Lübeck, Schleswig-Holstein, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4439709294",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Automotive Engineer'; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4438975709",
+            "title": "AI Engineer (m/f/d)",
+            "company": "AMDT",
+            "location": "Landau in der Pfalz, Rhineland-Palatinate, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4438975709",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 30,
+          "reason": "title fits 'Automotive Engineer'; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4411485940",
+            "title": "Platform Engineer - m/w/d",
+            "company": "Langdock",
+            "location": "Berlin, Berlin, Germany",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4411485940",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 20,
+          "reason": "title fits 'Automotive Engineer' (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4417990574",
+            "title": "Software Engineer, Search Ranking",
+            "company": "eBay",
+            "location": "Berlin Metropolitan Area",
+            "description": "",
+            "url": "https://www.linkedin.com/jobs/view/4417990574",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 19,
+          "reason": "skills: FEM; keyword bonus: 2; preferred location (rule-based)",
+          "domain_class": "unclassified",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4423894861",
+            "title": "Entwickler Verbindungselemente (m/w/d)",
+            "company": "SFS Group",
+            "location": "Mörfelden-Walldorf, Hesse, Germany",
+            "description": "GESIPA® ist in der Verbindungstechnik eine etablierte Marke mit hoher Bekanntheit und Wertschätzung. Als Teil der internationalen SFS Group verbinden wir markennahe Innovationskraft mit globaler Perspektive. Unsere Produkte kommen in anspruchsvollen Anwendungen am Boden und in der Luft zum Einsatz –",
+            "url": "https://www.linkedin.com/jobs/view/4423894861",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        },
+        {
+          "score": 17,
+          "reason": "skills: SolidWorks; keyword bonus: 1; preferred location (rule-based)",
+          "domain_class": "skill_adjacent",
+          "ai_score": null,
+          "ai_reason": "",
+          "unscored": false,
+          "category": "low_score",
+          "job": {
+            "id": "linkedin_4439726191",
+            "title": "Prozessingenieur (m/w/d)",
+            "company": "ANDRITZ",
+            "location": "Reutlingen, Baden-Württemberg, Germany",
+            "description": "Job description: Für unseren Bereich der Prozesstechnik Machine Clothing Global suchen wir einen Prozessingenieur (m/w/d) zur Optimierung der Prozesse und des Produktionsablaufes, zur Unterstützung der Entwicklungs- und Produktionsbereiche bei Einführung von neuen Produkten. Tätigkeitsschwerpunkte: ",
+            "url": "https://www.linkedin.com/jobs/view/4439726191",
+            "published": "2026-07-12T00:00:00+00:00",
+            "source": "LinkedIn"
+          }
+        }
+      ]
     }
   ]
 }

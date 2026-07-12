@@ -80,3 +80,20 @@
   Reason: title fits 'Abschlussarbeit Automotive'; skills: Git (rule-based; AI quota exhausted)
   URL:    https://jobs.smartrecruiters.com/BoschGroup/744000136385839
 
+--- Run at 11:19:59 (2 jobs) ---
+
+────────────────────────────────────────────────
+  Score:  60/100
+  Anwendungs/Entwicklungsingenieur Schraubenkompressorenaggregate (m/w/d)
+  @ AERZEN worldwide  ·  Oberhausen, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with machine learning, simulation, and data analysis are relevant to the role, but the job requires professional experience and the candidate is still a student, and while the candidate has some German language skills, they may not be sufficient for the role.
+  URL:    https://www.linkedin.com/jobs/view/4417928821
+────────────────────────────────────────────────
+  Score:  37/100
+  Entwicklungsingenieur m/w/d
+  @ IMO Group  ·  Gremsdorf, Bavaria, Germany
+  Source: LinkedIn
+  Reason: title fits 'Entwicklungsingenieur'; keyword bonus: 1; preferred location (rule-based; AI quota exhausted)
+  URL:    https://www.linkedin.com/jobs/view/4439702644
+

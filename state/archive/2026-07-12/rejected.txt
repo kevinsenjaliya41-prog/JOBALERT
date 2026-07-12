@@ -1067,3 +1067,286 @@
   Reason: skills: Python; keyword bonus: 1; preferred location (rule-based)
   URL:    https://www.linkedin.com/jobs/view/4439589254
 
+--- Run at 11:19:59 (40 jobs) ---
+
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior ML Engineer - Next-Generation Autonomous Driving (f/m/x)
+  @ BMW Group  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4417965098
+────────────────────────────────────────────────
+  Score:   0/100
+  IGC Senior Development Engineer (f/m/d)
+  @ Siemens Energy  ·  Duisburg, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4361978624
+────────────────────────────────────────────────
+  Score:  12/100
+  Ingenieur Bordnetzentwicklung (m/w/d)
+  @ mamgo | Talente 🔗 Jobs  ·  Affalterbach, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: keyword bonus: 1; preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439720700
+────────────────────────────────────────────────
+  Score:  12/100
+  Specialist Quality Costs & Warranty (m/w/d)
+  @ AUO Mobility Solutions Germany  ·  Lippstadt, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: keyword bonus: 1; preferred location
+  URL:    https://www.linkedin.com/jobs/view/4402927737
+────────────────────────────────────────────────
+  Score:   0/100
+  Supplier Quality Specialist (m/w/d)
+  @ Tesla Automation GmbH  ·  Roth, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Leitung'
+  URL:    https://www.linkedin.com/jobs/view/4437209251
+────────────────────────────────────────────────
+  Score:   0/100
+  Teamleiter Engineering "Cabin & Assembled Parts" (m/w/d)
+  @ SFS Group  ·  Althengstett, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Leitung'
+  URL:    https://www.linkedin.com/jobs/view/4400792220
+────────────────────────────────────────────────
+  Score:  12/100
+  Systemingenieur Elektrotechnik (m/w/d)
+  @ Boels Verleih GmbH  ·  Freilassing, Bavaria, Germany
+  Source: LinkedIn
+  Reason: keyword bonus: 1; preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436682758
+────────────────────────────────────────────────
+  Score:  10/100
+  Fachberater SE-Center (m/w/d) in Kerpen
+  @ Heinrich Schmidt Holding GmbH & Co. KG  ·  Kerpen, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439583991
+────────────────────────────────────────────────
+  Score:   0/100
+  System Engineer Projekt- und Auftragsabwicklung (m/w/d)
+  @ GFAD Systemhaus AG  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Leitung'
+  URL:    https://www.linkedin.com/jobs/view/4439711645
+────────────────────────────────────────────────
+  Score:   0/100
+  Systems Engineer / Technical Project Manager (m/f/d)
+  @ mamgo | Talente 🔗 Jobs  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4439708354
+────────────────────────────────────────────────
+  Score:   0/100
+  Prüfingenieur (w/m/d) - Schaltleistung
+  @ Siemens Energy  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Leitung'
+  URL:    https://www.linkedin.com/jobs/view/4402379651
+────────────────────────────────────────────────
+  Score:   0/100
+  Polycondensation Process Engineer (m/f/d)
+  @ aevoloop GmbH  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4373122597
+────────────────────────────────────────────────
+  Score:   0/100
+  Downstreaming Team Lead (f/m/d)
+  @ aevoloop GmbH  ·  Leipzig, Saxony, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Lead'
+  URL:    https://www.linkedin.com/jobs/view/4373121548
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior AI R&D Engineer – Model Training (f/m/d)
+  @ Aleph Alpha  ·  Heidelberg, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4420973967
+────────────────────────────────────────────────
+  Score:  10/100
+  Data Science & Solutions Consultant (m/w/d)
+  @ twomynds  ·  Bonn, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4437216284
+────────────────────────────────────────────────
+  Score:  10/100
+  Full Stack Developer
+  @ P&T Software  ·  Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4436698818
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Python Developer (Remote)
+  @ Quik Hire Staffing  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4439708434
+────────────────────────────────────────────────
+  Score:  10/100
+  FrontEnd Web Developer (Remote)
+  @ Hire Feed  ·  Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4439704740
+────────────────────────────────────────────────
+  Score:  10/100
+  Full Stack Developer
+  @ FetchJobs.co  ·  Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4438967531
+────────────────────────────────────────────────
+  Score:  10/100
+  Full Stack Developer
+  @ Haystack  ·  Cologne, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4437201888
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Frontend Developer (m/w/d)
+  @ QualityMinds GmbH  ·  Nuremberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4436692997
+────────────────────────────────────────────────
+  Score:  10/100
+  Full-Stack Developer (NodeJS/Typescript) (m/f/x)
+  @ osapiens  ·  Mannheim, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: preferred location
+  URL:    https://www.linkedin.com/jobs/view/4410493982
+────────────────────────────────────────────────
+  Score:   0/100
+  Senior Frontend Software Engineer (Typescript)  (Remote)
+  @ Hire Feed  ·  Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Senior'
+  URL:    https://www.linkedin.com/jobs/view/4439708448
+────────────────────────────────────────────────
+  Score:   0/100
+  Principal Forward Deployed Engineer – AI-Native Software Development
+  @ JetBrains  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Principal'
+  URL:    https://www.linkedin.com/jobs/view/4391493532
+────────────────────────────────────────────────
+  Score:   0/100
+  Head of Artificial Intelligence
+  @ develop  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: preferred location; (seniority warning)
+  URL:    https://www.linkedin.com/jobs/view/4437210461
+────────────────────────────────────────────────
+  Score:   0/100
+  AI Specialist & Enablement Manager (m/w/d)
+  @ PimpUP  ·  Herxheim, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: Excluded — contains 'Manager'
+  URL:    https://www.linkedin.com/jobs/view/4439707957
+────────────────────────────────────────────────
+  Score:  40/100
+  Entwicklungsingenieur
+  @ MS-Schramberg GmbH & Co. KG  ·  Schramberg, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: The candidate's background in International Automotive Engineering and experience with FEM simulations (ANSYS) and machine learning are relevant, but the role requires more direct experience in magnetic and electrical simulations, and the candidate's German language skills, while present, may not be sufficient for the role.
+  URL:    https://www.linkedin.com/jobs/view/4438974661
+────────────────────────────────────────────────
+  Score:  37/100
+  System Engineer - Backup & Monitoring (m/w/d)
+  @ Skaylink  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: title fits 'Automotive Engineer'; skills: Linux; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4438962688
+────────────────────────────────────────────────
+  Score:  37/100
+  Systems Engineering Werkstudent
+  @ LILY  ·  Mannheim, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: title fits 'Werkstudent'; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439720566
+────────────────────────────────────────────────
+  Score:  37/100
+  System Engineer (m/w/d) Datacenter
+  @ Instaffo  ·  Lünen, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: title fits 'Automotive Engineer'; skills: Linux; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4310216953
+────────────────────────────────────────────────
+  Score:  37/100
+  Entwicklungsingenieur ? Elektronik (m/w/d)
+  @ mamgo | Talente 🔗 Jobs  ·  Nuremberg, Bavaria, Germany
+  Source: LinkedIn
+  Reason: title fits 'Entwicklungsingenieur'; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439721631
+────────────────────────────────────────────────
+  Score:  35/100
+  System Engineer - Virtualisierung (m/w/d)
+  @ Skaylink  ·  Essen, North Rhine-Westphalia, Germany
+  Source: LinkedIn
+  Reason: title fits 'Automotive Engineer'; skills: Linux; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4438977094
+────────────────────────────────────────────────
+  Score:  32/100
+  M365 System Engineer – Schwerpunkt Teams und Collaboration (m/w/d)
+  @ Ratiodata  ·  Frankfurt am Main, Hesse, Germany
+  Source: LinkedIn
+  Reason: title fits 'Automotive Engineer'; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4344513880
+────────────────────────────────────────────────
+  Score:  32/100
+  Research Associate Position in Process Mining, Information Systems, and Spatial Data Science
+  @ Technische Universität München (Technical University of Munich)  ·  Munich, Bavaria, Germany
+  Source: LinkedIn
+  Reason: skills: Machine Learning; keyword bonus: 2; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4438985381
+────────────────────────────────────────────────
+  Score:  30/100
+  Hardware Engineer (m/w/d)
+  @ mamgo | Talente 🔗 Jobs  ·  Lübeck, Schleswig-Holstein, Germany
+  Source: LinkedIn
+  Reason: title fits 'Automotive Engineer'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439709294
+────────────────────────────────────────────────
+  Score:  30/100
+  AI Engineer (m/f/d)
+  @ AMDT  ·  Landau in der Pfalz, Rhineland-Palatinate, Germany
+  Source: LinkedIn
+  Reason: title fits 'Automotive Engineer'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4438975709
+────────────────────────────────────────────────
+  Score:  30/100
+  Platform Engineer - m/w/d
+  @ Langdock  ·  Berlin, Berlin, Germany
+  Source: LinkedIn
+  Reason: title fits 'Automotive Engineer'; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4411485940
+────────────────────────────────────────────────
+  Score:  20/100
+  Software Engineer, Search Ranking
+  @ eBay  ·  Berlin Metropolitan Area
+  Source: LinkedIn
+  Reason: title fits 'Automotive Engineer' (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4417990574
+────────────────────────────────────────────────
+  Score:  19/100
+  Entwickler Verbindungselemente (m/w/d)
+  @ SFS Group  ·  Mörfelden-Walldorf, Hesse, Germany
+  Source: LinkedIn
+  Reason: skills: FEM; keyword bonus: 2; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4423894861
+────────────────────────────────────────────────
+  Score:  17/100
+  Prozessingenieur (m/w/d)
+  @ ANDRITZ  ·  Reutlingen, Baden-Württemberg, Germany
+  Source: LinkedIn
+  Reason: skills: SolidWorks; keyword bonus: 1; preferred location (rule-based)
+  URL:    https://www.linkedin.com/jobs/view/4439726191
+

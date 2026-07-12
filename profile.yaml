@@ -7,168 +7,170 @@
 personal:
   name: ''
   email: ''
-persona: a master's student in International Automotive Engineering (Artificial Intelligence, Machine
-  Learning, Automotive Systems)
+persona: a master's student in International Automotive Engineering (Python, Machine Learning, Automotive
+  Engineering)
 domain:
   name: automotive engineering
   core_terms:
   - Automotive
-  - Artificial Intelligence
+  - Engineering
+  - Fahrzeugtechnik
+  - Vehicle Engineering
   - Machine Learning
-  - Deep Learning
-  - Python
-  - PyTorch
-  - TensorFlow
   - Künstliche Intelligenz
   - Maschinelles Lernen
-  - Tiefes Lernen
-  - Automatisierung
-  - Fahrzeugtechnik
-  - Autonomous Systems
-  - Robotics
-  - Computer Vision
-  - Sensor Fusion
+  - Python
+  - MATLAB
+  - Simulink
+  - ANSYS
+  - FEM
+  - Thermal Analysis
+  - Structural Analysis
+  - Creep Analysis
   supporting_terms:
-  - Electronics
-  - Mechatronics
-  - Software Development
-  - System Engineering
-  - Testing
-  - Validation
+  - Research
+  - Development
+  - Forschung
+  - Entwicklung
+  - Innovation
+  - Technologie
   adjacent_terms:
-  - Aerospace Engineering
   - Mechanical Engineering
   - Electrical Engineering
   - Computer Science
-  - Robotics
-  - Mechatronics
+  - Maschinenbau
+  - Elektrotechnik
+  - Informatik
   core_companies:
   - bmw
   - mercedes
   - audi
   - volkswagen
   - porsche
+  - toyota
+  - ford
+  - general motors
+  adjacent_companies:
+  - siemens
   - bosch
   - continental
-  - zfe
-  - daimler
-  adjacent_companies:
-  - airbus
-  - boeing
-  - siemens
-  - philips
-  - nvidia
-  - intel
+  - infineon
+  - thyssenkrupp
   reject_title_terms:
   - Marketing Manager
   - Nurse
   - Recruiter
   - Sales Manager
   - Financial Analyst
-  - Human Resources
   bonus_terms:
-  - Artificial Intelligence
-  - Machine Learning
-  - Deep Learning
-  - Autonomous Systems
-  - Robotics
-  - Computer Vision
-  - Sensor Fusion
+  - Automotive Safety
+  - Autonomous Vehicles
+  - Electric Vehicles
+  - Fahrzeugsicherheit
+  - Autonome Fahrzeuge
+  - Elektrofahrzeuge
 skills:
 - Python
-- PyTorch
-- TensorFlow
 - Machine Learning
-- Deep Learning
-- Artificial Intelligence
+- Automotive Engineering
 - MATLAB
-- SIMULINK
-- Data Analysis
-- Digital Signal Processing
-- Keras
-- Convolutional Neural Networks
+- Simulink
+- C++
 - Git
-- Conda
+- GitHub
+- GitLab
+- VS Code
+- Jupyter
+- Ubuntu
+- Linux
+- ANSYS
+- FEM
+- Thermal Analysis
+- Structural Analysis
+- Creep Analysis
+- Design of Experiments
+- SolidWorks
+- CATIA
+- Grafana
+- InfluxDB
+- Power BI
+- Data Analysis
+- Workflow Automation
 - Künstliche Intelligenz
 - Maschinelles Lernen
-- Tiefes Lernen
+- Forschung und Entwicklung
 target_titles:
-- Working Student Automotive
+- Werkstudent
+- Working Student
+- Intern
+- Praktikum
+- Pflichtpraktikum
+- Masterarbeit
+- Thesis
+- Abschlussarbeit
+- Automotive Engineer
+- Fahrzeugentwickler
+- Vehicle Engineer
+- Forschungsingenieur
+- Entwicklungsingenieur
+- Automotive Engineering Intern
 - Werkstudent Automotive
-- Intern Automotive
-- Praktikum Automotive
-- Pflichtpraktikum Automotive
-- Masterarbeit Automotive
-- Thesis Automotive
-- Abschlussarbeit Automotive
-- Junior Automotive Engineer
-- Automotive Systems Engineer
-- Artificial Intelligence Engineer
-- Machine Learning Engineer
-- Deep Learning Engineer
-- Automotive Software Engineer
-- Autonomous Systems Engineer
-- Robotics Engineer
 - Junior Perception Engineer
-- Computer Vision Engineer
-- Sensor Fusion Engineer
+- Junior Fahrzeugentwickler
+- Automotive Research Engineer
 must_have_keywords:
 - Automotive
-- Artificial Intelligence
+- Engineering
 - Machine Learning
-- Deep Learning
 - Python
-- PyTorch
-- TensorFlow
+- Forschung
+- Entwicklung
 - Künstliche Intelligenz
 - Maschinelles Lernen
-- Tiefes Lernen
-- Automatisierung
 - Fahrzeugtechnik
+- Vehicle Engineering
 exclude_keywords:
 - Senior
 - Lead
 - Principal
 - 10+ years
 - mehrjährige Berufserfahrung
-- Leitender Ingenieur
-- Gruppenleiter
+- Leitung
+- Manager
+- Direktor
 preferred_locations:
 - Ingolstadt
-- Munich
-- Stuttgart
+- Erlangen
+- Ahmedabad
 - Germany
-language_preference: no_german_required
-years_of_experience: 2
+- India
+language_preference: any
+years_of_experience: 0
 career_level: student
 search_queries:
 - Werkstudent Automotive
-- Junior Automotive Engineer
-- Artificial Intelligence Engineer
-- Machine Learning Engineer
-- Deep Learning Engineer
-- Automotive Software Engineer
-- Autonomous Systems Engineer
-- Robotics Engineer
 - Junior Perception Engineer
-- Computer Vision Engineer
-- Sensor Fusion Engineer
-- Automatisierung
-- Fahrzeugtechnik
+- Automotive Engineer
+- Fahrzeugentwickler
+- Vehicle Engineer
+- Forschungsingenieur
+- Entwicklungsingenieur
+- Automotive Research Engineer
+- Machine Learning Engineer
+- Python Developer
 - Künstliche Intelligenz
 - Maschinelles Lernen
-- Tiefes Lernen
 prefilter_min_score: 15
 tier_thresholds:
   strong: 75
   worth_look: 50
 company_targets:
-- name: Bosch
+- name: BMW
   ats: smartrecruiters
-  id: BoschGroup
-- name: Daimler
+  id: BMWGroup
+- name: Mercedes-Benz
   ats: smartrecruiters
-  id: DaimlerAG
+  id: MercedesBenz
 - name: Volkswagen
   ats: smartrecruiters
   id: VolkswagenGroup
